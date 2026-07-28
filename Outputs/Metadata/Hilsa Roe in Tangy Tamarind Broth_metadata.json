@@ -1,0 +1,2509 @@
+{
+  "video_info": {
+    "video_id": "Hilsa Roe in Tangy Tamarind Broth",
+    "video_name": "Hilsa Roe in Tangy Tamarind Broth.mp4",
+    "title": "Hilsa Roe In Tangy Tamarind Broth",
+    "category": "Cooking",
+    "language": "bn",
+    "duration": 69.11,
+    "fps": 23.98,
+    "width": 720,
+    "height": 1280,
+    "total_frames": 1657,
+    "file_size": "12.58 MB",
+    "video_path": "/kaggle/input/datasets/shibashismandal001/doi-chicken/Hilsa Roe in Tangy Tamarind Broth.mp4"
+  },
+  "recipe_information": {
+    "dish_type": "Hilsa Roe In Tangy Tamarind Broth",
+    "ingredients": [],
+    "estimated_steps": [],
+    "cuisine": "Bengali",
+    "tags": [
+      "Bengali",
+      "Cooking"
+    ],
+    "tips": []
+  },
+  "audio_information": {
+    "transcript_bn": "দিস ইজ দা বেস্ট ওয়ে টু হ্যাভ ইলিশের ডিম পিরিয়ড। দেখুন ঝোলে ঝালে ইলিশের ডিম ভাল লাগে না আমি বলছি না। বাট তারা সেই পেটির মধ্যে ঢুকে সাইড ক্যারেক্টার হয়েই থেকে যায়। আপনি বলুন ইলিশ মাছের ডিম কি এতই ফ্যাল না? ও কি একটা একটা মেইন ক্যারেক্টার ডিশ ডিজার্ভ করে না? ইলিশ মাছের ডিম দিয়ে তেঁতুলের টক মেরে কেটে 10 মিনিট লাগে বানাতে। শেষ পাতে এরকম কাঁচা লঙ্কা ডলে টকে মেখে এক চুমুক দিলেই আপনার অন্তরাত্মা নিজে বেরিয়ে এসে আপনাকে বলবে ভাই কি খাওয়ালি। প্রথমেই গরম জলে তেঁতুলটা টা ভিজিয়ে রাখবো বাট ছাঁকতে যাবেন না। এরকম ডলে ডলে হাত দিয়ে ছালগুলো বের করে নিন। ছেঁকে ফেললে তেঁতুলের এই কাতটাই পাবেন না। ব্যাস, কড়ায় সরষের তেল গরম করে পাঁচফোড়ন, শুকনো লঙ্কা, একটু হলুদ আর তেঁতুলের জলটা দিয়েই সঙ্গে সঙ্গে ঢাকা দিন। না হলে এই ছুঁকটা লক হবে না। ফুট উঠলে খুলে স্বাদমতো চিনি, চিনিটা একটু বেশি, নুনটা একটু কম। দু মিনিট ফুটিয়ে ওই কাঁচা ইলিশের ডিমগুলো পাঁচ মিনিট ঢাকা দেবো। ডিমগুলো একা একাই নিজের শেপ হোল্ড করবে আর টকটা যদি যদি বাসি করে খেতে চান তাহলে টকটা একটু বেশিই রাখবেন কারণ সময়ের সাথে সাথে ডিমগুলো টকটা অ্যাবজর্ব করতে থাকবে। ব্যাস, শেষ পাতে এরকম কাঁচা লঙ্কা ডলে টকটা মাখিয়ে টেল মি এর থেকে ভালো শেষ পাতের প্যালেট ক্লিনজার ইহজগতে আছে? কমেন্টে অবশ্যই জানান যদি নিরামিষ আমিষ আর কোন টকের রেসিপি চান। আজ আসি, আবার দেখা হবে।",
+    "transcript_en": "This is the best way to have Hilsa fish eggs. Look, I'm not saying that I don't like Hilsa fish eggs in the curry. But they enter that box and remain as side characters. Tell me, are the Hilsa fish eggs so delicious? Doesn't every main character deserve a dish? It takes 10 minutes to make it by adding Hilsa fish eggs and souring the tamarind. At the end of the meal, if you take a bite of this raw chili, rubbed and mashed, your inner self will come out and tell you, brother, what have I fed you. First, the tamarind in hot water I will soak it but don't drain it. Peel them like this, by hand. If you strain it, you won't get this side of the tamarind. That's it, heat mustard oil in a pan, add five-spice mix, dry chilies, a little turmeric, and tamarind water, and immediately cover it. Otherwise, this touch will not be locked. When the foot rises, open it and add sugar to taste. The sugar is a little more, the salt is a little less. Boil for two minutes and then cover the raw hilsa eggs for five minutes. The eggs will hold their shape on their own, and if the sourness If you want to eat it stale, then keep the sourness a little more because with time the eggs will absorb the sourness. That's it, at the end of the meal, like this, grating green chilies and mixing the sourness, tell me, is there a better palette cleanser than this in this world? Please let me know in the comments if you want any vegetarian or non-vegetarian or any other kind of recipe. I'll see you later.",
+    "timestamps": []
+  },
+  "shot_information": [
+    {
+      "shot_id": "shot_01",
+      "start_time": 0.0,
+      "end_time": 2.92,
+      "duration": 2.92,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_01.jpg"
+    },
+    {
+      "shot_id": "shot_02",
+      "start_time": 2.92,
+      "end_time": 5.63,
+      "duration": 2.71,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_02.jpg"
+    },
+    {
+      "shot_id": "shot_03",
+      "start_time": 5.63,
+      "end_time": 6.42,
+      "duration": 0.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_03.jpg"
+    },
+    {
+      "shot_id": "shot_04",
+      "start_time": 6.42,
+      "end_time": 7.3,
+      "duration": 0.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_04.jpg"
+    },
+    {
+      "shot_id": "shot_05",
+      "start_time": 7.3,
+      "end_time": 8.43,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_05.jpg"
+    },
+    {
+      "shot_id": "shot_06",
+      "start_time": 8.43,
+      "end_time": 12.05,
+      "duration": 3.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_06.jpg"
+    },
+    {
+      "shot_id": "shot_07",
+      "start_time": 12.05,
+      "end_time": 12.68,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_07.jpg"
+    },
+    {
+      "shot_id": "shot_08",
+      "start_time": 12.68,
+      "end_time": 13.35,
+      "duration": 0.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_08.jpg"
+    },
+    {
+      "shot_id": "shot_09",
+      "start_time": 13.35,
+      "end_time": 14.1,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_09.jpg"
+    },
+    {
+      "shot_id": "shot_10",
+      "start_time": 14.1,
+      "end_time": 17.06,
+      "duration": 2.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_10.jpg"
+    },
+    {
+      "shot_id": "shot_11",
+      "start_time": 17.06,
+      "end_time": 18.44,
+      "duration": 1.38,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_11.jpg"
+    },
+    {
+      "shot_id": "shot_12",
+      "start_time": 18.44,
+      "end_time": 19.1,
+      "duration": 0.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_12.jpg"
+    },
+    {
+      "shot_id": "shot_13",
+      "start_time": 19.1,
+      "end_time": 20.4,
+      "duration": 1.29,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_13.jpg"
+    },
+    {
+      "shot_id": "shot_14",
+      "start_time": 20.4,
+      "end_time": 23.98,
+      "duration": 3.59,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_14.jpg"
+    },
+    {
+      "shot_id": "shot_15",
+      "start_time": 23.98,
+      "end_time": 24.82,
+      "duration": 0.83,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_15.jpg"
+    },
+    {
+      "shot_id": "shot_16",
+      "start_time": 24.82,
+      "end_time": 25.57,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_16.jpg"
+    },
+    {
+      "shot_id": "shot_17",
+      "start_time": 25.57,
+      "end_time": 26.65,
+      "duration": 1.08,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_17.jpg"
+    },
+    {
+      "shot_id": "shot_18",
+      "start_time": 26.65,
+      "end_time": 27.44,
+      "duration": 0.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_18.jpg"
+    },
+    {
+      "shot_id": "shot_19",
+      "start_time": 27.44,
+      "end_time": 28.03,
+      "duration": 0.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_19.jpg"
+    },
+    {
+      "shot_id": "shot_20",
+      "start_time": 28.03,
+      "end_time": 28.65,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_20.jpg"
+    },
+    {
+      "shot_id": "shot_21",
+      "start_time": 28.65,
+      "end_time": 29.78,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_21.jpg"
+    },
+    {
+      "shot_id": "shot_22",
+      "start_time": 29.78,
+      "end_time": 32.16,
+      "duration": 2.38,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_22.jpg"
+    },
+    {
+      "shot_id": "shot_23",
+      "start_time": 32.16,
+      "end_time": 33.2,
+      "duration": 1.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_23.jpg"
+    },
+    {
+      "shot_id": "shot_24",
+      "start_time": 33.2,
+      "end_time": 34.08,
+      "duration": 0.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_24.jpg"
+    },
+    {
+      "shot_id": "shot_25",
+      "start_time": 34.08,
+      "end_time": 35.2,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_25.jpg"
+    },
+    {
+      "shot_id": "shot_26",
+      "start_time": 35.2,
+      "end_time": 35.95,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_26.jpg"
+    },
+    {
+      "shot_id": "shot_27",
+      "start_time": 35.95,
+      "end_time": 38.25,
+      "duration": 2.29,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_27.jpg"
+    },
+    {
+      "shot_id": "shot_28",
+      "start_time": 38.25,
+      "end_time": 40.62,
+      "duration": 2.38,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_28.jpg"
+    },
+    {
+      "shot_id": "shot_29",
+      "start_time": 40.62,
+      "end_time": 42.17,
+      "duration": 1.54,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_29.jpg"
+    },
+    {
+      "shot_id": "shot_30",
+      "start_time": 42.17,
+      "end_time": 43.29,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_30.jpg"
+    },
+    {
+      "shot_id": "shot_31",
+      "start_time": 43.29,
+      "end_time": 44.59,
+      "duration": 1.29,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_31.jpg"
+    },
+    {
+      "shot_id": "shot_32",
+      "start_time": 44.59,
+      "end_time": 45.38,
+      "duration": 0.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_32.jpg"
+    },
+    {
+      "shot_id": "shot_33",
+      "start_time": 45.38,
+      "end_time": 46.25,
+      "duration": 0.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_33.jpg"
+    },
+    {
+      "shot_id": "shot_34",
+      "start_time": 46.25,
+      "end_time": 47.38,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_34.jpg"
+    },
+    {
+      "shot_id": "shot_35",
+      "start_time": 47.38,
+      "end_time": 49.59,
+      "duration": 2.21,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_35.jpg"
+    },
+    {
+      "shot_id": "shot_36",
+      "start_time": 49.59,
+      "end_time": 51.26,
+      "duration": 1.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_36.jpg"
+    },
+    {
+      "shot_id": "shot_37",
+      "start_time": 51.26,
+      "end_time": 51.89,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_37.jpg"
+    },
+    {
+      "shot_id": "shot_38",
+      "start_time": 51.89,
+      "end_time": 52.55,
+      "duration": 0.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_38.jpg"
+    },
+    {
+      "shot_id": "shot_39",
+      "start_time": 52.55,
+      "end_time": 53.3,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_39.jpg"
+    },
+    {
+      "shot_id": "shot_40",
+      "start_time": 53.3,
+      "end_time": 56.26,
+      "duration": 2.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_40.jpg"
+    },
+    {
+      "shot_id": "shot_41",
+      "start_time": 56.26,
+      "end_time": 57.64,
+      "duration": 1.38,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_41.jpg"
+    },
+    {
+      "shot_id": "shot_42",
+      "start_time": 57.64,
+      "end_time": 58.31,
+      "duration": 0.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_42.jpg"
+    },
+    {
+      "shot_id": "shot_43",
+      "start_time": 58.31,
+      "end_time": 59.6,
+      "duration": 1.29,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_43.jpg"
+    },
+    {
+      "shot_id": "shot_44",
+      "start_time": 59.6,
+      "end_time": 63.48,
+      "duration": 3.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_44.jpg"
+    },
+    {
+      "shot_id": "shot_45",
+      "start_time": 63.48,
+      "end_time": 69.11,
+      "duration": 5.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_45.jpg"
+    }
+  ],
+  "frame_information": [
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_01_f1",
+      "shot_id": "shot_01",
+      "timestamp": 1.46,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_01.jpg",
+      "ocr_text": "fo ove | lo have"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_02_f1",
+      "shot_id": "shot_02",
+      "timestamp": 4.28,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_02.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_03_f1",
+      "shot_id": "shot_03",
+      "timestamp": 6.03,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_03.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_04_f1",
+      "shot_id": "shot_04",
+      "timestamp": 6.86,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_04.jpg",
+      "ocr_text": "sidle character | side character"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_05_f1",
+      "shot_id": "shot_05",
+      "timestamp": 7.86,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_05.jpg",
+      "ocr_text": "ছযেই থেঁকে যায় | ছয়েই থেকে যায়"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_06_f1",
+      "shot_id": "shot_06",
+      "timestamp": 10.24,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_06.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_07_f1",
+      "shot_id": "shot_07",
+      "timestamp": 12.37,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_07.jpg",
+      "ocr_text": "cugracter l5r | cungracter usn"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_08_f1",
+      "shot_id": "shot_08",
+      "timestamp": 13.01,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_08.jpg",
+      "ocr_text": "deserve"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_09_f1",
+      "shot_id": "shot_09",
+      "timestamp": 13.72,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_09.jpg",
+      "ocr_text": "ইলিশ ডিমের টক"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_10_f1",
+      "shot_id": "shot_10",
+      "timestamp": 15.58,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_10.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_11_f1",
+      "shot_id": "shot_11",
+      "timestamp": 17.75,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_11.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_12_f1",
+      "shot_id": "shot_12",
+      "timestamp": 18.77,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_12.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_13_f1",
+      "shot_id": "shot_13",
+      "timestamp": 19.75,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_13.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_14_f1",
+      "shot_id": "shot_14",
+      "timestamp": 22.19,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_14.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_15_f1",
+      "shot_id": "shot_15",
+      "timestamp": 24.4,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_15.jpg",
+      "ocr_text": "গরম জলে"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_16_f1",
+      "shot_id": "shot_16",
+      "timestamp": 25.19,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_16.jpg",
+      "ocr_text": "ভেভুলটী | ভেতুলটী"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_17_f1",
+      "shot_id": "shot_17",
+      "timestamp": 26.11,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_17.jpg",
+      "ocr_text": "B01 ছাঁকতে | BU1 ছাঁকতে"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_18_f1",
+      "shot_id": "shot_18",
+      "timestamp": 27.05,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_18.jpg",
+      "ocr_text": "যাবেন নী"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_19_f1",
+      "shot_id": "shot_19",
+      "timestamp": 27.74,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_19.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_20_f1",
+      "shot_id": "shot_20",
+      "timestamp": 28.34,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_20.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_21_f1",
+      "shot_id": "shot_21",
+      "timestamp": 29.22,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_21.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_22_f1",
+      "shot_id": "shot_22",
+      "timestamp": 30.97,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_22.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_23_f1",
+      "shot_id": "shot_23",
+      "timestamp": 32.68,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_23.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_24_f1",
+      "shot_id": "shot_24",
+      "timestamp": 33.64,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_24.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_25_f1",
+      "shot_id": "shot_25",
+      "timestamp": 34.64,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_25.jpg",
+      "ocr_text": "শুকনৌ লঙ্কী | শুকনো লঙ্কী"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_26_f1",
+      "shot_id": "shot_26",
+      "timestamp": 35.58,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_26.jpg",
+      "ocr_text": "একটু হলুদ"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_27_f1",
+      "shot_id": "shot_27",
+      "timestamp": 37.1,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_27.jpg",
+      "ocr_text": "জলটী দিয়েই"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_28_f1",
+      "shot_id": "shot_28",
+      "timestamp": 39.44,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_28.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_29_f1",
+      "shot_id": "shot_29",
+      "timestamp": 41.4,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_29.jpg",
+      "ocr_text": "চিনিটী একটু বেশি"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_30_f1",
+      "shot_id": "shot_30",
+      "timestamp": 42.73,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_30.jpg",
+      "ocr_text": "নুসটী একটু কম | নুনট একটু কম"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_31_f1",
+      "shot_id": "shot_31",
+      "timestamp": 43.94,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_31.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_32_f1",
+      "shot_id": "shot_32",
+      "timestamp": 44.98,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_32.jpg",
+      "ocr_text": "কাঁচা ইলিশের"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_33_f1",
+      "shot_id": "shot_33",
+      "timestamp": 45.82,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_33.jpg",
+      "ocr_text": "ডিমগুলৌ | ডিমগুলো"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_34_f1",
+      "shot_id": "shot_34",
+      "timestamp": 46.82,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_34.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_35_f1",
+      "shot_id": "shot_35",
+      "timestamp": 48.49,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_35.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_36_f1",
+      "shot_id": "shot_36",
+      "timestamp": 50.43,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_36.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_37_f1",
+      "shot_id": "shot_37",
+      "timestamp": 51.57,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_37.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_38_f1",
+      "shot_id": "shot_38",
+      "timestamp": 52.22,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_38.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_39_f1",
+      "shot_id": "shot_39",
+      "timestamp": 52.93,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_39.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_40_f1",
+      "shot_id": "shot_40",
+      "timestamp": 54.78,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_40.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_41_f1",
+      "shot_id": "shot_41",
+      "timestamp": 56.95,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_41.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_42_f1",
+      "shot_id": "shot_42",
+      "timestamp": 57.97,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_42.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_43_f1",
+      "shot_id": "shot_43",
+      "timestamp": 58.95,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_43.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_44_f1",
+      "shot_id": "shot_44",
+      "timestamp": 61.54,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_44.jpg",
+      "ocr_text": "শেষ পাডের | শেষ পাতের"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_45_f1",
+      "shot_id": "shot_45",
+      "timestamp": 66.3,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Hilsa Roe in Tangy Tamarind Broth/shot_45.jpg",
+      "ocr_text": ""
+    }
+  ],
+  "object_detection": [
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_01_f1",
+      "shot_id": "shot_01",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.84,
+          "bbox": [
+            0.0,
+            179.9,
+            720.0,
+            1200.78
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.7,
+          "bbox": [
+            74.86,
+            1025.67,
+            685.94,
+            1279.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_02_f1",
+      "shot_id": "shot_02",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.94,
+          "bbox": [
+            3.22,
+            420.55,
+            675.92,
+            1277.89
+          ]
+        },
+        {
+          "class_name": "umbrella",
+          "confidence": 0.51,
+          "bbox": [
+            2.69,
+            201.08,
+            439.86,
+            850.31
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_03_f1",
+      "shot_id": "shot_03",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.81,
+          "bbox": [
+            0.0,
+            428.29,
+            482.01,
+            961.65
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.68,
+          "bbox": [
+            0.73,
+            4.72,
+            635.26,
+            977.02
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.53,
+          "bbox": [
+            0.0,
+            874.0,
+            720.0,
+            1278.84
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_04_f1",
+      "shot_id": "shot_04",
+      "detected_objects": [
+        {
+          "class_name": "pizza",
+          "confidence": 0.46,
+          "bbox": [
+            2.26,
+            638.86,
+            712.34,
+            1179.2
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.39,
+          "bbox": [
+            0.0,
+            259.97,
+            719.22,
+            1277.41
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.27,
+          "bbox": [
+            0.57,
+            638.52,
+            714.23,
+            1184.85
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_05_f1",
+      "shot_id": "shot_05",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.76,
+          "bbox": [
+            335.14,
+            259.5,
+            577.6,
+            508.95
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.57,
+          "bbox": [
+            2.32,
+            1.1,
+            663.67,
+            784.96
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.56,
+          "bbox": [
+            4.22,
+            754.24,
+            716.61,
+            1256.66
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.45,
+          "bbox": [
+            2.88,
+            1036.89,
+            719.46,
+            1254.87
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_06_f1",
+      "shot_id": "shot_06",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.88,
+          "bbox": [
+            0.0,
+            573.7,
+            717.25,
+            1236.33
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.68,
+          "bbox": [
+            2.53,
+            500.15,
+            379.72,
+            988.56
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.64,
+          "bbox": [
+            2.74,
+            207.34,
+            718.18,
+            1269.83
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_07_f1",
+      "shot_id": "shot_07",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.9,
+          "bbox": [
+            0.0,
+            570.5,
+            718.34,
+            1232.93
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.73,
+          "bbox": [
+            2.28,
+            1.96,
+            549.65,
+            629.35
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_08_f1",
+      "shot_id": "shot_08",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.84,
+          "bbox": [
+            1.81,
+            389.62,
+            720.0,
+            1123.3
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.36,
+          "bbox": [
+            7.78,
+            412.3,
+            476.65,
+            760.44
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_09_f1",
+      "shot_id": "shot_09",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.81,
+          "bbox": [
+            2.04,
+            855.46,
+            718.06,
+            1217.29
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.56,
+          "bbox": [
+            1.28,
+            620.39,
+            315.8,
+            859.14
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_10_f1",
+      "shot_id": "shot_10",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.65,
+          "bbox": [
+            0.0,
+            300.14,
+            694.58,
+            953.07
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.62,
+          "bbox": [
+            6.28,
+            520.06,
+            710.21,
+            946.4
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.35,
+          "bbox": [
+            1.54,
+            500.62,
+            711.59,
+            1191.98
+          ]
+        },
+        {
+          "class_name": "vase",
+          "confidence": 0.33,
+          "bbox": [
+            421.54,
+            189.04,
+            720.0,
+            514.13
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_11_f1",
+      "shot_id": "shot_11",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.84,
+          "bbox": [
+            2.47,
+            220.52,
+            715.39,
+            1091.76
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.45,
+          "bbox": [
+            132.35,
+            1136.67,
+            720.0,
+            1279.64
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.32,
+          "bbox": [
+            0.0,
+            1.5,
+            720.0,
+            1200.65
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_12_f1",
+      "shot_id": "shot_12",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.76,
+          "bbox": [
+            2.7,
+            48.7,
+            717.74,
+            1103.14
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.36,
+          "bbox": [
+            133.2,
+            1160.61,
+            719.61,
+            1279.51
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.35,
+          "bbox": [
+            0.42,
+            1.25,
+            720.0,
+            1211.34
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_13_f1",
+      "shot_id": "shot_13",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.75,
+          "bbox": [
+            0.0,
+            10.32,
+            718.14,
+            992.86
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.65,
+          "bbox": [
+            87.37,
+            0.0,
+            716.06,
+            838.71
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_14_f1",
+      "shot_id": "shot_14",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.93,
+          "bbox": [
+            0.0,
+            395.91,
+            632.45,
+            1278.02
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.71,
+          "bbox": [
+            501.8,
+            1193.52,
+            702.84,
+            1279.32
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.35,
+          "bbox": [
+            500.93,
+            1193.54,
+            700.15,
+            1279.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_15_f1",
+      "shot_id": "shot_15",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.71,
+          "bbox": [
+            184.32,
+            593.68,
+            658.74,
+            891.23
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.51,
+          "bbox": [
+            0.0,
+            1.22,
+            526.84,
+            668.24
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.34,
+          "bbox": [
+            1.7,
+            5.2,
+            720.0,
+            820.65
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_16_f1",
+      "shot_id": "shot_16",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.82,
+          "bbox": [
+            2.1,
+            1.21,
+            706.46,
+            681.72
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.62,
+          "bbox": [
+            116.11,
+            590.64,
+            588.38,
+            874.79
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.35,
+          "bbox": [
+            41.75,
+            462.58,
+            364.77,
+            675.95
+          ]
+        },
+        {
+          "class_name": "toothbrush",
+          "confidence": 0.27,
+          "bbox": [
+            49.54,
+            452.82,
+            429.02,
+            708.86
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_17_f1",
+      "shot_id": "shot_17",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.64,
+          "bbox": [
+            0.86,
+            21.98,
+            391.08,
+            469.08
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.45,
+          "bbox": [
+            0.0,
+            382.07,
+            719.12,
+            813.83
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.41,
+          "bbox": [
+            462.84,
+            197.98,
+            719.65,
+            459.55
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.39,
+          "bbox": [
+            523.6,
+            195.96,
+            637.64,
+            294.95
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.38,
+          "bbox": [
+            505.9,
+            0.46,
+            631.6,
+            106.1
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.38,
+          "bbox": [
+            464.97,
+            282.92,
+            719.27,
+            458.68
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_18_f1",
+      "shot_id": "shot_18",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.77,
+          "bbox": [
+            0.0,
+            7.0,
+            622.71,
+            779.07
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.55,
+          "bbox": [
+            139.44,
+            579.03,
+            674.6,
+            943.71
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.28,
+          "bbox": [
+            2.94,
+            635.77,
+            720.0,
+            1277.99
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_19_f1",
+      "shot_id": "shot_19",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.84,
+          "bbox": [
+            91.15,
+            621.49,
+            623.33,
+            973.25
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.77,
+          "bbox": [
+            3.97,
+            1.93,
+            670.52,
+            801.39
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.38,
+          "bbox": [
+            592.38,
+            394.24,
+            719.27,
+            661.14
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_20_f1",
+      "shot_id": "shot_20",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.89,
+          "bbox": [
+            92.98,
+            724.06,
+            629.16,
+            1055.07
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.8,
+          "bbox": [
+            0.44,
+            4.44,
+            607.16,
+            859.54
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.34,
+          "bbox": [
+            596.07,
+            467.17,
+            719.4,
+            736.51
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_21_f1",
+      "shot_id": "shot_21",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.76,
+          "bbox": [
+            2.43,
+            0.0,
+            628.0,
+            936.94
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.74,
+          "bbox": [
+            113.73,
+            783.29,
+            628.18,
+            1111.25
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.39,
+          "bbox": [
+            576.67,
+            549.42,
+            719.93,
+            812.91
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.28,
+          "bbox": [
+            0.28,
+            891.81,
+            716.44,
+            1279.27
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_22_f1",
+      "shot_id": "shot_22",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.92,
+          "bbox": [
+            126.75,
+            840.27,
+            718.18,
+            1279.11
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.76,
+          "bbox": [
+            67.58,
+            440.92,
+            641.78,
+            927.06
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.62,
+          "bbox": [
+            252.74,
+            0.18,
+            718.74,
+            440.52
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_23_f1",
+      "shot_id": "shot_23",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.32,
+          "bbox": [
+            1.4,
+            1.5,
+            706.67,
+            581.53
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.32,
+          "bbox": [
+            7.52,
+            414.54,
+            720.0,
+            1035.46
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.28,
+          "bbox": [
+            16.15,
+            416.97,
+            719.54,
+            1151.65
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_24_f1",
+      "shot_id": "shot_24",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.68,
+          "bbox": [
+            0.6,
+            0.9,
+            398.02,
+            455.32
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.35,
+          "bbox": [
+            2.7,
+            230.62,
+            716.86,
+            1221.51
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_25_f1",
+      "shot_id": "shot_25",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.72,
+          "bbox": [
+            319.51,
+            0.72,
+            682.79,
+            539.06
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.32,
+          "bbox": [
+            1.19,
+            588.64,
+            110.53,
+            860.13
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.29,
+          "bbox": [
+            0.0,
+            110.99,
+            718.82,
+            1265.26
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_26_f1",
+      "shot_id": "shot_26",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_27_f1",
+      "shot_id": "shot_27",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.39,
+          "bbox": [
+            0.0,
+            612.09,
+            720.0,
+            1245.85
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_28_f1",
+      "shot_id": "shot_28",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.39,
+          "bbox": [
+            0.0,
+            493.73,
+            718.92,
+            1054.5
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.37,
+          "bbox": [
+            4.73,
+            724.46,
+            704.36,
+            1053.05
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.28,
+          "bbox": [
+            0.0,
+            0.0,
+            717.9,
+            1254.33
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.27,
+          "bbox": [
+            0.36,
+            78.34,
+            203.19,
+            369.23
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_29_f1",
+      "shot_id": "shot_29",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.6,
+          "bbox": [
+            0.74,
+            0.0,
+            719.35,
+            639.86
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.52,
+          "bbox": [
+            0.57,
+            564.38,
+            714.8,
+            1257.59
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.43,
+          "bbox": [
+            298.85,
+            5.95,
+            720.0,
+            612.43
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.3,
+          "bbox": [
+            2.14,
+            2.87,
+            720.0,
+            1253.44
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.3,
+          "bbox": [
+            2.06,
+            562.6,
+            719.25,
+            1077.3
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_30_f1",
+      "shot_id": "shot_30",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.72,
+          "bbox": [
+            335.33,
+            259.15,
+            577.74,
+            509.67
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.6,
+          "bbox": [
+            3.41,
+            746.74,
+            718.4,
+            1255.9
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.56,
+          "bbox": [
+            2.94,
+            1.04,
+            687.1,
+            754.91
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.48,
+          "bbox": [
+            2.13,
+            1037.34,
+            718.5,
+            1255.2
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.34,
+          "bbox": [
+            4.49,
+            1.46,
+            695.33,
+            1152.07
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.3,
+          "bbox": [
+            33.63,
+            504.94,
+            718.8,
+            1274.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_31_f1",
+      "shot_id": "shot_31",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.71,
+          "bbox": [
+            1.6,
+            1.62,
+            352.72,
+            450.76
+          ]
+        },
+        {
+          "class_name": "chair",
+          "confidence": 0.69,
+          "bbox": [
+            590.62,
+            256.61,
+            720.0,
+            454.22
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.49,
+          "bbox": [
+            1.59,
+            383.77,
+            714.27,
+            1271.01
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.35,
+          "bbox": [
+            1.26,
+            487.99,
+            305.63,
+            925.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_32_f1",
+      "shot_id": "shot_32",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.71,
+          "bbox": [
+            0.0,
+            429.17,
+            481.01,
+            961.91
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.65,
+          "bbox": [
+            2.96,
+            1.42,
+            633.09,
+            986.83
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.54,
+          "bbox": [
+            0.0,
+            880.75,
+            720.0,
+            1278.85
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_33_f1",
+      "shot_id": "shot_33",
+      "detected_objects": [
+        {
+          "class_name": "pizza",
+          "confidence": 0.52,
+          "bbox": [
+            2.11,
+            633.08,
+            710.93,
+            1183.12
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.27,
+          "bbox": [
+            1.9,
+            188.49,
+            718.3,
+            1275.88
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_34_f1",
+      "shot_id": "shot_34",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.46,
+          "bbox": [
+            3.5,
+            0.2,
+            565.01,
+            459.42
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.39,
+          "bbox": [
+            1.37,
+            0.28,
+            503.66,
+            296.43
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_35_f1",
+      "shot_id": "shot_35",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.79,
+          "bbox": [
+            1.51,
+            545.56,
+            716.01,
+            1269.15
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.5,
+          "bbox": [
+            0.04,
+            215.12,
+            718.41,
+            1277.04
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_36_f1",
+      "shot_id": "shot_36",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.89,
+          "bbox": [
+            0.0,
+            201.12,
+            720.0,
+            1260.13
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.85,
+          "bbox": [
+            77.92,
+            1013.81,
+            681.17,
+            1279.95
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.37,
+          "bbox": [
+            594.6,
+            974.41,
+            700.19,
+            1088.9
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_37_f1",
+      "shot_id": "shot_37",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.87,
+          "bbox": [
+            0.0,
+            578.04,
+            718.78,
+            1229.85
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.7,
+          "bbox": [
+            0.86,
+            1.2,
+            546.52,
+            646.24
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_38_f1",
+      "shot_id": "shot_38",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.62,
+          "bbox": [
+            0.0,
+            576.57,
+            718.76,
+            1117.76
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.59,
+          "bbox": [
+            3.25,
+            309.31,
+            719.83,
+            1119.03
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.3,
+          "bbox": [
+            2.35,
+            1175.95,
+            718.9,
+            1279.19
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_39_f1",
+      "shot_id": "shot_39",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.65,
+          "bbox": [
+            2.2,
+            855.62,
+            715.15,
+            1215.55
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.5,
+          "bbox": [
+            1.21,
+            619.98,
+            320.57,
+            859.48
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_40_f1",
+      "shot_id": "shot_40",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.64,
+          "bbox": [
+            0.0,
+            299.38,
+            692.77,
+            955.27
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.64,
+          "bbox": [
+            5.71,
+            520.48,
+            709.57,
+            944.77
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.36,
+          "bbox": [
+            1.46,
+            494.77,
+            711.64,
+            1192.92
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_41_f1",
+      "shot_id": "shot_41",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.83,
+          "bbox": [
+            3.4,
+            160.92,
+            714.46,
+            1091.57
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.5,
+          "bbox": [
+            137.84,
+            1136.82,
+            720.0,
+            1279.65
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.28,
+          "bbox": [
+            0.0,
+            1.01,
+            718.32,
+            1204.14
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_42_f1",
+      "shot_id": "shot_42",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.68,
+          "bbox": [
+            0.0,
+            51.77,
+            717.72,
+            1100.29
+          ]
+        },
+        {
+          "class_name": "carrot",
+          "confidence": 0.42,
+          "bbox": [
+            100.53,
+            1157.35,
+            720.0,
+            1279.41
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.34,
+          "bbox": [
+            126.69,
+            1156.87,
+            719.63,
+            1279.51
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.32,
+          "bbox": [
+            0.32,
+            0.77,
+            720.0,
+            1199.54
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_43_f1",
+      "shot_id": "shot_43",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.75,
+          "bbox": [
+            0.0,
+            0.0,
+            718.29,
+            993.46
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.66,
+          "bbox": [
+            91.65,
+            0.0,
+            716.44,
+            832.49
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_44_f1",
+      "shot_id": "shot_44",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.94,
+          "bbox": [
+            2.88,
+            416.52,
+            694.01,
+            1278.26
+          ]
+        },
+        {
+          "class_name": "cell phone",
+          "confidence": 0.28,
+          "bbox": [
+            492.92,
+            837.38,
+            676.21,
+            952.79
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_45_f1",
+      "shot_id": "shot_45",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.94,
+          "bbox": [
+            2.41,
+            415.75,
+            683.87,
+            1278.5
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.48,
+          "bbox": [
+            442.63,
+            1242.76,
+            643.52,
+            1279.65
+          ]
+        }
+      ]
+    }
+  ],
+  "visual_descriptions": [
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_01_f1",
+      "shot_id": "shot_01",
+      "description": "The woman is stirring a pot with a spoon, likely preparing a dish.",
+      "ocr_text": "fo ove | lo have"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_02_f1",
+      "shot_id": "shot_02",
+      "description": "The cooking action in the video is to taste a bowl of soup.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_03_f1",
+      "shot_id": "shot_03",
+      "description": "A person is holding a piece of meat over a pan of boiling oil, likely preparing to add it to the dish.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_04_f1",
+      "shot_id": "shot_04",
+      "description": "The cooking action is sautéing the ingredients in a wok.",
+      "ocr_text": "sidle character | side character"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_05_f1",
+      "shot_id": "shot_05",
+      "description": "Add a pinch of salt to the cooking dish.",
+      "ocr_text": "ছযেই থেঁকে যায় | ছয়েই থেকে যায়"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_06_f1",
+      "shot_id": "shot_06",
+      "description": "The cooking action involves stirring a mixture of ingredients in a pan using a fork.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_07_f1",
+      "shot_id": "shot_07",
+      "description": "The cooking action is serving the character dish, which appears to be a bowl of stew with a spoon.",
+      "ocr_text": "cugracter l5r | cungracter usn"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_08_f1",
+      "shot_id": "shot_08",
+      "description": "The cooking action is serving a bowl of soup with a spoon.",
+      "ocr_text": "deserve"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_09_f1",
+      "shot_id": "shot_09",
+      "description": "The cooking action involves serving a steaming bowl of a rich, brown stew with a spoon.",
+      "ocr_text": "ইলিশ ডিমের টক"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_10_f1",
+      "shot_id": "shot_10",
+      "description": "The cooking action is to serve the soup in a bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_11_f1",
+      "shot_id": "shot_11",
+      "description": "A ladle is being used to pour a brown sauce into a small bowl, likely to be used in a cooking process.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_12_f1",
+      "shot_id": "shot_12",
+      "description": "A spoon is being used to scoop a spoonful of a dark brown soup from a bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_13_f1",
+      "shot_id": "shot_13",
+      "description": "A person is dipping a piece of food into a bowl of sauce.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_14_f1",
+      "shot_id": "shot_14",
+      "description": "The woman in the video is holding a bowl of food, possibly a pasta dish, and appears to be enjoying the aroma of the dish.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_15_f1",
+      "shot_id": "shot_15",
+      "description": "The person is preparing a bowl of water with a small amount of salt.",
+      "ocr_text": "গরম জলে"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_16_f1",
+      "shot_id": "shot_16",
+      "description": "The person is using a spoon to stir a bowl of food.",
+      "ocr_text": "ভেভুলটী | ভেতুলটী"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_17_f1",
+      "shot_id": "shot_17",
+      "description": "The person is covering a bowl with a lid, likely to cook or heat the contents.",
+      "ocr_text": "B01 ছাঁকতে | BU1 ছাঁকতে"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_18_f1",
+      "shot_id": "shot_18",
+      "description": "A person is dipping a piece of bread into a bowl of honey.",
+      "ocr_text": "যাবেন নী"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_19_f1",
+      "shot_id": "shot_19",
+      "description": "A person is dipping their finger into a bowl of caramel sauce.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_20_f1",
+      "shot_id": "shot_20",
+      "description": "A person is using their fingers to mix a brown sauce in a small bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_21_f1",
+      "shot_id": "shot_21",
+      "description": "A person is dipping a piece of bread into a bowl of honey.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_22_f1",
+      "shot_id": "shot_22",
+      "description": "A person is dipping a piece of meat into a bowl of sauce.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_23_f1",
+      "shot_id": "shot_23",
+      "description": "To start cooking, I'm pouring olive oil into a hot wok.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_24_f1",
+      "shot_id": "shot_24",
+      "description": "I'm sorry, but I cannot provide a response without a specific cooking action, ingredients, or utensil. Please provide more details.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_25_f1",
+      "shot_id": "shot_25",
+      "description": "Add red chili peppers to the wok with the oil and spices.",
+      "ocr_text": "শুকনৌ লঙ্কী | শুকনো লঙ্কী"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_26_f1",
+      "shot_id": "shot_26",
+      "description": "Adding turmeric to the pan.",
+      "ocr_text": "একটু হলুদ"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_27_f1",
+      "shot_id": "shot_27",
+      "description": "Adding water to the wok.",
+      "ocr_text": "জলটী দিয়েই"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_28_f1",
+      "shot_id": "shot_28",
+      "description": "Pouring water over a simmering sauce in a wok.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_29_f1",
+      "shot_id": "shot_29",
+      "description": "Add a pinch of salt to the pan.",
+      "ocr_text": "চিনিটী একটু বেশি"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_30_f1",
+      "shot_id": "shot_30",
+      "description": "Add a pinch of salt to the pan.",
+      "ocr_text": "নুসটী একটু কম | নুনট একটু কম"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_31_f1",
+      "shot_id": "shot_31",
+      "description": "The cooking action involves stirring a sauce in a wok with a spatula.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_32_f1",
+      "shot_id": "shot_32",
+      "description": "The cooking action is to add a piece of meat to the pan.",
+      "ocr_text": "কাঁচা ইলিশের"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_33_f1",
+      "shot_id": "shot_33",
+      "description": "The cooking action is adding a pinch of salt to the pan.",
+      "ocr_text": "ডিমগুলৌ | ডিমগুলো"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_34_f1",
+      "shot_id": "shot_34",
+      "description": "The cooking action is to cover the pot with a lid to cook the food.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_35_f1",
+      "shot_id": "shot_35",
+      "description": "The cooking action involves stirring a stew in a wok.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_36_f1",
+      "shot_id": "shot_36",
+      "description": "The woman is tasting a spoonful of a dish she is cooking in a large wok.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_37_f1",
+      "shot_id": "shot_37",
+      "description": "A person is holding a bowl of food, possibly a stew or soup, with a spoon in it.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_38_f1",
+      "shot_id": "shot_38",
+      "description": "A person is using a spoon to scoop a serving of a stew from a bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_39_f1",
+      "shot_id": "shot_39",
+      "description": "A person is using a spoon to serve a bowl of soup, which appears to be hot and steamy.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_40_f1",
+      "shot_id": "shot_40",
+      "description": "The cooking action is to serve the soup in a bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_41_f1",
+      "shot_id": "shot_41",
+      "description": "A person is pouring a brown sauce from a ladle into a small bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_42_f1",
+      "shot_id": "shot_42",
+      "description": "A spoon is being used to scoop a small portion of a soup or stew from a bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_43_f1",
+      "shot_id": "shot_43",
+      "description": "A hand is shown dipping a piece of food into a bowl of sauce.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_44_f1",
+      "shot_id": "shot_44",
+      "description": "The cooking action in the video involves a woman holding a bowl, possibly indicating the start of a cooking process or a demonstration of a dish.",
+      "ocr_text": "শেষ পাডের | শেষ পাতের"
+    },
+    {
+      "frame_id": "Hilsa Roe in Tangy Tamarind Broth_shot_45_f1",
+      "shot_id": "shot_45",
+      "description": "The woman in the video is preparing a dish, possibly a salad, using a bowl and possibly a spoon or spatula.",
+      "ocr_text": ""
+    }
+  ]
+}

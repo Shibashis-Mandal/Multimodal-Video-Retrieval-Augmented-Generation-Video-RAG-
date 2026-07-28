@@ -1,0 +1,4477 @@
+{
+  "video_info": {
+    "video_id": "Caramel Custard",
+    "video_name": "Caramel Custard.mp4",
+    "title": "Caramel Custard",
+    "category": "Cooking",
+    "language": "bn",
+    "duration": 118.91,
+    "fps": 23.98,
+    "width": 720,
+    "height": 1280,
+    "total_frames": 2851,
+    "file_size": "14.74 MB",
+    "video_path": "/kaggle/input/datasets/shibashismandal001/doi-chicken/Caramel Custard.mp4"
+  },
+  "recipe_information": {
+    "dish_type": "Custard",
+    "ingredients": {
+      "caramel": [
+        "½ cup (100 g) sugar",
+        "1 tbsp water",
+        "A pinch of pink salt"
+      ],
+      "custard": [
+        "350 ml milk",
+        "2 whole eggs",
+        "1 egg yolk",
+        "2 tbsp sugar",
+        "1 tsp vanilla extract",
+        "A pinch of pink salt"
+      ]
+    },
+    "estimated_steps": [
+      "Make the caramel:",
+      "Prepare the custard:",
+      "Fill the mold:",
+      "Steam:"
+    ],
+    "cuisine": "Indian",
+    "tags": [
+      "flan",
+      "custard",
+      "sugar",
+      "milk"
+    ],
+    "tips": []
+  },
+  "audio_information": {
+    "transcript_bn": "",
+    "transcript_en": "",
+    "timestamps": []
+  },
+  "shot_information": [
+    {
+      "shot_id": "shot_01",
+      "start_time": 0.0,
+      "end_time": 3.34,
+      "duration": 3.34,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_01.jpg"
+    },
+    {
+      "shot_id": "shot_02",
+      "start_time": 3.34,
+      "end_time": 4.21,
+      "duration": 0.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_02.jpg"
+    },
+    {
+      "shot_id": "shot_03",
+      "start_time": 4.21,
+      "end_time": 6.09,
+      "duration": 1.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_03.jpg"
+    },
+    {
+      "shot_id": "shot_04",
+      "start_time": 6.09,
+      "end_time": 8.59,
+      "duration": 2.5,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_04.jpg"
+    },
+    {
+      "shot_id": "shot_05",
+      "start_time": 8.59,
+      "end_time": 9.26,
+      "duration": 0.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_05.jpg"
+    },
+    {
+      "shot_id": "shot_06",
+      "start_time": 9.26,
+      "end_time": 12.47,
+      "duration": 3.21,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_06.jpg"
+    },
+    {
+      "shot_id": "shot_07",
+      "start_time": 12.47,
+      "end_time": 15.77,
+      "duration": 3.29,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_07.jpg"
+    },
+    {
+      "shot_id": "shot_08",
+      "start_time": 15.77,
+      "end_time": 19.31,
+      "duration": 3.55,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_08.jpg"
+    },
+    {
+      "shot_id": "shot_09",
+      "start_time": 19.31,
+      "end_time": 20.98,
+      "duration": 1.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_09.jpg"
+    },
+    {
+      "shot_id": "shot_10",
+      "start_time": 20.98,
+      "end_time": 22.06,
+      "duration": 1.08,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_10.jpg"
+    },
+    {
+      "shot_id": "shot_11",
+      "start_time": 22.06,
+      "end_time": 23.4,
+      "duration": 1.33,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_11.jpg"
+    },
+    {
+      "shot_id": "shot_12",
+      "start_time": 23.4,
+      "end_time": 23.98,
+      "duration": 0.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_12.jpg"
+    },
+    {
+      "shot_id": "shot_13",
+      "start_time": 23.98,
+      "end_time": 25.03,
+      "duration": 1.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_13.jpg"
+    },
+    {
+      "shot_id": "shot_14",
+      "start_time": 25.03,
+      "end_time": 27.61,
+      "duration": 2.59,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_14.jpg"
+    },
+    {
+      "shot_id": "shot_15",
+      "start_time": 27.61,
+      "end_time": 28.61,
+      "duration": 1.0,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_15.jpg"
+    },
+    {
+      "shot_id": "shot_16",
+      "start_time": 28.61,
+      "end_time": 29.82,
+      "duration": 1.21,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_16.jpg"
+    },
+    {
+      "shot_id": "shot_17",
+      "start_time": 29.82,
+      "end_time": 30.7,
+      "duration": 0.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_17.jpg"
+    },
+    {
+      "shot_id": "shot_18",
+      "start_time": 30.7,
+      "end_time": 32.07,
+      "duration": 1.38,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_18.jpg"
+    },
+    {
+      "shot_id": "shot_19",
+      "start_time": 32.07,
+      "end_time": 32.82,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_19.jpg"
+    },
+    {
+      "shot_id": "shot_20",
+      "start_time": 32.82,
+      "end_time": 33.41,
+      "duration": 0.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_20.jpg"
+    },
+    {
+      "shot_id": "shot_21",
+      "start_time": 33.41,
+      "end_time": 34.33,
+      "duration": 0.92,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_21.jpg"
+    },
+    {
+      "shot_id": "shot_22",
+      "start_time": 34.33,
+      "end_time": 36.29,
+      "duration": 1.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_22.jpg"
+    },
+    {
+      "shot_id": "shot_23",
+      "start_time": 36.29,
+      "end_time": 38.25,
+      "duration": 1.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_23.jpg"
+    },
+    {
+      "shot_id": "shot_24",
+      "start_time": 38.25,
+      "end_time": 40.08,
+      "duration": 1.84,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_24.jpg"
+    },
+    {
+      "shot_id": "shot_25",
+      "start_time": 40.08,
+      "end_time": 40.71,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_25.jpg"
+    },
+    {
+      "shot_id": "shot_26",
+      "start_time": 40.71,
+      "end_time": 42.04,
+      "duration": 1.33,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_26.jpg"
+    },
+    {
+      "shot_id": "shot_27",
+      "start_time": 42.04,
+      "end_time": 44.29,
+      "duration": 2.25,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_27.jpg"
+    },
+    {
+      "shot_id": "shot_28",
+      "start_time": 44.29,
+      "end_time": 46.67,
+      "duration": 2.38,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_28.jpg"
+    },
+    {
+      "shot_id": "shot_29",
+      "start_time": 46.67,
+      "end_time": 48.21,
+      "duration": 1.54,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_29.jpg"
+    },
+    {
+      "shot_id": "shot_30",
+      "start_time": 48.21,
+      "end_time": 49.72,
+      "duration": 1.5,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_30.jpg"
+    },
+    {
+      "shot_id": "shot_31",
+      "start_time": 49.72,
+      "end_time": 51.26,
+      "duration": 1.54,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_31.jpg"
+    },
+    {
+      "shot_id": "shot_32",
+      "start_time": 51.26,
+      "end_time": 52.3,
+      "duration": 1.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_32.jpg"
+    },
+    {
+      "shot_id": "shot_33",
+      "start_time": 52.3,
+      "end_time": 54.6,
+      "duration": 2.29,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_33.jpg"
+    },
+    {
+      "shot_id": "shot_34",
+      "start_time": 54.6,
+      "end_time": 56.51,
+      "duration": 1.92,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_34.jpg"
+    },
+    {
+      "shot_id": "shot_35",
+      "start_time": 56.51,
+      "end_time": 57.64,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_35.jpg"
+    },
+    {
+      "shot_id": "shot_36",
+      "start_time": 57.64,
+      "end_time": 59.98,
+      "duration": 2.34,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_36.jpg"
+    },
+    {
+      "shot_id": "shot_37",
+      "start_time": 59.98,
+      "end_time": 61.06,
+      "duration": 1.08,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_37.jpg"
+    },
+    {
+      "shot_id": "shot_38",
+      "start_time": 61.06,
+      "end_time": 61.81,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_38.jpg"
+    },
+    {
+      "shot_id": "shot_39",
+      "start_time": 61.81,
+      "end_time": 62.6,
+      "duration": 0.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_39.jpg"
+    },
+    {
+      "shot_id": "shot_40",
+      "start_time": 62.6,
+      "end_time": 64.06,
+      "duration": 1.46,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_40.jpg"
+    },
+    {
+      "shot_id": "shot_41",
+      "start_time": 64.06,
+      "end_time": 65.86,
+      "duration": 1.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_41.jpg"
+    },
+    {
+      "shot_id": "shot_42",
+      "start_time": 65.86,
+      "end_time": 66.9,
+      "duration": 1.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_42.jpg"
+    },
+    {
+      "shot_id": "shot_43",
+      "start_time": 66.9,
+      "end_time": 67.94,
+      "duration": 1.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_43.jpg"
+    },
+    {
+      "shot_id": "shot_44",
+      "start_time": 67.94,
+      "end_time": 68.86,
+      "duration": 0.92,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_44.jpg"
+    },
+    {
+      "shot_id": "shot_45",
+      "start_time": 68.86,
+      "end_time": 69.74,
+      "duration": 0.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_45.jpg"
+    },
+    {
+      "shot_id": "shot_46",
+      "start_time": 69.74,
+      "end_time": 70.9,
+      "duration": 1.17,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_46.jpg"
+    },
+    {
+      "shot_id": "shot_47",
+      "start_time": 70.9,
+      "end_time": 72.95,
+      "duration": 2.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_47.jpg"
+    },
+    {
+      "shot_id": "shot_48",
+      "start_time": 72.95,
+      "end_time": 73.57,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_48.jpg"
+    },
+    {
+      "shot_id": "shot_49",
+      "start_time": 73.57,
+      "end_time": 74.24,
+      "duration": 0.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_49.jpg"
+    },
+    {
+      "shot_id": "shot_50",
+      "start_time": 74.24,
+      "end_time": 74.91,
+      "duration": 0.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_50.jpg"
+    },
+    {
+      "shot_id": "shot_51",
+      "start_time": 74.91,
+      "end_time": 75.49,
+      "duration": 0.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_51.jpg"
+    },
+    {
+      "shot_id": "shot_52",
+      "start_time": 75.49,
+      "end_time": 76.7,
+      "duration": 1.21,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_52.jpg"
+    },
+    {
+      "shot_id": "shot_53",
+      "start_time": 76.7,
+      "end_time": 77.33,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_53.jpg"
+    },
+    {
+      "shot_id": "shot_54",
+      "start_time": 77.33,
+      "end_time": 78.62,
+      "duration": 1.29,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_54.jpg"
+    },
+    {
+      "shot_id": "shot_55",
+      "start_time": 78.62,
+      "end_time": 79.16,
+      "duration": 0.54,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_55.jpg"
+    },
+    {
+      "shot_id": "shot_56",
+      "start_time": 79.16,
+      "end_time": 80.12,
+      "duration": 0.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_56.jpg"
+    },
+    {
+      "shot_id": "shot_57",
+      "start_time": 80.12,
+      "end_time": 80.75,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_57.jpg"
+    },
+    {
+      "shot_id": "shot_58",
+      "start_time": 80.75,
+      "end_time": 82.5,
+      "duration": 1.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_58.jpg"
+    },
+    {
+      "shot_id": "shot_59",
+      "start_time": 82.5,
+      "end_time": 83.25,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_59.jpg"
+    },
+    {
+      "shot_id": "shot_60",
+      "start_time": 83.25,
+      "end_time": 84.29,
+      "duration": 1.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_60.jpg"
+    },
+    {
+      "shot_id": "shot_61",
+      "start_time": 84.29,
+      "end_time": 85.04,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_61.jpg"
+    },
+    {
+      "shot_id": "shot_62",
+      "start_time": 85.04,
+      "end_time": 86.29,
+      "duration": 1.25,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_62.jpg"
+    },
+    {
+      "shot_id": "shot_63",
+      "start_time": 86.29,
+      "end_time": 87.75,
+      "duration": 1.46,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_63.jpg"
+    },
+    {
+      "shot_id": "shot_64",
+      "start_time": 87.75,
+      "end_time": 89.46,
+      "duration": 1.71,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_64.jpg"
+    },
+    {
+      "shot_id": "shot_65",
+      "start_time": 89.46,
+      "end_time": 90.59,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_65.jpg"
+    },
+    {
+      "shot_id": "shot_66",
+      "start_time": 90.59,
+      "end_time": 91.34,
+      "duration": 0.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_66.jpg"
+    },
+    {
+      "shot_id": "shot_67",
+      "start_time": 91.34,
+      "end_time": 92.18,
+      "duration": 0.83,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_67.jpg"
+    },
+    {
+      "shot_id": "shot_68",
+      "start_time": 92.18,
+      "end_time": 92.88,
+      "duration": 0.71,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_68.jpg"
+    },
+    {
+      "shot_id": "shot_69",
+      "start_time": 92.88,
+      "end_time": 93.84,
+      "duration": 0.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_69.jpg"
+    },
+    {
+      "shot_id": "shot_70",
+      "start_time": 93.84,
+      "end_time": 94.55,
+      "duration": 0.71,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_70.jpg"
+    },
+    {
+      "shot_id": "shot_71",
+      "start_time": 94.55,
+      "end_time": 95.55,
+      "duration": 1.0,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_71.jpg"
+    },
+    {
+      "shot_id": "shot_72",
+      "start_time": 95.55,
+      "end_time": 97.81,
+      "duration": 2.25,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_72.jpg"
+    },
+    {
+      "shot_id": "shot_73",
+      "start_time": 97.81,
+      "end_time": 99.68,
+      "duration": 1.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_73.jpg"
+    },
+    {
+      "shot_id": "shot_74",
+      "start_time": 99.68,
+      "end_time": 102.02,
+      "duration": 2.34,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_74.jpg"
+    },
+    {
+      "shot_id": "shot_75",
+      "start_time": 102.02,
+      "end_time": 105.44,
+      "duration": 3.42,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_75.jpg"
+    },
+    {
+      "shot_id": "shot_76",
+      "start_time": 105.44,
+      "end_time": 110.4,
+      "duration": 4.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_76.jpg"
+    },
+    {
+      "shot_id": "shot_77",
+      "start_time": 110.4,
+      "end_time": 113.15,
+      "duration": 2.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_77.jpg"
+    },
+    {
+      "shot_id": "shot_78",
+      "start_time": 113.15,
+      "end_time": 118.91,
+      "duration": 5.76,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_78.jpg"
+    }
+  ],
+  "frame_information": [
+    {
+      "frame_id": "Caramel Custard_shot_01_f1",
+      "shot_id": "shot_01",
+      "timestamp": 1.67,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_01.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_02_f1",
+      "shot_id": "shot_02",
+      "timestamp": 3.77,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_02.jpg",
+      "ocr_text": "resipe খুঁজছেন"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_03_f1",
+      "shot_id": "shot_03",
+      "timestamp": 5.15,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_03.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_04_f1",
+      "shot_id": "shot_04",
+      "timestamp": 7.34,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_04.jpg",
+      "ocr_text": "Ilhe Bosiest | Ilhe ওos1est"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_05_f1",
+      "shot_id": "shot_05",
+      "timestamp": 8.93,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_05.jpg",
+      "ocr_text": "cororel ৫ustcrrdl এর | Caramel Custard এর"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_06_f1",
+      "shot_id": "shot_06",
+      "timestamp": 10.87,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_06.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_07_f1",
+      "shot_id": "shot_07",
+      "timestamp": 14.12,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_07.jpg",
+      "ocr_text": "নিটোল সুদৃশ্য"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_08_f1",
+      "shot_id": "shot_08",
+      "timestamp": 17.54,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_08.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_09_f1",
+      "shot_id": "shot_09",
+      "timestamp": 20.15,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_09.jpg",
+      "ocr_text": "Betgint IMKtTcs C8৬ 583 | 450 | peitgint Mtya Co৬ 3 | 450 M0iL"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_10_f1",
+      "shot_id": "shot_10",
+      "timestamp": 21.52,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_10.jpg",
+      "ocr_text": "iয6 ৩ Cov | Pasteurrized | Zide Cov | Pasteurized"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_11_f1",
+      "shot_id": "shot_11",
+      "timestamp": 22.73,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_11.jpg",
+      "ocr_text": "g ৪ | 9 8"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_12_f1",
+      "shot_id": "shot_12",
+      "timestamp": 23.69,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_12.jpg",
+      "ocr_text": "2 bs3 চিনি | 2tbs9 চিনি"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_13_f1",
+      "shot_id": "shot_13",
+      "timestamp": 24.5,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_13.jpg",
+      "ocr_text": "2tbsp চিনি"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_14_f1",
+      "shot_id": "shot_14",
+      "timestamp": 26.32,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_14.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_15_f1",
+      "shot_id": "shot_15",
+      "timestamp": 28.11,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_15.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_16_f1",
+      "shot_id": "shot_16",
+      "timestamp": 29.22,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_16.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_17_f1",
+      "shot_id": "shot_17",
+      "timestamp": 30.26,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_17.jpg",
+      "ocr_text": "দুটো গোট ডিম | দুটো গোটী ডিম"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_18_f1",
+      "shot_id": "shot_18",
+      "timestamp": 31.39,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_18.jpg",
+      "ocr_text": "একটী ডিমের কুসুম"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_19_f1",
+      "shot_id": "shot_19",
+      "timestamp": 32.45,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_19.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_20_f1",
+      "shot_id": "shot_20",
+      "timestamp": 33.12,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_20.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_21_f1",
+      "shot_id": "shot_21",
+      "timestamp": 33.87,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_21.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_22_f1",
+      "shot_id": "shot_22",
+      "timestamp": 35.31,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_22.jpg",
+      "ocr_text": "ডাগভে থক্য | ড তে থ ছ"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_23_f1",
+      "shot_id": "shot_23",
+      "timestamp": 37.27,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_23.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_24_f1",
+      "shot_id": "shot_24",
+      "timestamp": 39.16,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_24.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_25_f1",
+      "shot_id": "shot_25",
+      "timestamp": 40.39,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_25.jpg",
+      "ocr_text": "একটু নুন"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_26_f1",
+      "shot_id": "shot_26",
+      "timestamp": 41.37,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_26.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_27_f1",
+      "shot_id": "shot_27",
+      "timestamp": 43.17,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_27.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_28_f1",
+      "shot_id": "shot_28",
+      "timestamp": 45.48,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_28.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_29_f1",
+      "shot_id": "shot_29",
+      "timestamp": 47.44,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_29.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_30_f1",
+      "shot_id": "shot_30",
+      "timestamp": 48.97,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_30.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_31_f1",
+      "shot_id": "shot_31",
+      "timestamp": 50.49,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_31.jpg",
+      "ocr_text": "খোঁচাখুঁচি করলেই"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_32_f1",
+      "shot_id": "shot_32",
+      "timestamp": 51.78,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_32.jpg",
+      "ocr_text": "crystallizzgtion"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_33_f1",
+      "shot_id": "shot_33",
+      "timestamp": 53.45,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_33.jpg",
+      "ocr_text": "পষাe"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_34_f1",
+      "shot_id": "shot_34",
+      "timestamp": 55.56,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_34.jpg",
+      "ocr_text": "ঢuvp | চum"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_35_f1",
+      "shot_id": "shot_35",
+      "timestamp": 57.08,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_35.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_36_f1",
+      "shot_id": "shot_36",
+      "timestamp": 58.81,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_36.jpg",
+      "ocr_text": "এইরকম colour"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_37_f1",
+      "shot_id": "shot_37",
+      "timestamp": 60.52,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_37.jpg",
+      "ocr_text": "একটু জল"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_38_f1",
+      "shot_id": "shot_38",
+      "timestamp": 61.44,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_38.jpg",
+      "ocr_text": "নাড়ান | নাড়ীন"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_39_f1",
+      "shot_id": "shot_39",
+      "timestamp": 62.21,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_39.jpg",
+      "ocr_text": "গ্যাস বগন্ধ | গ্যাস বন্ধ"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_40_f1",
+      "shot_id": "shot_40",
+      "timestamp": 63.33,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_40.jpg",
+      "ocr_text": "ready"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_41_f1",
+      "shot_id": "shot_41",
+      "timestamp": 64.96,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_41.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_42_f1",
+      "shot_id": "shot_42",
+      "timestamp": 66.38,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_42.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_43_f1",
+      "shot_id": "shot_43",
+      "timestamp": 67.42,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_43.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_44_f1",
+      "shot_id": "shot_44",
+      "timestamp": 68.4,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_44.jpg",
+      "ocr_text": "J৩3 দু মিনিটে"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_45_f1",
+      "shot_id": "shot_45",
+      "timestamp": 69.3,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_45.jpg",
+      "ocr_text": "salramel শক্ত | sclramel শক্ত"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_46_f1",
+      "shot_id": "shot_46",
+      "timestamp": 70.32,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_46.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_47_f1",
+      "shot_id": "shot_47",
+      "timestamp": 71.93,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_47.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_48_f1",
+      "shot_id": "shot_48",
+      "timestamp": 73.26,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_48.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_49_f1",
+      "shot_id": "shot_49",
+      "timestamp": 73.91,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_49.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_50_f1",
+      "shot_id": "shot_50",
+      "timestamp": 74.57,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_50.jpg",
+      "ocr_text": "NDjj j gj9jjble | Jloj I5gj9 jable"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_51_f1",
+      "shot_id": "shot_51",
+      "timestamp": 75.2,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_51.jpg",
+      "ocr_text": "Non Nlegjjiule | Non Negoljsble"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_52_f1",
+      "shot_id": "shot_52",
+      "timestamp": 76.1,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_52.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_53_f1",
+      "shot_id": "shot_53",
+      "timestamp": 77.01,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_53.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_54_f1",
+      "shot_id": "shot_54",
+      "timestamp": 77.97,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_54.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_55_f1",
+      "shot_id": "shot_55",
+      "timestamp": 78.89,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_55.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_56_f1",
+      "shot_id": "shot_56",
+      "timestamp": 79.64,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_56.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_57_f1",
+      "shot_id": "shot_57",
+      "timestamp": 80.43,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_57.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_58_f1",
+      "shot_id": "shot_58",
+      "timestamp": 81.62,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_58.jpg",
+      "ocr_text": "30 থেঁকে"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_59_f1",
+      "shot_id": "shot_59",
+      "timestamp": 82.87,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_59.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_60_f1",
+      "shot_id": "shot_60",
+      "timestamp": 83.77,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_60.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_61_f1",
+      "shot_id": "shot_61",
+      "timestamp": 84.67,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_61.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_62_f1",
+      "shot_id": "shot_62",
+      "timestamp": 85.67,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_62.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_63_f1",
+      "shot_id": "shot_63",
+      "timestamp": 87.02,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_63.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_64_f1",
+      "shot_id": "shot_64",
+      "timestamp": 88.61,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_64.jpg",
+      "ocr_text": "নিজের ooilpick ছাড়া | নিজের toothpick ছাডা"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_65_f1",
+      "shot_id": "shot_65",
+      "timestamp": 90.03,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_65.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_66_f1",
+      "shot_id": "shot_66",
+      "timestamp": 90.97,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_66.jpg",
+      "ocr_text": "এরকম clecn | এরকম clean"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_67_f1",
+      "shot_id": "shot_67",
+      "timestamp": 91.76,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_67.jpg",
+      "ocr_text": "finish এসছে | fiinish এসছে"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_68_f1",
+      "shot_id": "shot_68",
+      "timestamp": 92.53,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_68.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_69_f1",
+      "shot_id": "shot_69",
+      "timestamp": 93.36,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_69.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_70_f1",
+      "shot_id": "shot_70",
+      "timestamp": 94.2,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_70.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_71_f1",
+      "shot_id": "shot_71",
+      "timestamp": 95.05,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_71.jpg",
+      "ocr_text": "এটার texiure | এটার fexture | 7"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_72_f1",
+      "shot_id": "shot_72",
+      "timestamp": 96.68,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_72.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_73_f1",
+      "shot_id": "shot_73",
+      "timestamp": 98.74,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_73.jpg",
+      "ocr_text": "fo mcke ir ligter | fo make it lighter"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_74_f1",
+      "shot_id": "shot_74",
+      "timestamp": 100.85,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_74.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_75_f1",
+      "shot_id": "shot_75",
+      "timestamp": 103.73,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_75.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_76_f1",
+      "shot_id": "shot_76",
+      "timestamp": 107.92,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_76.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_77_f1",
+      "shot_id": "shot_77",
+      "timestamp": 111.78,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_77.jpg",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_78_f1",
+      "shot_id": "shot_78",
+      "timestamp": 116.03,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Caramel Custard/shot_78.jpg",
+      "ocr_text": "noit Pertecr | not Perfect"
+    }
+  ],
+  "object_detection": [
+    {
+      "frame_id": "Caramel Custard_shot_01_f1",
+      "shot_id": "shot_01",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.64,
+          "bbox": [
+            167.96,
+            0.0,
+            640.36,
+            721.55
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.55,
+          "bbox": [
+            198.27,
+            505.38,
+            609.81,
+            903.65
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_02_f1",
+      "shot_id": "shot_02",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.64,
+          "bbox": [
+            1.18,
+            770.05,
+            240.96,
+            1026.37
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.49,
+          "bbox": [
+            2.74,
+            268.84,
+            604.33,
+            662.94
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.47,
+          "bbox": [
+            121.21,
+            639.62,
+            593.79,
+            898.05
+          ]
+        },
+        {
+          "class_name": "donut",
+          "confidence": 0.43,
+          "bbox": [
+            120.18,
+            640.11,
+            594.61,
+            897.7
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.31,
+          "bbox": [
+            0.13,
+            87.87,
+            607.43,
+            651.46
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_03_f1",
+      "shot_id": "shot_03",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.71,
+          "bbox": [
+            3.17,
+            10.41,
+            657.24,
+            573.19
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.69,
+          "bbox": [
+            1.99,
+            772.7,
+            274.4,
+            1022.37
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.44,
+          "bbox": [
+            136.83,
+            566.65,
+            623.07,
+            856.76
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.38,
+          "bbox": [
+            1.81,
+            169.6,
+            672.94,
+            576.6
+          ]
+        },
+        {
+          "class_name": "donut",
+          "confidence": 0.29,
+          "bbox": [
+            134.91,
+            563.51,
+            622.86,
+            857.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_04_f1",
+      "shot_id": "shot_04",
+      "detected_objects": [
+        {
+          "class_name": "dining table",
+          "confidence": 0.6,
+          "bbox": [
+            2.77,
+            13.44,
+            719.81,
+            1280.0
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.29,
+          "bbox": [
+            324.13,
+            572.46,
+            720.0,
+            679.68
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.27,
+          "bbox": [
+            294.71,
+            512.19,
+            720.0,
+            678.28
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_05_f1",
+      "shot_id": "shot_05",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.67,
+          "bbox": [
+            95.86,
+            478.38,
+            604.98,
+            789.79
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.37,
+          "bbox": [
+            66.6,
+            479.14,
+            701.87,
+            835.3
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.31,
+          "bbox": [
+            0.81,
+            0.18,
+            275.3,
+            215.51
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_06_f1",
+      "shot_id": "shot_06",
+      "detected_objects": [
+        {
+          "class_name": "spoon",
+          "confidence": 0.64,
+          "bbox": [
+            2.19,
+            407.43,
+            344.5,
+            752.62
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.43,
+          "bbox": [
+            0.0,
+            346.3,
+            719.16,
+            1170.15
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_07_f1",
+      "shot_id": "shot_07",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.84,
+          "bbox": [
+            120.93,
+            575.8,
+            609.83,
+            875.08
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.76,
+          "bbox": [
+            1.76,
+            777.93,
+            272.79,
+            1028.58
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.71,
+          "bbox": [
+            2.57,
+            9.6,
+            644.11,
+            570.08
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.48,
+          "bbox": [
+            1.92,
+            176.31,
+            650.51,
+            570.81
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.28,
+          "bbox": [
+            0.53,
+            443.51,
+            718.03,
+            1276.27
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_08_f1",
+      "shot_id": "shot_08",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.91,
+          "bbox": [
+            30.53,
+            377.22,
+            612.27,
+            1279.69
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.53,
+          "bbox": [
+            383.4,
+            106.39,
+            709.63,
+            260.66
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.45,
+          "bbox": [
+            629.69,
+            1023.91,
+            719.59,
+            1278.86
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.38,
+          "bbox": [
+            174.32,
+            288.5,
+            294.77,
+            474.14
+          ]
+        },
+        {
+          "class_name": "vase",
+          "confidence": 0.29,
+          "bbox": [
+            0.95,
+            246.29,
+            159.45,
+            468.99
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_09_f1",
+      "shot_id": "shot_09",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.83,
+          "bbox": [
+            1.4,
+            637.15,
+            474.37,
+            1279.55
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.33,
+          "bbox": [
+            142.1,
+            197.68,
+            720.0,
+            1273.83
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.29,
+          "bbox": [
+            430.81,
+            211.13,
+            719.04,
+            1272.37
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_10_f1",
+      "shot_id": "shot_10",
+      "detected_objects": [
+        {
+          "class_name": "book",
+          "confidence": 0.47,
+          "bbox": [
+            2.76,
+            581.91,
+            718.35,
+            1280.0
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.4,
+          "bbox": [
+            59.07,
+            372.54,
+            720.0,
+            1268.35
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.34,
+          "bbox": [
+            149.92,
+            0.0,
+            719.99,
+            843.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_11_f1",
+      "shot_id": "shot_11",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.74,
+          "bbox": [
+            2.95,
+            0.0,
+            717.22,
+            1209.27
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.69,
+          "bbox": [
+            15.02,
+            1092.5,
+            526.28,
+            1279.81
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_12_f1",
+      "shot_id": "shot_12",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.56,
+          "bbox": [
+            1.66,
+            1.2,
+            338.68,
+            504.98
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.52,
+          "bbox": [
+            1.22,
+            660.36,
+            606.87,
+            1275.45
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_13_f1",
+      "shot_id": "shot_13",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.57,
+          "bbox": [
+            2.52,
+            0.0,
+            504.31,
+            748.11
+          ]
+        },
+        {
+          "class_name": "scissors",
+          "confidence": 0.31,
+          "bbox": [
+            130.16,
+            394.3,
+            504.05,
+            616.77
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_14_f1",
+      "shot_id": "shot_14",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Caramel Custard_shot_15_f1",
+      "shot_id": "shot_15",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.42,
+          "bbox": [
+            0.0,
+            678.0,
+            719.51,
+            1275.25
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_16_f1",
+      "shot_id": "shot_16",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.91,
+          "bbox": [
+            0.0,
+            333.33,
+            599.13,
+            1270.08
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.58,
+          "bbox": [
+            603.4,
+            159.79,
+            720.0,
+            240.0
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.33,
+          "bbox": [
+            36.34,
+            1.74,
+            400.79,
+            339.1
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.28,
+          "bbox": [
+            0.33,
+            983.8,
+            153.35,
+            1129.07
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_17_f1",
+      "shot_id": "shot_17",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.79,
+          "bbox": [
+            0.79,
+            2.52,
+            579.53,
+            1039.35
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.43,
+          "bbox": [
+            124.06,
+            737.48,
+            682.55,
+            1155.34
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_18_f1",
+      "shot_id": "shot_18",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.86,
+          "bbox": [
+            59.22,
+            833.06,
+            647.37,
+            1235.37
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.75,
+          "bbox": [
+            2.16,
+            8.81,
+            518.9,
+            902.65
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.53,
+          "bbox": [
+            557.83,
+            494.14,
+            720.0,
+            776.34
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.28,
+          "bbox": [
+            6.24,
+            729.08,
+            720.0,
+            1277.19
+          ]
+        },
+        {
+          "class_name": "vase",
+          "confidence": 0.26,
+          "bbox": [
+            59.08,
+            828.7,
+            648.31,
+            1235.08
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_19_f1",
+      "shot_id": "shot_19",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.87,
+          "bbox": [
+            18.58,
+            818.9,
+            600.32,
+            1213.16
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.52,
+          "bbox": [
+            0.09,
+            6.74,
+            604.56,
+            994.48
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.43,
+          "bbox": [
+            0.0,
+            677.25,
+            719.22,
+            1278.93
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_20_f1",
+      "shot_id": "shot_20",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.67,
+          "bbox": [
+            239.43,
+            9.16,
+            720.0,
+            683.94
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.61,
+          "bbox": [
+            0.74,
+            285.46,
+            720.0,
+            1213.99
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_21_f1",
+      "shot_id": "shot_21",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.79,
+          "bbox": [
+            37.45,
+            688.56,
+            719.7,
+            1279.02
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.45,
+          "bbox": [
+            3.52,
+            0.3,
+            531.64,
+            177.48
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.36,
+          "bbox": [
+            275.05,
+            0.16,
+            529.69,
+            175.21
+          ]
+        },
+        {
+          "class_name": "banana",
+          "confidence": 0.33,
+          "bbox": [
+            0.0,
+            185.16,
+            718.1,
+            953.13
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.32,
+          "bbox": [
+            3.37,
+            250.7,
+            719.51,
+            950.03
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_22_f1",
+      "shot_id": "shot_22",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.54,
+          "bbox": [
+            74.38,
+            698.54,
+            604.93,
+            1143.91
+          ]
+        },
+        {
+          "class_name": "wine glass",
+          "confidence": 0.44,
+          "bbox": [
+            101.22,
+            100.36,
+            637.43,
+            971.13
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.35,
+          "bbox": [
+            572.76,
+            269.0,
+            720.0,
+            857.63
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.35,
+          "bbox": [
+            2.13,
+            520.66,
+            301.29,
+            955.63
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.3,
+          "bbox": [
+            72.6,
+            691.2,
+            607.96,
+            1141.72
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_23_f1",
+      "shot_id": "shot_23",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.76,
+          "bbox": [
+            434.56,
+            0.57,
+            720.0,
+            409.2
+          ]
+        },
+        {
+          "class_name": "wine glass",
+          "confidence": 0.53,
+          "bbox": [
+            0.0,
+            9.64,
+            717.49,
+            1261.04
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.36,
+          "bbox": [
+            0.0,
+            0.5,
+            448.75,
+            633.33
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.31,
+          "bbox": [
+            184.28,
+            745.13,
+            709.75,
+            960.15
+          ]
+        },
+        {
+          "class_name": "fork",
+          "confidence": 0.27,
+          "bbox": [
+            207.03,
+            754.85,
+            698.81,
+            958.14
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_24_f1",
+      "shot_id": "shot_24",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.89,
+          "bbox": [
+            0.41,
+            737.64,
+            717.23,
+            1279.66
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.71,
+          "bbox": [
+            496.1,
+            524.71,
+            718.7,
+            802.81
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.46,
+          "bbox": [
+            1.87,
+            105.48,
+            720.0,
+            884.79
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_25_f1",
+      "shot_id": "shot_25",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.7,
+          "bbox": [
+            0.0,
+            0.0,
+            531.24,
+            659.41
+          ]
+        },
+        {
+          "class_name": "wine glass",
+          "confidence": 0.51,
+          "bbox": [
+            0.78,
+            690.46,
+            718.84,
+            1278.55
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.31,
+          "bbox": [
+            0.0,
+            690.41,
+            719.7,
+            1280.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_26_f1",
+      "shot_id": "shot_26",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.74,
+          "bbox": [
+            1.47,
+            217.34,
+            453.06,
+            502.18
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.6,
+          "bbox": [
+            13.98,
+            771.59,
+            679.86,
+            1237.27
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.42,
+          "bbox": [
+            11.24,
+            774.28,
+            679.97,
+            1244.01
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_27_f1",
+      "shot_id": "shot_27",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.74,
+          "bbox": [
+            45.68,
+            554.92,
+            669.24,
+            1039.32
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.6,
+          "bbox": [
+            284.82,
+            108.83,
+            427.69,
+            245.2
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.5,
+          "bbox": [
+            2.23,
+            261.31,
+            552.19,
+            697.74
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.39,
+          "bbox": [
+            300.71,
+            331.17,
+            434.06,
+            466.72
+          ]
+        },
+        {
+          "class_name": "hot dog",
+          "confidence": 0.37,
+          "bbox": [
+            345.85,
+            619.66,
+            515.17,
+            723.88
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.32,
+          "bbox": [
+            1.12,
+            269.5,
+            565.98,
+            865.54
+          ]
+        },
+        {
+          "class_name": "broccoli",
+          "confidence": 0.26,
+          "bbox": [
+            374.15,
+            48.41,
+            720.0,
+            537.92
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_28_f1",
+      "shot_id": "shot_28",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.71,
+          "bbox": [
+            0.0,
+            2.98,
+            686.47,
+            876.39
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.64,
+          "bbox": [
+            0.58,
+            0.15,
+            714.37,
+            1265.68
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.59,
+          "bbox": [
+            2.22,
+            782.36,
+            717.99,
+            1205.99
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_29_f1",
+      "shot_id": "shot_29",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.67,
+          "bbox": [
+            2.82,
+            549.33,
+            719.96,
+            1076.96
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_30_f1",
+      "shot_id": "shot_30",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.65,
+          "bbox": [
+            0.0,
+            193.74,
+            718.87,
+            1066.69
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.47,
+          "bbox": [
+            0.15,
+            41.62,
+            720.0,
+            1210.44
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_31_f1",
+      "shot_id": "shot_31",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.45,
+          "bbox": [
+            2.4,
+            671.47,
+            718.83,
+            1201.88
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.39,
+          "bbox": [
+            1.39,
+            1.01,
+            484.09,
+            704.31
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.34,
+          "bbox": [
+            0.0,
+            0.0,
+            720.0,
+            1261.52
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.28,
+          "bbox": [
+            0.0,
+            9.13,
+            709.6,
+            717.64
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_32_f1",
+      "shot_id": "shot_32",
+      "detected_objects": [
+        {
+          "class_name": "frisbee",
+          "confidence": 0.26,
+          "bbox": [
+            0.0,
+            2.21,
+            720.0,
+            1268.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_33_f1",
+      "shot_id": "shot_33",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.78,
+          "bbox": [
+            1.41,
+            0.69,
+            393.43,
+            507.23
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.78,
+          "bbox": [
+            2.05,
+            463.44,
+            710.03,
+            920.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_34_f1",
+      "shot_id": "shot_34",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.47,
+          "bbox": [
+            1.11,
+            111.73,
+            720.0,
+            1045.04
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_35_f1",
+      "shot_id": "shot_35",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.77,
+          "bbox": [
+            11.91,
+            183.64,
+            720.0,
+            1257.61
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_36_f1",
+      "shot_id": "shot_36",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Caramel Custard_shot_37_f1",
+      "shot_id": "shot_37",
+      "detected_objects": [
+        {
+          "class_name": "toilet",
+          "confidence": 0.62,
+          "bbox": [
+            1.82,
+            21.14,
+            706.57,
+            1239.99
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.4,
+          "bbox": [
+            542.01,
+            738.59,
+            720.0,
+            1278.07
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_38_f1",
+      "shot_id": "shot_38",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.4,
+          "bbox": [
+            0.0,
+            322.62,
+            720.0,
+            1272.04
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.26,
+          "bbox": [
+            0.42,
+            577.67,
+            714.08,
+            1007.53
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_39_f1",
+      "shot_id": "shot_39",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.84,
+          "bbox": [
+            1.19,
+            314.99,
+            673.94,
+            1244.08
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_40_f1",
+      "shot_id": "shot_40",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.75,
+          "bbox": [
+            1.57,
+            730.24,
+            605.49,
+            1247.75
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_41_f1",
+      "shot_id": "shot_41",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.7,
+          "bbox": [
+            323.79,
+            674.26,
+            622.63,
+            929.23
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.59,
+          "bbox": [
+            135.61,
+            813.31,
+            478.82,
+            1103.7
+          ]
+        },
+        {
+          "class_name": "wine glass",
+          "confidence": 0.56,
+          "bbox": [
+            0.0,
+            10.57,
+            719.4,
+            1002.55
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.29,
+          "bbox": [
+            132.49,
+            814.66,
+            475.75,
+            1105.29
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_42_f1",
+      "shot_id": "shot_42",
+      "detected_objects": [
+        {
+          "class_name": "wine glass",
+          "confidence": 0.73,
+          "bbox": [
+            0.0,
+            21.14,
+            711.64,
+            1016.29
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.31,
+          "bbox": [
+            33.62,
+            689.1,
+            559.29,
+            1194.94
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_43_f1",
+      "shot_id": "shot_43",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.84,
+          "bbox": [
+            42.29,
+            349.83,
+            695.33,
+            1021.16
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.52,
+          "bbox": [
+            10.97,
+            20.48,
+            719.59,
+            1203.85
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.49,
+          "bbox": [
+            66.88,
+            1075.85,
+            717.86,
+            1279.49
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.33,
+          "bbox": [
+            0.2,
+            1.48,
+            717.63,
+            633.95
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.28,
+          "bbox": [
+            591.23,
+            1119.45,
+            718.93,
+            1273.28
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_44_f1",
+      "shot_id": "shot_44",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.87,
+          "bbox": [
+            27.7,
+            751.26,
+            719.36,
+            1278.46
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.83,
+          "bbox": [
+            288.47,
+            275.36,
+            718.88,
+            730.43
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.59,
+          "bbox": [
+            4.61,
+            652.01,
+            471.56,
+            1041.07
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.45,
+          "bbox": [
+            0.0,
+            71.82,
+            720.0,
+            1272.07
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.38,
+          "bbox": [
+            322.5,
+            145.23,
+            720.0,
+            726.55
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_45_f1",
+      "shot_id": "shot_45",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.87,
+          "bbox": [
+            505.37,
+            11.98,
+            720.0,
+            446.06
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.42,
+          "bbox": [
+            3.19,
+            43.08,
+            720.0,
+            1243.94
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.41,
+          "bbox": [
+            236.64,
+            442.74,
+            718.44,
+            1196.98
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.32,
+          "bbox": [
+            316.72,
+            560.43,
+            713.88,
+            816.49
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_46_f1",
+      "shot_id": "shot_46",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.59,
+          "bbox": [
+            0.0,
+            3.8,
+            322.03,
+            1219.74
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.42,
+          "bbox": [
+            301.07,
+            802.38,
+            720.0,
+            1141.09
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.3,
+          "bbox": [
+            26.93,
+            569.72,
+            303.12,
+            680.7
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.29,
+          "bbox": [
+            172.55,
+            625.54,
+            558.14,
+            890.32
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_47_f1",
+      "shot_id": "shot_47",
+      "detected_objects": [
+        {
+          "class_name": "vase",
+          "confidence": 0.72,
+          "bbox": [
+            122.41,
+            649.86,
+            419.48,
+            1203.73
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.57,
+          "bbox": [
+            557.11,
+            951.03,
+            720.0,
+            1279.85
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.47,
+          "bbox": [
+            3.54,
+            0.0,
+            381.59,
+            165.81
+          ]
+        },
+        {
+          "class_name": "wine glass",
+          "confidence": 0.31,
+          "bbox": [
+            0.0,
+            15.49,
+            501.7,
+            697.42
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.26,
+          "bbox": [
+            556.65,
+            477.57,
+            719.53,
+            957.79
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_48_f1",
+      "shot_id": "shot_48",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.85,
+          "bbox": [
+            0.0,
+            0.0,
+            669.07,
+            968.5
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.69,
+          "bbox": [
+            38.36,
+            777.02,
+            317.83,
+            977.82
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.37,
+          "bbox": [
+            6.62,
+            915.1,
+            718.83,
+            1142.83
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.28,
+          "bbox": [
+            345.9,
+            745.58,
+            615.28,
+            926.36
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.28,
+          "bbox": [
+            346.78,
+            745.71,
+            616.51,
+            927.87
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_49_f1",
+      "shot_id": "shot_49",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.67,
+          "bbox": [
+            0.0,
+            2.36,
+            386.87,
+            909.47
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.63,
+          "bbox": [
+            194.55,
+            829.84,
+            515.52,
+            1063.95
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.62,
+          "bbox": [
+            0.0,
+            5.07,
+            582.43,
+            1002.72
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.62,
+          "bbox": [
+            473.6,
+            776.17,
+            720.0,
+            991.21
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.44,
+          "bbox": [
+            622.11,
+            646.59,
+            720.0,
+            784.48
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.29,
+          "bbox": [
+            604.39,
+            310.06,
+            720.0,
+            658.89
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_50_f1",
+      "shot_id": "shot_50",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.53,
+          "bbox": [
+            179.23,
+            733.3,
+            718.84,
+            1278.66
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.45,
+          "bbox": [
+            174.79,
+            242.2,
+            719.58,
+            1271.35
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.42,
+          "bbox": [
+            0.0,
+            2.25,
+            706.75,
+            1162.77
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_51_f1",
+      "shot_id": "shot_51",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.77,
+          "bbox": [
+            2.5,
+            0.28,
+            709.16,
+            807.62
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.42,
+          "bbox": [
+            459.84,
+            180.66,
+            652.66,
+            369.24
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.37,
+          "bbox": [
+            1.03,
+            475.38,
+            407.6,
+            807.62
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_52_f1",
+      "shot_id": "shot_52",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.81,
+          "bbox": [
+            0.89,
+            3.45,
+            696.46,
+            711.46
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_53_f1",
+      "shot_id": "shot_53",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.8,
+          "bbox": [
+            3.48,
+            3.38,
+            717.52,
+            788.38
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.37,
+          "bbox": [
+            593.5,
+            898.53,
+            719.96,
+            1277.22
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_54_f1",
+      "shot_id": "shot_54",
+      "detected_objects": [
+        {
+          "class_name": "dining table",
+          "confidence": 0.4,
+          "bbox": [
+            0.0,
+            575.68,
+            719.36,
+            1255.81
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.39,
+          "bbox": [
+            1.06,
+            8.1,
+            512.44,
+            776.58
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_55_f1",
+      "shot_id": "shot_55",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.78,
+          "bbox": [
+            1.62,
+            12.79,
+            717.3,
+            1179.86
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_56_f1",
+      "shot_id": "shot_56",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.72,
+          "bbox": [
+            5.0,
+            0.31,
+            717.7,
+            952.12
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_57_f1",
+      "shot_id": "shot_57",
+      "detected_objects": [
+        {
+          "class_name": "chair",
+          "confidence": 0.67,
+          "bbox": [
+            304.55,
+            288.88,
+            719.77,
+            592.65
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.58,
+          "bbox": [
+            0.23,
+            1.16,
+            705.82,
+            837.98
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.41,
+          "bbox": [
+            0.06,
+            4.5,
+            517.44,
+            788.38
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.4,
+          "bbox": [
+            439.25,
+            567.1,
+            720.0,
+            889.08
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_58_f1",
+      "shot_id": "shot_58",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.83,
+          "bbox": [
+            1.8,
+            0.54,
+            628.02,
+            838.05
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.31,
+          "bbox": [
+            0.0,
+            2.45,
+            720.0,
+            1179.64
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.25,
+          "bbox": [
+            29.51,
+            603.03,
+            676.85,
+            1227.28
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_59_f1",
+      "shot_id": "shot_59",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.51,
+          "bbox": [
+            318.68,
+            269.03,
+            429.55,
+            334.12
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.48,
+          "bbox": [
+            3.76,
+            0.99,
+            620.16,
+            382.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_60_f1",
+      "shot_id": "shot_60",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.8,
+          "bbox": [
+            0.0,
+            0.0,
+            702.13,
+            1219.19
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.34,
+          "bbox": [
+            0.0,
+            1.49,
+            667.12,
+            849.43
+          ]
+        },
+        {
+          "class_name": "oven",
+          "confidence": 0.32,
+          "bbox": [
+            0.23,
+            1038.57,
+            701.91,
+            1279.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_61_f1",
+      "shot_id": "shot_61",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.64,
+          "bbox": [
+            0.86,
+            253.82,
+            505.26,
+            774.79
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.34,
+          "bbox": [
+            240.71,
+            413.09,
+            717.97,
+            608.27
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.28,
+          "bbox": [
+            0.0,
+            560.91,
+            719.19,
+            1267.06
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_62_f1",
+      "shot_id": "shot_62",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.76,
+          "bbox": [
+            0.0,
+            0.0,
+            712.68,
+            1169.03
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_63_f1",
+      "shot_id": "shot_63",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.87,
+          "bbox": [
+            1.38,
+            0.43,
+            674.51,
+            696.97
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.46,
+          "bbox": [
+            242.96,
+            651.98,
+            561.18,
+            880.69
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.25,
+          "bbox": [
+            4.09,
+            663.36,
+            718.29,
+            1278.48
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_64_f1",
+      "shot_id": "shot_64",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.69,
+          "bbox": [
+            631.81,
+            454.6,
+            719.92,
+            698.6
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.69,
+          "bbox": [
+            1.89,
+            4.05,
+            715.57,
+            915.16
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.31,
+          "bbox": [
+            152.26,
+            636.55,
+            605.82,
+            1031.92
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.25,
+          "bbox": [
+            6.35,
+            821.09,
+            717.09,
+            1278.36
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_65_f1",
+      "shot_id": "shot_65",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.78,
+          "bbox": [
+            1.97,
+            7.58,
+            713.86,
+            812.88
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.7,
+          "bbox": [
+            252.53,
+            817.03,
+            718.27,
+            1264.25
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.36,
+          "bbox": [
+            0.78,
+            693.4,
+            720.0,
+            1276.42
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_66_f1",
+      "shot_id": "shot_66",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.76,
+          "bbox": [
+            3.81,
+            2.85,
+            717.38,
+            784.23
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.59,
+          "bbox": [
+            0.0,
+            720.41,
+            719.33,
+            1277.13
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.58,
+          "bbox": [
+            2.74,
+            783.79,
+            475.98,
+            1193.33
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.43,
+          "bbox": [
+            1.59,
+            785.1,
+            476.94,
+            1193.51
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.34,
+          "bbox": [
+            1.81,
+            637.91,
+            131.28,
+            692.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_67_f1",
+      "shot_id": "shot_67",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.74,
+          "bbox": [
+            1.36,
+            0.0,
+            555.66,
+            752.91
+          ]
+        },
+        {
+          "class_name": "cell phone",
+          "confidence": 0.59,
+          "bbox": [
+            231.3,
+            491.47,
+            493.34,
+            702.68
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.57,
+          "bbox": [
+            0.0,
+            569.48,
+            718.36,
+            1263.15
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.49,
+          "bbox": [
+            1.22,
+            476.24,
+            384.53,
+            757.93
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.35,
+          "bbox": [
+            0.0,
+            560.82,
+            717.55,
+            946.17
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_68_f1",
+      "shot_id": "shot_68",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.92,
+          "bbox": [
+            2.29,
+            0.0,
+            658.64,
+            636.3
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.58,
+          "bbox": [
+            250.79,
+            557.58,
+            564.98,
+            791.03
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.47,
+          "bbox": [
+            2.94,
+            596.7,
+            716.34,
+            1280.0
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.26,
+          "bbox": [
+            3.42,
+            623.38,
+            709.55,
+            910.39
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_69_f1",
+      "shot_id": "shot_69",
+      "detected_objects": [
+        {
+          "class_name": "potted plant",
+          "confidence": 0.9,
+          "bbox": [
+            323.44,
+            1.38,
+            720.0,
+            477.1
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.61,
+          "bbox": [
+            2.33,
+            0.0,
+            449.31,
+            652.99
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.54,
+          "bbox": [
+            1.91,
+            16.86,
+            609.45,
+            701.62
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.26,
+          "bbox": [
+            237.72,
+            605.71,
+            578.72,
+            905.05
+          ]
+        },
+        {
+          "class_name": "knife",
+          "confidence": 0.26,
+          "bbox": [
+            179.3,
+            48.57,
+            327.78,
+            303.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_70_f1",
+      "shot_id": "shot_70",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.58,
+          "bbox": [
+            1.28,
+            6.09,
+            651.35,
+            969.42
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_71_f1",
+      "shot_id": "shot_71",
+      "detected_objects": [
+        {
+          "class_name": "potted plant",
+          "confidence": 0.92,
+          "bbox": [
+            353.29,
+            54.51,
+            720.0,
+            658.51
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.53,
+          "bbox": [
+            0.0,
+            1.88,
+            569.41,
+            837.4
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.29,
+          "bbox": [
+            4.94,
+            741.02,
+            719.13,
+            1244.01
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_72_f1",
+      "shot_id": "shot_72",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.6,
+          "bbox": [
+            157.77,
+            0.0,
+            631.22,
+            663.2
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.54,
+          "bbox": [
+            194.12,
+            457.75,
+            595.57,
+            904.16
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.29,
+          "bbox": [
+            3.99,
+            667.63,
+            720.0,
+            1196.27
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.29,
+          "bbox": [
+            216.2,
+            723.76,
+            578.6,
+            901.28
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_73_f1",
+      "shot_id": "shot_73",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.76,
+          "bbox": [
+            1.61,
+            772.23,
+            276.69,
+            1020.81
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.65,
+          "bbox": [
+            2.44,
+            8.59,
+            656.48,
+            574.11
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.62,
+          "bbox": [
+            135.69,
+            566.71,
+            622.73,
+            857.74
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_74_f1",
+      "shot_id": "shot_74",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.58,
+          "bbox": [
+            2.49,
+            261.86,
+            590.74,
+            676.77
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.54,
+          "bbox": [
+            0.61,
+            772.62,
+            227.87,
+            1016.35
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.49,
+          "bbox": [
+            110.94,
+            645.65,
+            574.79,
+            895.18
+          ]
+        },
+        {
+          "class_name": "donut",
+          "confidence": 0.36,
+          "bbox": [
+            106.63,
+            646.07,
+            574.83,
+            895.59
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_75_f1",
+      "shot_id": "shot_75",
+      "detected_objects": [
+        {
+          "class_name": "spoon",
+          "confidence": 0.52,
+          "bbox": [
+            444.49,
+            433.92,
+            720.0,
+            681.84
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.32,
+          "bbox": [
+            4.39,
+            364.23,
+            718.66,
+            1266.43
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.25,
+          "bbox": [
+            0.79,
+            57.59,
+            720.0,
+            1176.58
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_76_f1",
+      "shot_id": "shot_76",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.91,
+          "bbox": [
+            30.11,
+            378.38,
+            612.02,
+            1279.19
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.49,
+          "bbox": [
+            381.67,
+            106.81,
+            707.29,
+            260.29
+          ]
+        },
+        {
+          "class_name": "potted plant",
+          "confidence": 0.41,
+          "bbox": [
+            630.58,
+            1021.56,
+            719.5,
+            1278.64
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.28,
+          "bbox": [
+            174.22,
+            287.64,
+            294.51,
+            474.26
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_77_f1",
+      "shot_id": "shot_77",
+      "detected_objects": [
+        {
+          "class_name": "dining table",
+          "confidence": 0.54,
+          "bbox": [
+            2.79,
+            11.43,
+            717.01,
+            1280.0
+          ]
+        },
+        {
+          "class_name": "spoon",
+          "confidence": 0.33,
+          "bbox": [
+            352.67,
+            576.0,
+            720.0,
+            681.13
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.3,
+          "bbox": [
+            219.76,
+            0.36,
+            579.46,
+            166.99
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Caramel Custard_shot_78_f1",
+      "shot_id": "shot_78",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.92,
+          "bbox": [
+            0.93,
+            429.59,
+            594.54,
+            1278.61
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.62,
+          "bbox": [
+            446.22,
+            721.27,
+            576.53,
+            822.03
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.28,
+          "bbox": [
+            447.1,
+            723.41,
+            602.46,
+            1276.77
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.28,
+          "bbox": [
+            1.14,
+            634.31,
+            73.19,
+            920.6
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.26,
+          "bbox": [
+            0.33,
+            632.54,
+            93.87,
+            1278.34
+          ]
+        }
+      ]
+    }
+  ],
+  "visual_descriptions": [
+    {
+      "frame_id": "Caramel Custard_shot_01_f1",
+      "shot_id": "shot_01",
+      "description": "A person is using a blue lid to press down on a flan, which is a dessert made with a custard base and topped with caramel.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_02_f1",
+      "shot_id": "shot_02",
+      "description": "The video showcases a person holding a plate with a flan dessert, emphasizing the importance of the plate in the cooking process.",
+      "ocr_text": "resipe খুঁজছেন"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_03_f1",
+      "shot_id": "shot_03",
+      "description": "The cooking action is to serve the flan on a plate. The ingredients include flan and caramel sauce. The utensil used is a plate.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_04_f1",
+      "shot_id": "shot_04",
+      "description": "To make the easiest flan, simply mix the custard ingredients and bake until set.",
+      "ocr_text": "Ilhe Bosiest | Ilhe ওos1est"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_05_f1",
+      "shot_id": "shot_05",
+      "description": "To make caramel custard, mix custard powder with water, then add sugar and cook until thick. Serve with a spoonful of caramel sauce.",
+      "ocr_text": "cororel ৫ustcrrdl এর | Caramel Custard এর"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_06_f1",
+      "shot_id": "shot_06",
+      "description": "The cooking action involves using a spatula to stir a caramelized mixture in a pan.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_07_f1",
+      "shot_id": "shot_07",
+      "description": "The video showcases a person serving a flan dessert with a caramel sauce, using a white plate and a yellow napkin.",
+      "ocr_text": "নিটোল সুদৃশ্য"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_08_f1",
+      "shot_id": "shot_08",
+      "description": "The woman in the video is holding a spoon, possibly preparing to cook or taste a dish.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_09_f1",
+      "shot_id": "shot_09",
+      "description": "To prepare a recipe, you will need to take out the milk from its package.",
+      "ocr_text": "Betgint IMKtTcs C8৬ 583 | 450 | peitgint Mtya Co৬ 3 | 450 M0iL"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_10_f1",
+      "shot_id": "shot_10",
+      "description": "To cook, I will use a microwave to heat up the milk powder packet.",
+      "ocr_text": "iয6 ৩ Cov | Pasteurrized | Zide Cov | Pasteurized"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_11_f1",
+      "shot_id": "shot_11",
+      "description": "To prepare a dish, a woman is seen pouring milk from a packet into a pot.",
+      "ocr_text": "g ৪ | 9 8"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_12_f1",
+      "shot_id": "shot_12",
+      "description": "Adding 2 tablespoons of salt to a pot.",
+      "ocr_text": "2 bs3 চিনি | 2tbs9 চিনি"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_13_f1",
+      "shot_id": "shot_13",
+      "description": "Adding salt to a pot of milk.",
+      "ocr_text": "2tbsp চিনি"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_14_f1",
+      "shot_id": "shot_14",
+      "description": "A pink spatula is being used to stir a pot of milk.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_15_f1",
+      "shot_id": "shot_15",
+      "description": "To prepare a dish, I need to heat a pot on the stove.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_16_f1",
+      "shot_id": "shot_16",
+      "description": "The woman is stirring a pot on the stove, likely preparing a dish.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_17_f1",
+      "shot_id": "shot_17",
+      "description": "A person is cracking an egg into a glass bowl.",
+      "ocr_text": "দুটো গোট ডিম | দুটো গোটী ডিম"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_18_f1",
+      "shot_id": "shot_18",
+      "description": "To prepare a dish, a person cracks an egg into a bowl.",
+      "ocr_text": "একটী ডিমের কুসুম"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_19_f1",
+      "shot_id": "shot_19",
+      "description": "Breaking an egg into a bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_20_f1",
+      "shot_id": "shot_20",
+      "description": "A hand is shown cracking an egg into a clear glass bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_21_f1",
+      "shot_id": "shot_21",
+      "description": "A person is using a whisk to mix a yellow mixture in a glass bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_22_f1",
+      "shot_id": "shot_22",
+      "description": "Pouring milk into a bowl with whisked eggs.",
+      "ocr_text": "ডাগভে থক্য | ড তে থ ছ"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_23_f1",
+      "shot_id": "shot_23",
+      "description": "Pouring milk into a bowl with a whisk.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_24_f1",
+      "shot_id": "shot_24",
+      "description": "Pouring milk into a bowl with other ingredients.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_25_f1",
+      "shot_id": "shot_25",
+      "description": "Add a piece of butter to the mixture in the bowl.",
+      "ocr_text": "একটু নুন"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_26_f1",
+      "shot_id": "shot_26",
+      "description": "A person is pouring a dark liquid, likely chocolate, into a bowl of melted butter and sugar.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_27_f1",
+      "shot_id": "shot_27",
+      "description": "A person is whisking a bowl of batter with a whisk.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_28_f1",
+      "shot_id": "shot_28",
+      "description": "A person is adding rice to a pan on a stove.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_29_f1",
+      "shot_id": "shot_29",
+      "description": "I'm sorry, but I can't assist with that.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_30_f1",
+      "shot_id": "shot_30",
+      "description": "To cook rice, place it in a pan with water and bring it to a boil.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_31_f1",
+      "shot_id": "shot_31",
+      "description": "The cooking action is melting butter in a pan.",
+      "ocr_text": "খোঁচাখুঁচি করলেই"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_32_f1",
+      "shot_id": "shot_32",
+      "description": "The cooking action is to heat a pan over medium heat and add a tablespoon of oil.",
+      "ocr_text": "crystallizzgtion"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_33_f1",
+      "shot_id": "shot_33",
+      "description": "The cooking action is to heat oil in a pan.",
+      "ocr_text": "পষাe"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_34_f1",
+      "shot_id": "shot_34",
+      "description": "To start cooking, pour oil into a heated pot over medium heat.",
+      "ocr_text": "ঢuvp | চum"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_35_f1",
+      "shot_id": "shot_35",
+      "description": "A pan with melted butter and milk is being heated on a stove.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_36_f1",
+      "shot_id": "shot_36",
+      "description": "To start cooking, heat oil in a pan over medium heat.",
+      "ocr_text": "এইরকম colour"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_37_f1",
+      "shot_id": "shot_37",
+      "description": "Adding a small amount of oil to a hot pan using a wooden spoon.",
+      "ocr_text": "একটু জল"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_38_f1",
+      "shot_id": "shot_38",
+      "description": "The cooking action is caramelizing sugar in a pan.",
+      "ocr_text": "নাড়ান | নাড়ীন"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_39_f1",
+      "shot_id": "shot_39",
+      "description": "In a pan, heat the sugar and butter until it turns a deep golden brown color.",
+      "ocr_text": "গ্যাস বগন্ধ | গ্যাস বন্ধ"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_40_f1",
+      "shot_id": "shot_40",
+      "description": "The cooking action is to add a spoonful of caramelized sugar to the pan.",
+      "ocr_text": "ready"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_41_f1",
+      "shot_id": "shot_41",
+      "description": "A person is pouring honey from a pan into two small blue ramekins.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_42_f1",
+      "shot_id": "shot_42",
+      "description": "Pouring honey from a bowl into a small bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_43_f1",
+      "shot_id": "shot_43",
+      "description": "The person is holding a green cup filled with a dark liquid, likely a tea or coffee mixture, which is a common cooking action in tea or coffee preparation.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_44_f1",
+      "shot_id": "shot_44",
+      "description": "The video shows hands holding two small green bowls filled with a golden-colored liquid, likely a soup or stew, and the text \"Just 2 minutes\" indicating a quick cooking method.",
+      "ocr_text": "J৩3 দু মিনিটে"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_45_f1",
+      "shot_id": "shot_45",
+      "description": "The video shows a person holding two cups of tea, with the text \"caramel\" and \"shuk\" visible, indicating a possible caramel sauce or syrup being added to the tea.",
+      "ocr_text": "salramel শক্ত | sclramel শক্ত"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_46_f1",
+      "shot_id": "shot_46",
+      "description": "A person is using a strainer to transfer a liquid from a bowl into a glass container.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_47_f1",
+      "shot_id": "shot_47",
+      "description": "A person is pouring a liquid from a large glass bowl into a smaller glass container.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_48_f1",
+      "shot_id": "shot_48",
+      "description": "The video showcases the use of two blue and green ramekins, likely for a baking or cooking demonstration.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_49_f1",
+      "shot_id": "shot_49",
+      "description": "A person is pouring a creamy liquid into two blue ramekins.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_50_f1",
+      "shot_id": "shot_50",
+      "description": "Pour the custard mixture into the ramekins.",
+      "ocr_text": "NDjj j gj9jjble | Jloj I5gj9 jable"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_51_f1",
+      "shot_id": "shot_51",
+      "description": "The person is using aluminum foil to cover a dish, likely to prevent it from drying out or to keep it warm.",
+      "ocr_text": "Non Nlegjjiule | Non Negoljsble"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_52_f1",
+      "shot_id": "shot_52",
+      "description": "The person is using a kitchen towel to wrap a piece of aluminum foil around a can.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_53_f1",
+      "shot_id": "shot_53",
+      "description": "The person is using a knife to cut a piece of food on a yellow cloth.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_54_f1",
+      "shot_id": "shot_54",
+      "description": "The video shows a person preparing food, possibly a dish wrapped in tinfoil.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_55_f1",
+      "shot_id": "shot_55",
+      "description": "The cooking action involves steaming a pot of food on a stove.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_56_f1",
+      "shot_id": "shot_56",
+      "description": "To cook a potato, the person in the video is placing a potato in a steamer basket over boiling water.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_57_f1",
+      "shot_id": "shot_57",
+      "description": "A person is using a steamer to cook food wrapped in aluminum foil.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_58_f1",
+      "shot_id": "shot_58",
+      "description": "The person is adding a garnish to a dish that is being cooked in a double boiler.",
+      "ocr_text": "30 থেঁকে"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_59_f1",
+      "shot_id": "shot_59",
+      "description": "The cooking action involves steaming a dish using a double boiler.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_60_f1",
+      "shot_id": "shot_60",
+      "description": "The woman is removing the lid from a double boiler to start cooking.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_61_f1",
+      "shot_id": "shot_61",
+      "description": "The cooking action involves steaming a dish using a double boiler.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_62_f1",
+      "shot_id": "shot_62",
+      "description": "The cooking action involves using a cloth to wipe down a surface.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_63_f1",
+      "shot_id": "shot_63",
+      "description": "The person is covering a dish with aluminum foil.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_64_f1",
+      "shot_id": "shot_64",
+      "description": "To cook the dish, the person in the video uses a toothpick to remove the cooked rice from the bowl.",
+      "ocr_text": "নিজের ooilpick ছাড়া | নিজের toothpick ছাডা"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_65_f1",
+      "shot_id": "shot_65",
+      "description": "To prepare the dish, the person is using a toothpick to pick up a small amount of the creamy mixture from a blue bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_66_f1",
+      "shot_id": "shot_66",
+      "description": "The cooking action is to dip the skewer into the creamy sauce.",
+      "ocr_text": "এরকম clecn | এরকম clean"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_67_f1",
+      "shot_id": "shot_67",
+      "description": "The person is using a blue sponge to clean a glass bowl.",
+      "ocr_text": "finish এসছে | fiinish এসছে"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_68_f1",
+      "shot_id": "shot_68",
+      "description": "The person is adding a foil packet to a blue ramekin.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_69_f1",
+      "shot_id": "shot_69",
+      "description": "A person is using a spatula to mix a creamy mixture in a blue bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_70_f1",
+      "shot_id": "shot_70",
+      "description": "The person is holding a bowl with a blue sponge inside, likely preparing to clean the bowl.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_71_f1",
+      "shot_id": "shot_71",
+      "description": "The person is demonstrating how to make a blue cheese sauce by pressing it into a bowl.",
+      "ocr_text": "এটার texiure | এটার fexture | 7"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_72_f1",
+      "shot_id": "shot_72",
+      "description": "A person is using a blue bowl to press down on a flan, likely to set the custard and caramelized topping.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_73_f1",
+      "shot_id": "shot_73",
+      "description": "To make the flan lighter, you can add a bit of sugar to the caramel sauce.",
+      "ocr_text": "fo mcke ir ligter | fo make it lighter"
+    },
+    {
+      "frame_id": "Caramel Custard_shot_74_f1",
+      "shot_id": "shot_74",
+      "description": "The person is holding a plate with a flan, a dessert made with custard and caramel sauce.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_75_f1",
+      "shot_id": "shot_75",
+      "description": "To make a delicious flan, you need to mix eggs, sugar, and milk, then cook it in a pan until it thickens and turns golden brown.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_76_f1",
+      "shot_id": "shot_76",
+      "description": "The woman in the video is holding a piece of food, possibly a piece of meat, and appears to be expressing dissatisfaction or disappointment with the taste.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_77_f1",
+      "shot_id": "shot_77",
+      "description": "To make a delicious caramel custard, you need to mix sugar, eggs, and milk together, then cook until the mixture thickens and caramelizes.",
+      "ocr_text": ""
+    },
+    {
+      "frame_id": "Caramel Custard_shot_78_f1",
+      "shot_id": "shot_78",
+      "description": "The video showcases a woman in a kitchen, possibly preparing a dish, with a focus on her facial expression and the text \"not Perfect\" on the screen.",
+      "ocr_text": "noit Pertecr | not Perfect"
+    }
+  ]
+}

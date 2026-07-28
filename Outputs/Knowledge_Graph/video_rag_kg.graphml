@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d4" for="node" attr.name="step_number" attr.type="long"/>
+<key id="d3" for="node" attr.name="full_text" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="color" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="Hilsa Roe In Tangy Tamarind Broth">
+  <data key="d0">Dish</data>
+  <data key="d1">#FF5733</data>
+</node>
+<node id="Bengali">
+  <data key="d0">Cuisine</data>
+  <data key="d1">#2ECC71</data>
+</node>
+<node id="Cup">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Spoon">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Bowl">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Dining Table">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Caramel Custard">
+  <data key="d0">Dish</data>
+  <data key="d1">#FF5733</data>
+</node>
+<node id="Indian">
+  <data key="d0">Cuisine</data>
+  <data key="d1">#2ECC71</data>
+</node>
+<node id="Caramel">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Custard">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="[Caramel Custard] Step 1">
+  <data key="d2">Step 1: Make the caramel:</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Make the caramel:</data>
+  <data key="d4">1</data>
+</node>
+<node id="[Caramel Custard] Step 2">
+  <data key="d2">Step 2: Prepare the custard:</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Prepare the custard:</data>
+  <data key="d4">2</data>
+</node>
+<node id="[Caramel Custard] Step 3">
+  <data key="d2">Step 3: Fill the mold:</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Fill the mold:</data>
+  <data key="d4">3</data>
+</node>
+<node id="[Caramel Custard] Step 4">
+  <data key="d2">Step 4: Steam:</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Steam:</data>
+  <data key="d4">4</data>
+</node>
+<node id="Oven">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Wine Glass">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Knife">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Fork">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Potted Plant">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Goan Pomfret Rawa Fry">
+  <data key="d0">Dish</data>
+  <data key="d1">#FF5733</data>
+</node>
+<node id="Fish">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Spices">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Cookingfats">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="[Goan Pomfret Rawa Fry] Step 1">
+  <data key="d2">Step 1: Make 3-4 deep slits on bo...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Make 3-4 deep slits on both sides of the pomfret.</data>
+  <data key="d4">1</data>
+</node>
+<node id="[Goan Pomfret Rawa Fry] Step 2">
+  <data key="d2">Step 2: Rub with salt, turmeric a...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Rub with salt, turmeric and lemon and keep aside for 10-15 minutes.</data>
+  <data key="d4">2</data>
+</node>
+<node id="[Goan Pomfret Rawa Fry] Step 3">
+  <data key="d2">Step 3: Dry roast the Kashmiri ch...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Dry roast the Kashmiri chillies, garlic, ginger, and cumin until aromatic, then blend them with jaggery, turmeric and salt into a smooth, thick paste.</data>
+  <data key="d4">3</data>
+</node>
+<node id="[Goan Pomfret Rawa Fry] Step 4">
+  <data key="d2">Step 4: Apply the masala generous...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Apply the masala generously all over the fish, inside the slits and the cavity. Marinate for at least 1 hour.</data>
+  <data key="d4">4</data>
+</node>
+<node id="[Goan Pomfret Rawa Fry] Step 5">
+  <data key="d2">Step 5: Mix rice flour and fine r...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Mix rice flour and fine rava. Lightly coat the fish on both sides. The coating should be thin, not thick.</data>
+  <data key="d4">5</data>
+</node>
+<node id="[Goan Pomfret Rawa Fry] Step 6">
+  <data key="d2">Step 6: Heat coconut oil on a taw...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Heat coconut oil on a tawa over medium heat. Shallow fry the fish until golden and crisp on both sides. Avoid high heat so the masala caramelizes without burning.</data>
+  <data key="d4">6</data>
+</node>
+<node id="Sink">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Bottle">
+  <data key="d0">Utensil/Object</data>
+  <data key="d1">#9B59B6</data>
+</node>
+<node id="Yogurt Chicken">
+  <data key="d0">Dish</data>
+  <data key="d1">#FF5733</data>
+</node>
+<node id="Marinade">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="[Yogurt Chicken] Step 1">
+  <data key="d2">Step 1: Marinate the chicken in t...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Marinate the chicken in the yogurt mixture.</data>
+  <data key="d4">1</data>
+</node>
+<node id="[Yogurt Chicken] Step 2">
+  <data key="d2">Step 2: Heat oil in a pan and fry...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Heat oil in a pan and fry the onions until golden brown.</data>
+  <data key="d4">2</data>
+</node>
+<node id="[Yogurt Chicken] Step 3">
+  <data key="d2">Step 3: Add the spices and marina...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Add the spices and marinated chicken, stir, and cover to let it cook.</data>
+  <data key="d4">3</data>
+</node>
+<node id="[Yogurt Chicken] Step 4">
+  <data key="d2">Step 4: After 5 minutes, uncover ...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">After 5 minutes, uncover and continue cooking.</data>
+  <data key="d4">4</data>
+</node>
+<node id="Coconut Rice">
+  <data key="d0">Dish</data>
+  <data key="d1">#FF5733</data>
+</node>
+<node id="Basmati Rice">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Coconut Milk">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Water">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Coconut Oil">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Bay Leaf">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Cinnamon Stick">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Green Cardamom">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Cloves">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Salt">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="Sugar">
+  <data key="d0">Ingredient</data>
+  <data key="d1">#3498DB</data>
+</node>
+<node id="[Coconut Rice] Step 1">
+  <data key="d2">Step 1: Wash the rice well and so...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Wash the rice well and soak it for 20 minutes.</data>
+  <data key="d4">1</data>
+</node>
+<node id="[Coconut Rice] Step 2">
+  <data key="d2">Step 2: Drain completely.</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Drain completely.</data>
+  <data key="d4">2</data>
+</node>
+<node id="[Coconut Rice] Step 3">
+  <data key="d2">Step 3: Heat coconut oil in a hea...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Heat coconut oil in a heavy-bottomed pot.</data>
+  <data key="d4">3</data>
+</node>
+<node id="[Coconut Rice] Step 4">
+  <data key="d2">Step 4: Add the bay leaf, cinnamo...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Add the bay leaf, cinnamon stick, cardamoms, and cloves.</data>
+  <data key="d4">4</data>
+</node>
+<node id="[Coconut Rice] Step 5">
+  <data key="d2">Step 5: Sauté for 20-30 seconds u...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Sauté for 20-30 seconds until fragrant.</data>
+  <data key="d4">5</data>
+</node>
+<node id="[Coconut Rice] Step 6">
+  <data key="d2">Step 6: Add the drained rice and ...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Add the drained rice and gently sauté for 1 minute.</data>
+  <data key="d4">6</data>
+</node>
+<node id="[Coconut Rice] Step 7">
+  <data key="d2">Step 7: Pour in the coconut milk ...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Pour in the coconut milk and water.</data>
+  <data key="d4">7</data>
+</node>
+<node id="[Coconut Rice] Step 8">
+  <data key="d2">Step 8: Add the salt and sugar, t...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Add the salt and sugar, then mix gently.</data>
+  <data key="d4">8</data>
+</node>
+<node id="[Coconut Rice] Step 9">
+  <data key="d2">Step 9: Bring it to a gentle boil...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Bring it to a gentle boil, cover with a tight-fitting lid and cook on the lowest heat for 12-15 minutes.</data>
+  <data key="d4">9</data>
+</node>
+<node id="[Coconut Rice] Step 10">
+  <data key="d2">Step 10: Once the rice is cooked, ...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Once the rice is cooked, switch off the flame. At this stage, the rice may look slightly soft because the trapped steam is still carrying moisture.</data>
+  <data key="d4">10</data>
+</node>
+<node id="[Coconut Rice] Step 11">
+  <data key="d2">Step 11: Let it rest, covered, for...</data>
+  <data key="d0">Step</data>
+  <data key="d1">#F1C40F</data>
+  <data key="d3">Let it rest, covered, for 10 minutes. During this time, the steam redistributes evenly through the rice and the starch begins to set, making the grains light, fluffy and well-separated.</data>
+  <data key="d4">11</data>
+</node>
+<edge source="Hilsa Roe In Tangy Tamarind Broth" target="Bengali">
+  <data key="d5">BELONGS_TO_CUISINE</data>
+</edge>
+<edge source="Hilsa Roe In Tangy Tamarind Broth" target="Cup">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Hilsa Roe In Tangy Tamarind Broth" target="Spoon">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Hilsa Roe In Tangy Tamarind Broth" target="Bowl">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Hilsa Roe In Tangy Tamarind Broth" target="Dining Table">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Indian">
+  <data key="d5">BELONGS_TO_CUISINE</data>
+</edge>
+<edge source="Caramel Custard" target="Caramel">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Caramel Custard" target="Custard">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Caramel Custard" target="[Caramel Custard] Step 1">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Caramel Custard" target="[Caramel Custard] Step 2">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Caramel Custard" target="[Caramel Custard] Step 3">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Caramel Custard" target="[Caramel Custard] Step 4">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Caramel Custard" target="Cup">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Dining Table">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Oven">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Wine Glass">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Bowl">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Knife">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Fork">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Potted Plant">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Caramel Custard" target="Spoon">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Indian">
+  <data key="d5">BELONGS_TO_CUISINE</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Fish">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Spices">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Cookingfats">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="[Goan Pomfret Rawa Fry] Step 1">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="[Goan Pomfret Rawa Fry] Step 2">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="[Goan Pomfret Rawa Fry] Step 3">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="[Goan Pomfret Rawa Fry] Step 4">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="[Goan Pomfret Rawa Fry] Step 5">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="[Goan Pomfret Rawa Fry] Step 6">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Cup">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Dining Table">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Knife">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Bowl">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Sink">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Bottle">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Potted Plant">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Goan Pomfret Rawa Fry" target="Spoon">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Indian">
+  <data key="d5">BELONGS_TO_CUISINE</data>
+</edge>
+<edge source="Yogurt Chicken" target="Marinade">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Yogurt Chicken" target="[Yogurt Chicken] Step 1">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Yogurt Chicken" target="[Yogurt Chicken] Step 2">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Yogurt Chicken" target="[Yogurt Chicken] Step 3">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Yogurt Chicken" target="[Yogurt Chicken] Step 4">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Yogurt Chicken" target="Cup">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Dining Table">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Knife">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Bowl">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Wine Glass">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Fork">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Bottle">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Potted Plant">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Yogurt Chicken" target="Spoon">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Coconut Rice" target="Indian">
+  <data key="d5">BELONGS_TO_CUISINE</data>
+</edge>
+<edge source="Coconut Rice" target="Basmati Rice">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Coconut Milk">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Water">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Coconut Oil">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Bay Leaf">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Cinnamon Stick">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Green Cardamom">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Cloves">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Salt">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="Sugar">
+  <data key="d5">REQUIRES_INGREDIENT</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 1">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 2">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 3">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 4">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 5">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 6">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 7">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 8">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 9">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 10">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="[Coconut Rice] Step 11">
+  <data key="d5">HAS_STEP</data>
+</edge>
+<edge source="Coconut Rice" target="Cup">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Coconut Rice" target="Dining Table">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Coconut Rice" target="Bowl">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Coconut Rice" target="Bottle">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+<edge source="Coconut Rice" target="Potted Plant">
+  <data key="d5">VISUALLY_CONTAINS</data>
+</edge>
+</graph></graphml>

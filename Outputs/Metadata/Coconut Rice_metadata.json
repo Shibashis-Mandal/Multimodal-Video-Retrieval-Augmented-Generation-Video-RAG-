@@ -1,0 +1,1953 @@
+{
+  "video_info": {
+    "video_id": "Coconut Rice",
+    "video_name": "Coconut Rice.mp4",
+    "title": "Coconut Rice",
+    "category": "Cooking",
+    "language": "bn",
+    "duration": 65.61,
+    "fps": 23.98,
+    "width": 720,
+    "height": 1280,
+    "total_frames": 1573,
+    "file_size": "11.48 MB",
+    "video_path": "/kaggle/input/datasets/shibashismandal001/doi-chicken/Coconut Rice.mp4"
+  },
+  "recipe_information": {
+    "dish_type": "Rice",
+    "ingredients": [
+      {
+        "name": "Basmati Rice",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Coconut Milk",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Water",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Coconut Oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Bay Leaf",
+        "quantity": "1"
+      },
+      {
+        "name": "Cinnamon Stick",
+        "quantity": "1"
+      },
+      {
+        "name": "Green Cardamom",
+        "quantity": "2"
+      },
+      {
+        "name": "Cloves",
+        "quantity": "3"
+      },
+      {
+        "name": "Salt",
+        "quantity": "¾ tsp"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "½ tsp"
+      }
+    ],
+    "estimated_steps": [
+      "Wash the rice well and soak it for 20 minutes.",
+      "Drain completely.",
+      "Heat coconut oil in a heavy-bottomed pot.",
+      "Add the bay leaf, cinnamon stick, cardamoms, and cloves.",
+      "Sauté for 20-30 seconds until fragrant.",
+      "Add the drained rice and gently sauté for 1 minute.",
+      "Pour in the coconut milk and water.",
+      "Add the salt and sugar, then mix gently.",
+      "Bring it to a gentle boil, cover with a tight-fitting lid and cook on the lowest heat for 12-15 minutes.",
+      "Once the rice is cooked, switch off the flame. At this stage, the rice may look slightly soft because the trapped steam is still carrying moisture.",
+      "Let it rest, covered, for 10 minutes. During this time, the steam redistributes evenly through the rice and the starch begins to set, making the grains light, fluffy and well-separated."
+    ],
+    "cuisine": "Indian",
+    "tags": [
+      "coconut",
+      "rice",
+      "pomfret"
+    ],
+    "tips": []
+  },
+  "audio_information": {
+    "transcript_bn": "হ্যাঁ ভাই, দেবো কোকোনাট রাইসের রেসিপি। তোমার কি মনে হবে? অত সুন্দর পমফ্রেট রাওয়া ফ্রাইয়ের সাথে কোকোনাট রাইসটা বানিয়েছি কিন্তু শুট করিনি। ওসব তো অ্যালগরিদমকে খুশি করার জন্য বলা যে রেসিপি লাগলে বলবেন। অ্যাজ ইফ বলার পরেই আমি রেসিপি বানানো শুরু করবো। ভিডিও রেডি, তারপরে সব বলছি। যাতে তুমি চারটে কমেন্ট করবে আর আমরা একটু ভিউ পাবো। এসব থিয়েটারদের ফাজলামি, এতে বেশি মন দিয়ে লাভ নেই, আমরা রেসিপি বুঝি। একচুয়ালি বোঝার কিছু নেইও, পুচকি একটা রেসিপি। প্রথমে চালটা ভিজিয়ে রেখে দেবো 20 মিনিট, তারপর কড়াইয়ে নারকোল তেল বা এমনি যেকোনো সাদা তেল, একটা তেজপাতা, দুটো এলাচ, তিনটে লবঙ্গ ফোড়ন দেব। তারপর ভিজিয়ে রাখা চালটা বেশ করে উল্টে পাল্টে ভেজে নেব, রংটা এরকম পাল্টাবে একটু। এক কাপ চালের জন্য এক কাপ নারকোল দুধ, এক কাপ জল। বোঝা গেল? এদিকে নুন মিষ্টিটা বুঝে দিয়ে দেবেন। ঢাকা দিয়ে 10 মিনিট, আরেকটু নেড়ে আবার ঢাকা দিয়ে 5 মিনিট। এবার দেখে মনে হচ্ছে না ভাতটা একদম প্যাচপ্যাচে ঘেঁটে ঘ। দাঁড়ান বন্ধু, একটু দাঁড়ান ভেতরের বাষ্প তখনও কাজ করছে। 10 মিনিট যদি ঢেকে রেখে দেন। দেন সেই বাষ্প সমানভাবে ছড়িয়ে পড়বে আর ভাত নিজের থেকেই ঝরঝরে উঠবে। দেখুন কি ফ্লাফি। আচ্ছা অথেন্টিক কোকোনাট রাইসের রেসিপিতে কিন্তু আরও অনেক কিছু পরে যেগুলো আমরা স্কিপ করেছি যাতে ভদ্রলোক আমাদের পমফ্রেটটাকে আউটশাইন না করতে পারে। আপনি জানলে কমেন্টে বলুন তো আর কি কি অ্যাড হয়। আজ আসি, আবার দেখা হবে।",
+    "transcript_en": "Yes, brother, I will give you the recipe for coconut rice. What do you think? I made coconut rice with the beautiful pomfret rava fry, but I didn't shoot it. Those are just recipes to please the algorithm, if needed, tell me. I'll start making the recipes right away. The video is ready, then I will tell you everything. So that you will comment four and we will get a little view. These are the follies of the theaters; there is no benefit in paying more attention to them; we understand the recipe. Actually, there is nothing to understand, it's a small recipe. First, soak the rice for 20 minutes, then In a pan, add coconut oil or any other white oil, one bay leaf, two cardamoms, and three cloves for tempering. Then, I will fry the soaked rice, turning it over and over nicely, until the color changes slightly. For one cup of rice, one cup of coconut milk, one cup of water. Understood? Meanwhile, add the salt and sugar accordingly. Cover and let it cook for 10 minutes, then stir and cover for another 5 minutes. Now, looking at it, it doesn't seem like the rice is completely mashed up. Wait a minute, wait a minute, the steam inside is still working. Cover and let it steep for 10 minutes. Then that steam will spread evenly and the rice will rise from its own. See how fluffy. Okay, but in the authentic coconut rice recipe, there are many more things that we skipped so that the gentleman cannot outshine our pomfret. If you know, tell me in the comments what else is added. I'll see you later.",
+    "timestamps": []
+  },
+  "shot_information": [
+    {
+      "shot_id": "shot_01",
+      "start_time": 0.0,
+      "end_time": 1.0,
+      "duration": 1.0,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_01.jpg"
+    },
+    {
+      "shot_id": "shot_02",
+      "start_time": 1.0,
+      "end_time": 2.79,
+      "duration": 1.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_02.jpg"
+    },
+    {
+      "shot_id": "shot_03",
+      "start_time": 2.79,
+      "end_time": 3.88,
+      "duration": 1.08,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_03.jpg"
+    },
+    {
+      "shot_id": "shot_04",
+      "start_time": 3.88,
+      "end_time": 5.46,
+      "duration": 1.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_04.jpg"
+    },
+    {
+      "shot_id": "shot_05",
+      "start_time": 5.46,
+      "end_time": 6.92,
+      "duration": 1.46,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_05.jpg"
+    },
+    {
+      "shot_id": "shot_06",
+      "start_time": 6.92,
+      "end_time": 8.76,
+      "duration": 1.84,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_06.jpg"
+    },
+    {
+      "shot_id": "shot_07",
+      "start_time": 8.76,
+      "end_time": 10.72,
+      "duration": 1.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_07.jpg"
+    },
+    {
+      "shot_id": "shot_08",
+      "start_time": 10.72,
+      "end_time": 12.51,
+      "duration": 1.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_08.jpg"
+    },
+    {
+      "shot_id": "shot_09",
+      "start_time": 12.51,
+      "end_time": 14.31,
+      "duration": 1.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_09.jpg"
+    },
+    {
+      "shot_id": "shot_10",
+      "start_time": 14.31,
+      "end_time": 16.18,
+      "duration": 1.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_10.jpg"
+    },
+    {
+      "shot_id": "shot_11",
+      "start_time": 16.18,
+      "end_time": 17.93,
+      "duration": 1.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_11.jpg"
+    },
+    {
+      "shot_id": "shot_12",
+      "start_time": 17.93,
+      "end_time": 19.19,
+      "duration": 1.25,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_12.jpg"
+    },
+    {
+      "shot_id": "shot_13",
+      "start_time": 19.19,
+      "end_time": 20.4,
+      "duration": 1.21,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_13.jpg"
+    },
+    {
+      "shot_id": "shot_14",
+      "start_time": 20.4,
+      "end_time": 21.52,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_14.jpg"
+    },
+    {
+      "shot_id": "shot_15",
+      "start_time": 21.52,
+      "end_time": 23.11,
+      "duration": 1.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_15.jpg"
+    },
+    {
+      "shot_id": "shot_16",
+      "start_time": 23.11,
+      "end_time": 24.77,
+      "duration": 1.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_16.jpg"
+    },
+    {
+      "shot_id": "shot_17",
+      "start_time": 24.77,
+      "end_time": 26.15,
+      "duration": 1.38,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_17.jpg"
+    },
+    {
+      "shot_id": "shot_18",
+      "start_time": 26.15,
+      "end_time": 27.15,
+      "duration": 1.0,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_18.jpg"
+    },
+    {
+      "shot_id": "shot_19",
+      "start_time": 27.15,
+      "end_time": 27.99,
+      "duration": 0.83,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_19.jpg"
+    },
+    {
+      "shot_id": "shot_20",
+      "start_time": 27.99,
+      "end_time": 30.2,
+      "duration": 2.21,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_20.jpg"
+    },
+    {
+      "shot_id": "shot_21",
+      "start_time": 30.2,
+      "end_time": 31.28,
+      "duration": 1.08,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_21.jpg"
+    },
+    {
+      "shot_id": "shot_22",
+      "start_time": 31.28,
+      "end_time": 32.16,
+      "duration": 0.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_22.jpg"
+    },
+    {
+      "shot_id": "shot_23",
+      "start_time": 32.16,
+      "end_time": 33.16,
+      "duration": 1.0,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_23.jpg"
+    },
+    {
+      "shot_id": "shot_24",
+      "start_time": 33.16,
+      "end_time": 34.95,
+      "duration": 1.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_24.jpg"
+    },
+    {
+      "shot_id": "shot_25",
+      "start_time": 34.95,
+      "end_time": 36.54,
+      "duration": 1.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_25.jpg"
+    },
+    {
+      "shot_id": "shot_26",
+      "start_time": 36.54,
+      "end_time": 37.5,
+      "duration": 0.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_26.jpg"
+    },
+    {
+      "shot_id": "shot_27",
+      "start_time": 37.5,
+      "end_time": 38.29,
+      "duration": 0.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_27.jpg"
+    },
+    {
+      "shot_id": "shot_28",
+      "start_time": 38.29,
+      "end_time": 39.91,
+      "duration": 1.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_28.jpg"
+    },
+    {
+      "shot_id": "shot_29",
+      "start_time": 39.91,
+      "end_time": 40.96,
+      "duration": 1.04,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_29.jpg"
+    },
+    {
+      "shot_id": "shot_30",
+      "start_time": 40.96,
+      "end_time": 42.75,
+      "duration": 1.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_30.jpg"
+    },
+    {
+      "shot_id": "shot_31",
+      "start_time": 42.75,
+      "end_time": 43.54,
+      "duration": 0.79,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_31.jpg"
+    },
+    {
+      "shot_id": "shot_32",
+      "start_time": 43.54,
+      "end_time": 44.5,
+      "duration": 0.96,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_32.jpg"
+    },
+    {
+      "shot_id": "shot_33",
+      "start_time": 44.5,
+      "end_time": 46.63,
+      "duration": 2.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_33.jpg"
+    },
+    {
+      "shot_id": "shot_34",
+      "start_time": 46.63,
+      "end_time": 47.55,
+      "duration": 0.92,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_34.jpg"
+    },
+    {
+      "shot_id": "shot_35",
+      "start_time": 47.55,
+      "end_time": 50.63,
+      "duration": 3.09,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_35.jpg"
+    },
+    {
+      "shot_id": "shot_36",
+      "start_time": 50.63,
+      "end_time": 51.26,
+      "duration": 0.63,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_36.jpg"
+    },
+    {
+      "shot_id": "shot_37",
+      "start_time": 51.26,
+      "end_time": 55.14,
+      "duration": 3.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_37.jpg"
+    },
+    {
+      "shot_id": "shot_38",
+      "start_time": 55.14,
+      "end_time": 57.02,
+      "duration": 1.88,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_38.jpg"
+    },
+    {
+      "shot_id": "shot_39",
+      "start_time": 57.02,
+      "end_time": 58.77,
+      "duration": 1.75,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_39.jpg"
+    },
+    {
+      "shot_id": "shot_40",
+      "start_time": 58.77,
+      "end_time": 60.02,
+      "duration": 1.25,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_40.jpg"
+    },
+    {
+      "shot_id": "shot_41",
+      "start_time": 60.02,
+      "end_time": 61.23,
+      "duration": 1.21,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_41.jpg"
+    },
+    {
+      "shot_id": "shot_42",
+      "start_time": 61.23,
+      "end_time": 62.35,
+      "duration": 1.13,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_42.jpg"
+    },
+    {
+      "shot_id": "shot_43",
+      "start_time": 62.35,
+      "end_time": 63.94,
+      "duration": 1.58,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_43.jpg"
+    },
+    {
+      "shot_id": "shot_44",
+      "start_time": 63.94,
+      "end_time": 65.61,
+      "duration": 1.67,
+      "keyframe_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_44.jpg"
+    }
+  ],
+  "frame_information": [
+    {
+      "frame_id": "Coconut Rice_shot_01_f1",
+      "shot_id": "shot_01",
+      "timestamp": 0.5,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_01.jpg",
+      "ocr_text": "ভjঁই দেবো | ভাই দেব"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_02_f1",
+      "shot_id": "shot_02",
+      "timestamp": 1.9,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_02.jpg",
+      "ocr_text": "এর recipe"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_03_f1",
+      "shot_id": "shot_03",
+      "timestamp": 3.34,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_03.jpg",
+      "ocr_text": "অভ সু্দর | অভ সুন্দর"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_04_f1",
+      "shot_id": "shot_04",
+      "timestamp": 4.67,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_04.jpg",
+      "ocr_text": "এর সাথে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_05_f1",
+      "shot_id": "shot_05",
+      "timestamp": 6.19,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_05.jpg",
+      "ocr_text": "কিন্তু shoot"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_06_f1",
+      "shot_id": "shot_06",
+      "timestamp": 7.84,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_06.jpg",
+      "ocr_text": "algorjljjjJ কেে | algorjjjjjj কেে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_07_f1",
+      "shot_id": "shot_07",
+      "timestamp": 9.74,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_07.jpg",
+      "ocr_text": "৫েে | recipe | যেে recipe"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_08_f1",
+      "shot_id": "shot_08",
+      "timestamp": 11.62,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_08.jpg",
+      "ocr_text": "পরেই আমি"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_09_f1",
+      "shot_id": "shot_09",
+      "timestamp": 13.41,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_09.jpg",
+      "ocr_text": "V039 reugy | Vide৩ regdy"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_10_f1",
+      "shot_id": "shot_10",
+      "timestamp": 15.24,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_10.jpg",
+      "ocr_text": "বলছি যাতে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_11_f1",
+      "shot_id": "shot_11",
+      "timestamp": 17.06,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_11.jpg",
+      "ocr_text": "একটু V3 পব | একটুview পব"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_12_f1",
+      "shot_id": "shot_12",
+      "timestamp": 18.56,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_12.jpg",
+      "ocr_text": "দেের ফাজলামি | দের ফাজলামি"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_13_f1",
+      "shot_id": "shot_13",
+      "timestamp": 19.79,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_13.jpg",
+      "ocr_text": "লভনই | লভ নেই"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_14_f1",
+      "shot_id": "shot_14",
+      "timestamp": 20.96,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_14.jpg",
+      "ocr_text": "Aljuc iy বোঝার | Alciuoly বোঝার"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_15_f1",
+      "shot_id": "shot_15",
+      "timestamp": 22.31,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_15.jpg",
+      "ocr_text": "পুচকি একটী | পুঢকি একটী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_16_f1",
+      "shot_id": "shot_16",
+      "timestamp": 23.94,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_16.jpg",
+      "ocr_text": "দব কুড়ি | দেব কুড়ি"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_17_f1",
+      "shot_id": "shot_17",
+      "timestamp": 25.46,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_17.jpg",
+      "ocr_text": "তারপর কড়াই | 7 40"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_18_f1",
+      "shot_id": "shot_18",
+      "timestamp": 26.65,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_18.jpg",
+      "ocr_text": "যেকোনে | যেকোনো"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_19_f1",
+      "shot_id": "shot_19",
+      "timestamp": 27.57,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_19.jpg",
+      "ocr_text": "একটী তেজপাতী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_20_f1",
+      "shot_id": "shot_20",
+      "timestamp": 29.09,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_20.jpg",
+      "ocr_text": "দুটো এলাচ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_21_f1",
+      "shot_id": "shot_21",
+      "timestamp": 30.74,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_21.jpg",
+      "ocr_text": "ভরপর ভিজিয়ে | তারপর ভিজিয়ে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_22_f1",
+      "shot_id": "shot_22",
+      "timestamp": 31.72,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_22.jpg",
+      "ocr_text": "রাখীী চালট | রাখ চালট"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_23_f1",
+      "shot_id": "shot_23",
+      "timestamp": 32.66,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_23.jpg",
+      "ocr_text": "উল্টে পাল্টে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_24_f1",
+      "shot_id": "shot_24",
+      "timestamp": 34.05,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_24.jpg",
+      "ocr_text": "রংটী এরকম"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_25_f1",
+      "shot_id": "shot_25",
+      "timestamp": 35.74,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_25.jpg",
+      "ocr_text": "চরজন্য | চালের জন্য"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_26_f1",
+      "shot_id": "shot_26",
+      "timestamp": 37.02,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_26.jpg",
+      "ocr_text": "এক কাপ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_27_f1",
+      "shot_id": "shot_27",
+      "timestamp": 37.89,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_27.jpg",
+      "ocr_text": "বোঝী গেল"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_28_f1",
+      "shot_id": "shot_28",
+      "timestamp": 39.1,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_28.jpg",
+      "ocr_text": "মিষ্টিট বুঝে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_29_f1",
+      "shot_id": "shot_29",
+      "timestamp": 40.44,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_29.jpg",
+      "ocr_text": "দশ মিনিট"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_30_f1",
+      "shot_id": "shot_30",
+      "timestamp": 41.85,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_30.jpg",
+      "ocr_text": "আবার ঢাঁকী | আবার তাকী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_31_f1",
+      "shot_id": "shot_31",
+      "timestamp": 43.15,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_31.jpg",
+      "ocr_text": "এবার দেখে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_32_f1",
+      "shot_id": "shot_32",
+      "timestamp": 44.02,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_32.jpg",
+      "ocr_text": "স ভভট | ন ভভটী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_33_f1",
+      "shot_id": "shot_33",
+      "timestamp": 45.57,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_33.jpg",
+      "ocr_text": "7 ঘেঁটে 7 | ,f ঘেঁটে ঘ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_34_f1",
+      "shot_id": "shot_34",
+      "timestamp": 47.09,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_34.jpg",
+      "ocr_text": "ভেভরের বাঙ্প | ভেভরের বাষ্প"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_35_f1",
+      "shot_id": "shot_35",
+      "timestamp": 49.09,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_35.jpg",
+      "ocr_text": "দশ মিনিট"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_36_f1",
+      "shot_id": "shot_36",
+      "timestamp": 50.95,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_36.jpg",
+      "ocr_text": "সেই বাপ্প | সেই বাষ্প"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_37_f1",
+      "shot_id": "shot_37",
+      "timestamp": 53.2,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_37.jpg",
+      "ocr_text": "থেকেই ঝরঝরে | থেকেছ ঝরঝয়"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_38_f1",
+      "shot_id": "shot_38",
+      "timestamp": 56.08,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_38.jpg",
+      "ocr_text": "coconut rice"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_39_f1",
+      "shot_id": "shot_39",
+      "timestamp": 57.89,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_39.jpg",
+      "ocr_text": "পড়ে যেগুে | পডে যেগুলে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_40_f1",
+      "shot_id": "shot_40",
+      "timestamp": 59.39,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_40.jpg",
+      "ocr_text": "ফরেছি যাভে | করেছি যাভে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_41_f1",
+      "shot_id": "shot_41",
+      "timestamp": 60.62,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_41.jpg",
+      "ocr_text": "pouj গje টাকে | poluuiiei টাকে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_42_f1",
+      "shot_id": "shot_42",
+      "timestamp": 61.79,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_42.jpg",
+      "ocr_text": "করভেপার | করতেপার"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_43_f1",
+      "shot_id": "shot_43",
+      "timestamp": 63.15,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_43.jpg",
+      "ocr_text": "coluiujejji এ | coluiuueji এ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_44_f1",
+      "shot_id": "shot_44",
+      "timestamp": 64.77,
+      "frame_path": "/kaggle/working/Video-RAG/Keyframes/Coconut Rice/shot_44.jpg",
+      "ocr_text": "অ্রজ অসি | অজ আসি"
+    }
+  ],
+  "object_detection": [
+    {
+      "frame_id": "Coconut Rice_shot_01_f1",
+      "shot_id": "shot_01",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.54,
+          "bbox": [
+            0.79,
+            1.64,
+            717.83,
+            1049.99
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.35,
+          "bbox": [
+            1.13,
+            1.57,
+            717.3,
+            1099.43
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_02_f1",
+      "shot_id": "shot_02",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Coconut Rice_shot_03_f1",
+      "shot_id": "shot_03",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.4,
+          "bbox": [
+            1.84,
+            15.79,
+            720.0,
+            1025.73
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.33,
+          "bbox": [
+            3.0,
+            17.29,
+            720.0,
+            708.7
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_04_f1",
+      "shot_id": "shot_04",
+      "detected_objects": [
+        {
+          "class_name": "potted plant",
+          "confidence": 0.45,
+          "bbox": [
+            378.98,
+            300.92,
+            718.36,
+            641.31
+          ]
+        },
+        {
+          "class_name": "parking meter",
+          "confidence": 0.3,
+          "bbox": [
+            0.0,
+            363.34,
+            720.0,
+            1280.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_05_f1",
+      "shot_id": "shot_05",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.81,
+          "bbox": [
+            1.38,
+            0.25,
+            499.27,
+            392.63
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_06_f1",
+      "shot_id": "shot_06",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.4,
+          "bbox": [
+            1.85,
+            91.39,
+            720.0,
+            1264.54
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_07_f1",
+      "shot_id": "shot_07",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Coconut Rice_shot_08_f1",
+      "shot_id": "shot_08",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.79,
+          "bbox": [
+            160.04,
+            194.02,
+            720.0,
+            1256.05
+          ]
+        },
+        {
+          "class_name": "cell phone",
+          "confidence": 0.35,
+          "bbox": [
+            265.63,
+            603.84,
+            461.27,
+            665.69
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_09_f1",
+      "shot_id": "shot_09",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.35,
+          "bbox": [
+            1.66,
+            15.78,
+            720.0,
+            1243.99
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_10_f1",
+      "shot_id": "shot_10",
+      "detected_objects": [
+        {
+          "class_name": "bottle",
+          "confidence": 0.64,
+          "bbox": [
+            408.71,
+            53.97,
+            720.0,
+            552.68
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.41,
+          "bbox": [
+            4.51,
+            499.84,
+            718.86,
+            1047.35
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.41,
+          "bbox": [
+            1.04,
+            612.25,
+            497.16,
+            1039.18
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_11_f1",
+      "shot_id": "shot_11",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.54,
+          "bbox": [
+            2.47,
+            159.34,
+            553.4,
+            589.15
+          ]
+        },
+        {
+          "class_name": "bottle",
+          "confidence": 0.44,
+          "bbox": [
+            357.7,
+            55.43,
+            658.96,
+            714.75
+          ]
+        },
+        {
+          "class_name": "cake",
+          "confidence": 0.29,
+          "bbox": [
+            79.24,
+            620.75,
+            712.03,
+            1014.83
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_12_f1",
+      "shot_id": "shot_12",
+      "detected_objects": [
+        {
+          "class_name": "sandwich",
+          "confidence": 0.52,
+          "bbox": [
+            0.34,
+            747.69,
+            714.3,
+            1245.91
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_13_f1",
+      "shot_id": "shot_13",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.43,
+          "bbox": [
+            0.26,
+            35.82,
+            718.87,
+            1003.99
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_14_f1",
+      "shot_id": "shot_14",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.27,
+          "bbox": [
+            1.82,
+            490.98,
+            718.6,
+            990.08
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_15_f1",
+      "shot_id": "shot_15",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.75,
+          "bbox": [
+            216.54,
+            411.87,
+            720.0,
+            1127.64
+          ]
+        },
+        {
+          "class_name": "pizza",
+          "confidence": 0.47,
+          "bbox": [
+            0.0,
+            1093.36,
+            714.29,
+            1279.38
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_16_f1",
+      "shot_id": "shot_16",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.9,
+          "bbox": [
+            2.05,
+            318.34,
+            589.08,
+            1276.73
+          ]
+        },
+        {
+          "class_name": "umbrella",
+          "confidence": 0.29,
+          "bbox": [
+            1.62,
+            0.29,
+            567.38,
+            519.48
+          ]
+        },
+        {
+          "class_name": "chair",
+          "confidence": 0.26,
+          "bbox": [
+            533.74,
+            959.89,
+            720.0,
+            1277.35
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_17_f1",
+      "shot_id": "shot_17",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Coconut Rice_shot_18_f1",
+      "shot_id": "shot_18",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.76,
+          "bbox": [
+            382.05,
+            348.99,
+            719.48,
+            1276.16
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_19_f1",
+      "shot_id": "shot_19",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.72,
+          "bbox": [
+            482.05,
+            477.9,
+            719.12,
+            1276.74
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_20_f1",
+      "shot_id": "shot_20",
+      "detected_objects": [
+        {
+          "class_name": "toothbrush",
+          "confidence": 0.66,
+          "bbox": [
+            105.55,
+            254.44,
+            554.81,
+            1031.32
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.46,
+          "bbox": [
+            298.62,
+            785.68,
+            718.45,
+            1279.64
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_21_f1",
+      "shot_id": "shot_21",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.9,
+          "bbox": [
+            284.44,
+            502.74,
+            719.53,
+            894.78
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.57,
+          "bbox": [
+            3.43,
+            379.31,
+            707.16,
+            1142.14
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_22_f1",
+      "shot_id": "shot_22",
+      "detected_objects": [
+        {
+          "class_name": "parking meter",
+          "confidence": 0.6,
+          "bbox": [
+            2.74,
+            46.31,
+            720.0,
+            1261.76
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_23_f1",
+      "shot_id": "shot_23",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.6,
+          "bbox": [
+            1.06,
+            1.5,
+            717.44,
+            1041.21
+          ]
+        },
+        {
+          "class_name": "dining table",
+          "confidence": 0.26,
+          "bbox": [
+            0.19,
+            3.19,
+            719.26,
+            1127.8
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_24_f1",
+      "shot_id": "shot_24",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Coconut Rice_shot_25_f1",
+      "shot_id": "shot_25",
+      "detected_objects": [
+        {
+          "class_name": "potted plant",
+          "confidence": 0.45,
+          "bbox": [
+            383.26,
+            302.41,
+            717.86,
+            637.76
+          ]
+        },
+        {
+          "class_name": "parking meter",
+          "confidence": 0.4,
+          "bbox": [
+            0.0,
+            359.16,
+            720.0,
+            1280.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_26_f1",
+      "shot_id": "shot_26",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.61,
+          "bbox": [
+            0.0,
+            706.76,
+            710.08,
+            1278.43
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.53,
+          "bbox": [
+            2.28,
+            0.36,
+            516.55,
+            431.77
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_27_f1",
+      "shot_id": "shot_27",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.28,
+          "bbox": [
+            0.77,
+            295.72,
+            306.33,
+            846.47
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_28_f1",
+      "shot_id": "shot_28",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.28,
+          "bbox": [
+            0.7,
+            77.79,
+            720.0,
+            1154.27
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_29_f1",
+      "shot_id": "shot_29",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.77,
+          "bbox": [
+            184.74,
+            224.82,
+            719.2,
+            1167.1
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_30_f1",
+      "shot_id": "shot_30",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.4,
+          "bbox": [
+            27.17,
+            0.42,
+            704.22,
+            304.51
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.33,
+          "bbox": [
+            0.0,
+            271.78,
+            720.0,
+            1011.34
+          ]
+        },
+        {
+          "class_name": "cup",
+          "confidence": 0.28,
+          "bbox": [
+            651.06,
+            50.92,
+            720.0,
+            318.77
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_31_f1",
+      "shot_id": "shot_31",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.64,
+          "bbox": [
+            1.24,
+            1.87,
+            671.46,
+            809.02
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.52,
+          "bbox": [
+            1.07,
+            317.04,
+            666.28,
+            795.71
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_32_f1",
+      "shot_id": "shot_32",
+      "detected_objects": [
+        {
+          "class_name": "cup",
+          "confidence": 0.67,
+          "bbox": [
+            202.33,
+            394.92,
+            557.2,
+            747.29
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.4,
+          "bbox": [
+            0.0,
+            733.43,
+            720.0,
+            1202.33
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_33_f1",
+      "shot_id": "shot_33",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.41,
+          "bbox": [
+            1.07,
+            494.21,
+            666.79,
+            908.41
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_34_f1",
+      "shot_id": "shot_34",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.32,
+          "bbox": [
+            0.0,
+            0.21,
+            470.48,
+            738.44
+          ]
+        },
+        {
+          "class_name": "apple",
+          "confidence": 0.31,
+          "bbox": [
+            1.85,
+            304.67,
+            161.2,
+            590.59
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_35_f1",
+      "shot_id": "shot_35",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.51,
+          "bbox": [
+            0.0,
+            265.44,
+            718.55,
+            983.44
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_36_f1",
+      "shot_id": "shot_36",
+      "detected_objects": [
+        {
+          "class_name": "bowl",
+          "confidence": 0.84,
+          "bbox": [
+            1.53,
+            147.71,
+            720.0,
+            1182.81
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.36,
+          "bbox": [
+            0.0,
+            143.2,
+            719.57,
+            877.73
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.3,
+          "bbox": [
+            2.13,
+            0.72,
+            163.33,
+            244.06
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.26,
+          "bbox": [
+            1.74,
+            0.51,
+            711.76,
+            245.83
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_37_f1",
+      "shot_id": "shot_37",
+      "detected_objects": []
+    },
+    {
+      "frame_id": "Coconut Rice_shot_38_f1",
+      "shot_id": "shot_38",
+      "detected_objects": [
+        {
+          "class_name": "bottle",
+          "confidence": 0.6,
+          "bbox": [
+            410.1,
+            54.12,
+            720.0,
+            554.06
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.33,
+          "bbox": [
+            3.25,
+            496.02,
+            719.18,
+            1046.42
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.3,
+          "bbox": [
+            1.02,
+            612.79,
+            490.94,
+            1037.51
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_39_f1",
+      "shot_id": "shot_39",
+      "detected_objects": [
+        {
+          "class_name": "bottle",
+          "confidence": 0.57,
+          "bbox": [
+            361.34,
+            55.78,
+            662.02,
+            512.94
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.53,
+          "bbox": [
+            2.0,
+            183.67,
+            547.7,
+            604.52
+          ]
+        },
+        {
+          "class_name": "orange",
+          "confidence": 0.38,
+          "bbox": [
+            272.61,
+            92.96,
+            386.74,
+            215.52
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_40_f1",
+      "shot_id": "shot_40",
+      "detected_objects": [
+        {
+          "class_name": "sandwich",
+          "confidence": 0.57,
+          "bbox": [
+            0.0,
+            743.8,
+            715.55,
+            1241.62
+          ]
+        },
+        {
+          "class_name": "person",
+          "confidence": 0.51,
+          "bbox": [
+            1.08,
+            0.72,
+            235.92,
+            726.32
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_41_f1",
+      "shot_id": "shot_41",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.33,
+          "bbox": [
+            0.49,
+            165.49,
+            334.72,
+            797.08
+          ]
+        },
+        {
+          "class_name": "bowl",
+          "confidence": 0.26,
+          "bbox": [
+            0.0,
+            39.13,
+            718.82,
+            1003.95
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_42_f1",
+      "shot_id": "shot_42",
+      "detected_objects": [
+        {
+          "class_name": "cake",
+          "confidence": 0.39,
+          "bbox": [
+            0.0,
+            496.76,
+            720.0,
+            989.5
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_43_f1",
+      "shot_id": "shot_43",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.73,
+          "bbox": [
+            213.03,
+            408.96,
+            720.0,
+            1132.07
+          ]
+        },
+        {
+          "class_name": "pizza",
+          "confidence": 0.59,
+          "bbox": [
+            0.15,
+            1093.02,
+            714.34,
+            1279.39
+          ]
+        },
+        {
+          "class_name": "pizza",
+          "confidence": 0.33,
+          "bbox": [
+            0.0,
+            1011.59,
+            717.4,
+            1278.62
+          ]
+        }
+      ]
+    },
+    {
+      "frame_id": "Coconut Rice_shot_44_f1",
+      "shot_id": "shot_44",
+      "detected_objects": [
+        {
+          "class_name": "person",
+          "confidence": 0.88,
+          "bbox": [
+            1.94,
+            318.41,
+            594.81,
+            1275.91
+          ]
+        },
+        {
+          "class_name": "umbrella",
+          "confidence": 0.28,
+          "bbox": [
+            1.6,
+            0.3,
+            568.11,
+            513.66
+          ]
+        }
+      ]
+    }
+  ],
+  "visual_descriptions": [
+    {
+      "frame_id": "Coconut Rice_shot_01_f1",
+      "shot_id": "shot_01",
+      "description": "The video shows a pot of rice being cooked with a red spatula.",
+      "ocr_text": "ভjঁই দেবো | ভাই দেব"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_02_f1",
+      "shot_id": "shot_02",
+      "description": "The video shows a close-up of rice being cooked in a pot.",
+      "ocr_text": "এর recipe"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_03_f1",
+      "shot_id": "shot_03",
+      "description": "The video shows a red spatula stirring rice in a pot.",
+      "ocr_text": "অভ সু্দর | অভ সুন্দর"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_04_f1",
+      "shot_id": "shot_04",
+      "description": "A ladle is pouring a creamy liquid into a pot filled with rice.",
+      "ocr_text": "এর সাথে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_05_f1",
+      "shot_id": "shot_05",
+      "description": "To cook rice, add water to a pot with rice.",
+      "ocr_text": "কিন্তু shoot"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_06_f1",
+      "shot_id": "shot_06",
+      "description": "In the video, the cooking action involves adding milk to a pot with leaves and spices.",
+      "ocr_text": "algorjljjjJ কেে | algorjjjjjj কেে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_07_f1",
+      "shot_id": "shot_07",
+      "description": "The video shows a red spatula stirring rice in a pot.",
+      "ocr_text": "৫েে | recipe | যেে recipe"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_08_f1",
+      "shot_id": "shot_08",
+      "description": "The cooking action is to place a ring on a metal tray.",
+      "ocr_text": "পরেই আমি"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_09_f1",
+      "shot_id": "shot_09",
+      "description": "The video shows a close-up of cooked rice in a pot, indicating the rice has been cooked.",
+      "ocr_text": "V039 reugy | Vide৩ regdy"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_10_f1",
+      "shot_id": "shot_10",
+      "description": "A person is using a piping bag to apply a creamy mixture to a plate.",
+      "ocr_text": "বলছি যাতে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_11_f1",
+      "shot_id": "shot_11",
+      "description": "The video shows a person serving rice on a plate using a white spoon.",
+      "ocr_text": "একটু V3 পব | একটুview পব"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_12_f1",
+      "shot_id": "shot_12",
+      "description": "The cooking action involves serving a dish of fried fish with a side of steamed rice.",
+      "ocr_text": "দেের ফাজলামি | দের ফাজলামি"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_13_f1",
+      "shot_id": "shot_13",
+      "description": "The cooking action is to fry a fish and serve it with rice.",
+      "ocr_text": "লভনই | লভ নেই"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_14_f1",
+      "shot_id": "shot_14",
+      "description": "The cooking action is frying the fish, and the ingredients used are fish, spices, and oil.",
+      "ocr_text": "Aljuc iy বোঝার | Alciuoly বোঝার"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_15_f1",
+      "shot_id": "shot_15",
+      "description": "The cooking action in the video is to serve the dish with rice and a side of fried fish, using a blue plate.",
+      "ocr_text": "পুচকি একটী | পুঢকি একটী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_16_f1",
+      "shot_id": "shot_16",
+      "description": "The cooking action in the video is to prepare a dish, and the ingredients used are not specified.",
+      "ocr_text": "দব কুড়ি | দেব কুড়ি"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_17_f1",
+      "shot_id": "shot_17",
+      "description": "The video shows a close-up of a clean pot, indicating the preparation of a dish.",
+      "ocr_text": "তারপর কড়াই | 7 40"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_18_f1",
+      "shot_id": "shot_18",
+      "description": "Add cardamom and black pepper to the pot.",
+      "ocr_text": "যেকোনে | যেকোনো"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_19_f1",
+      "shot_id": "shot_19",
+      "description": "Add a few black peppercorns to the pot.",
+      "ocr_text": "একটী তেজপাতী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_20_f1",
+      "shot_id": "shot_20",
+      "description": "In the video, a red spatula is being used to stir a pot of food.",
+      "ocr_text": "দুটো এলাচ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_21_f1",
+      "shot_id": "shot_21",
+      "description": "The cooking action is to drain the rice using a strainer.",
+      "ocr_text": "ভরপর ভিজিয়ে | তারপর ভিজিয়ে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_22_f1",
+      "shot_id": "shot_22",
+      "description": "The cooking action is sieving the rice, and the ingredients are rice and water.",
+      "ocr_text": "রাখীী চালট | রাখ চালট"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_23_f1",
+      "shot_id": "shot_23",
+      "description": "The cooking action is to add cardamom and saffron to the rice in a pot.",
+      "ocr_text": "উল্টে পাল্টে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_24_f1",
+      "shot_id": "shot_24",
+      "description": "The cooking action involves adding water to the rice in a pot.",
+      "ocr_text": "রংটী এরকম"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_25_f1",
+      "shot_id": "shot_25",
+      "description": "In the video, a spoon is pouring milk into a pot of rice.",
+      "ocr_text": "চরজন্য | চালের জন্য"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_26_f1",
+      "shot_id": "shot_26",
+      "description": "Pour one cup of water into the pot with rice.",
+      "ocr_text": "এক কাপ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_27_f1",
+      "shot_id": "shot_27",
+      "description": "Adding salt to a pot of rice.",
+      "ocr_text": "বোঝী গেল"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_28_f1",
+      "shot_id": "shot_28",
+      "description": "In the video, the person is stirring a pot of milk with a spatula.",
+      "ocr_text": "মিষ্টিট বুঝে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_29_f1",
+      "shot_id": "shot_29",
+      "description": "To make a perfect egg, hold the egg in the palm of your hand and gently tap it against the edge of a metal tray to break it.",
+      "ocr_text": "দশ মিনিট"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_30_f1",
+      "shot_id": "shot_30",
+      "description": "The person is using a red spatula to stir the rice in a pot.",
+      "ocr_text": "আবার ঢাঁকী | আবার তাকী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_31_f1",
+      "shot_id": "shot_31",
+      "description": "Adding salt to the rice in a cooking pot.",
+      "ocr_text": "এবার দেখে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_32_f1",
+      "shot_id": "shot_32",
+      "description": "The person is adding water to the rice in a pot.",
+      "ocr_text": "স ভভট | ন ভভটী"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_33_f1",
+      "shot_id": "shot_33",
+      "description": "The video shows a red spatula stirring rice in a pot.",
+      "ocr_text": "7 ঘেঁটে 7 | ,f ঘেঁটে ঘ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_34_f1",
+      "shot_id": "shot_34",
+      "description": "The person is stirring the rice in a pot using a red spatula.",
+      "ocr_text": "ভেভরের বাঙ্প | ভেভরের বাষ্প"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_35_f1",
+      "shot_id": "shot_35",
+      "description": "The cooking action is to stir the rice in a pot using a red spatula.",
+      "ocr_text": "দশ মিনিট"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_36_f1",
+      "shot_id": "shot_36",
+      "description": "The cooking action is to cook rice in a pot.",
+      "ocr_text": "সেই বাপ্প | সেই বাষ্প"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_37_f1",
+      "shot_id": "shot_37",
+      "description": "The cooking action is to add the cooked rice to the pan.",
+      "ocr_text": "থেকেই ঝরঝরে | থেকেছ ঝরঝয়"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_38_f1",
+      "shot_id": "shot_38",
+      "description": "A person is using a piping bag to add coconut rice to a dish.",
+      "ocr_text": "coconut rice"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_39_f1",
+      "shot_id": "shot_39",
+      "description": "The person is using a spatula to spread the cooked rice evenly on a plate.",
+      "ocr_text": "পড়ে যেগুে | পডে যেগুলে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_40_f1",
+      "shot_id": "shot_40",
+      "description": "The cooking action is to garnish the fish with a sprinkle of coriander leaves.",
+      "ocr_text": "ফরেছি যাভে | করেছি যাভে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_41_f1",
+      "shot_id": "shot_41",
+      "description": "The cooking action is to fry a fish and serve it with rice.",
+      "ocr_text": "pouj গje টাকে | poluuiiei টাকে"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_42_f1",
+      "shot_id": "shot_42",
+      "description": "The cooking action is frying the fish, and the ingredients used are fish, spices, and oil.",
+      "ocr_text": "করভেপার | করতেপার"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_43_f1",
+      "shot_id": "shot_43",
+      "description": "The video shows a person eating a plate of rice and a fried fish, with the text \"comment\" appearing on the screen.",
+      "ocr_text": "coluiujejji এ | coluiuueji এ"
+    },
+    {
+      "frame_id": "Coconut Rice_shot_44_f1",
+      "shot_id": "shot_44",
+      "description": "The woman in the video is demonstrating how to make a specific dish, possibly a type of curry or stir-fry, using a variety of ingredients and a cooking utensil.",
+      "ocr_text": "অ্রজ অসি | অজ আসি"
+    }
+  ]
+}
