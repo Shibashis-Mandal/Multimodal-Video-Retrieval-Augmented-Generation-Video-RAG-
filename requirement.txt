@@ -1,0 +1,12 @@
+chromadb
+sentence-transformers
+rank-bm25
+ollama
+opencv-python
+numpy
+scenedetect
+ultralytics
+easyocr
+deep-translator
+python-dotenv
+pickle

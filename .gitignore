@@ -1,0 +1,21 @@
+# Environment
+.env
+.venv/
+
+# Python
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated Data
+data/
+
+# Model Weights
+weights/
+
+# OS Files
+.DS_Store
