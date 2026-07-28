@@ -302,3 +302,38 @@ for r in results:
   ]
 }
 ```
+---
+
+# Dataset Credits
+
+The videos used in this project's dataset are sourced from the Instagram channel:
+
+**Calcutta Kitchen | ক্যালকাটা কিচেন**
+
+https://www.instagram.com/calcuttakitchen.in/
+
+The creators retain full ownership and copyright of the original video content. These videos are used solely for research, educational, and demonstration purposes in the development and evaluation of this Multi-Modal Video RAG Pipeline.
+
+The dataset includes the following Instagram Reels:
+
+| Recipe | Instagram Reel |
+|---------|----------------|
+| Caramel Custard | https://www.instagram.com/p/Da0UsJ2Ism6/ |
+| Hilsa Roe in Tangy Tamarind Broth \| ইলিশের ডিমের তেতুলের টক | https://www.instagram.com/p/DapkJorsPqT/ |
+| Yogurt Chicken \| দই চিকেন | https://www.instagram.com/p/Dafg1HDyvRU/ |
+| Coconut Rice | https://www.instagram.com/p/DaX13rUo9tP/ |
+| Goan Pomfret Rawa Fry | https://www.instagram.com/p/DaDNjzxoGJ7/ |
+
+We gratefully acknowledge **Calcutta Kitchen | ক্যালকাটা কিচেন** for creating and publishing these instructional cooking videos, which served as the source material for this research project.
+
+---
+
+# Notebook Information
+
+The `Video-RAG.ipynb` notebook was developed and tested in the **Kaggle Notebook** environment using an **NVIDIA Tesla T4 GPU**.
+
+To execute the complete pipeline successfully, users must provide their own **Sarvam AI API Key**.
+
+When **Step 1** of the notebook is executed, the notebook automatically checks for the `SARVAM_API_KEY` environment variable. If the key is not found, it will securely prompt the user to enter their own Sarvam AI API key using `getpass`. After the API key is provided, the notebook proceeds with the remaining stages of the pipeline without requiring any additional configuration.
+
+This design ensures that API credentials are never hardcoded in the notebook and allows different users to run the pipeline using their own Sarvam AI accounts.
