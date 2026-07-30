@@ -18,6 +18,10 @@ The L3 engine accepts a user query and retrieves the most relevant video using:
 - Knowledge graph lookup
 - Answer generation using template, Gemini, or Qwen2.5
 
+## Knowledge Graph Preview
+
+![Knowledge graph preview](assets/knowledge_graph.png)
+
 ## Expected Input Structure
 
 The engine expects an output folder containing:
