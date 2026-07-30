@@ -36,6 +36,10 @@ Knowledge graph preview:
 
 ![Knowledge graph preview](assets/knowledge_graph.png)
 
+Sample recipe frame:
+
+![Chicken with marinade](assets/chickenWithMarinade.png)
+
 ---
 
 This repository contains a Multimodal Video-RAG pipeline for Bengali recipe
