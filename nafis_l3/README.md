@@ -3,9 +3,11 @@
 This folder contains my Layer 3 contribution for the Multimodal Video-RAG
 project.
 
-## Main File
+## Main Files
 
 `06_unified_query_engine.py`
+
+`app.py`
 
 ## Purpose
 
@@ -29,6 +31,8 @@ output/
 
 ## Run
 
+Run the L3 engine directly:
+
 ```bash
 python 06_unified_query_engine.py --out output --backend template
 ```
@@ -38,6 +42,12 @@ Optional answer backends:
 ```bash
 python 06_unified_query_engine.py --out output --backend gemini
 python 06_unified_query_engine.py --out output --backend qwen
+```
+
+Run the Streamlit demo UI:
+
+```bash
+streamlit run app.py -- --out output --l3-dir .
 ```
 
 ## Notes
