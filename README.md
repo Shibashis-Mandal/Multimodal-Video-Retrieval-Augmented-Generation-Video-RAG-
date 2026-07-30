@@ -32,10 +32,6 @@ Run the Streamlit demo:
 streamlit run app.py -- --out output --l3-dir .
 ```
 
-Knowledge graph preview:
-
-![Knowledge graph preview](assets/knowledge_graph.png)
-
 Sample recipe frame:
 
 ![Chicken with marinade](assets/chickenWithMarinade.png)
