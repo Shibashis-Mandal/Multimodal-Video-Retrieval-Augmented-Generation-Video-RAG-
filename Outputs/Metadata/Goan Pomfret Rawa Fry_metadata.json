@@ -15,24 +15,42 @@
   },
   "recipe_information": {
     "dish_type": "Fry",
-    "ingredients": {
-      "fish": [
-        "pomfrets"
-      ],
-      "spices": [
-        "Kashmiri dried red chillies",
-        "garlic cloves",
-        "ginger",
-        "cumin seeds",
-        "jaggery",
-        "turmeric powder"
-      ],
-      "cooking_fats": [
-        "coconut oil"
-      ]
-    },
+    "ingredients": [
+      {
+        "name": "pomfrets",
+        "quantity": "whole"
+      },
+      {
+        "name": "Kashmiri dried red chillies",
+        "quantity": "8"
+      },
+      {
+        "name": "garlic cloves",
+        "quantity": "8"
+      },
+      {
+        "name": "ginger",
+        "quantity": "1/2 inch"
+      },
+      {
+        "name": "cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "jaggery",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "to taste"
+      }
+    ],
     "estimated_steps": [
-      "Make 3-4 deep slits on both sides of the pomfret.",
+      "Make 3-4 deep slits on both sides of the pomfrets.",
       "Rub with salt, turmeric and lemon and keep aside for 10-15 minutes.",
       "Dry roast the Kashmiri chillies, garlic, ginger, and cumin until aromatic, then blend them with jaggery, turmeric and salt into a smooth, thick paste.",
       "Apply the masala generously all over the fish, inside the slits and the cavity. Marinate for at least 1 hour.",
@@ -41,18 +59,19 @@
     ],
     "cuisine": "Indian",
     "tags": [
-      "Goa",
-      "Konkan Coast",
-      "Fish Fry"
+      "fish",
+      "fried",
+      "coconut oil",
+      "masala"
     ],
     "tips": [
-      "Avoid high heat to prevent burning the masala.",
-      "Ensure the coating is thin but not too thick."
+      "Avoid high heat to prevent burning of the masala.",
+      "The coating should be thin to ensure even browning."
     ]
   },
   "audio_information": {
-    "transcript_bn": "এই চচ্চর চচ্চর আওয়াজে যদি আপনি একটুও স্যালাইভেট না করে থাকেন দেন ইটস এ বিগার কোশ্চেন আপনি কি সত্যিই মাছ প্রেমী? আমরা ছোটবেলা থেকে একটা জিনিস বিশ্বাস করতাম যে মাছকে সবচেয়ে বেশি ভালোবাসে বাঙালিরা। কিন্তু গত সাত বছর মহারাষ্ট্রে থাকার পর বুঝলাম যে ভারতের পশ্চিম উপকূলে একটা পুরো অঞ্চল আছে যারা মাছকে আমাদের মতোই ভালোবাসে। আর ওদের এই পমফ্রেট ডিশটা পুরো নাড়িয়ে দিয়েছিল। বাঙালিরা যেমন মাছ কিনে মাছ নিয়ে আলোচনা করে মাছের ঝোল ঝাল নিয়ে তর্ক বিতর্ক করে। কোঙ্কন উপকূলের মানুষও ঠিক তেমনই। গোয়া, রত্নাগিরি, সিন্ধুদুর্গ, মালবান এই পুরো উপকূল জুড়ে মাছ শুধু খাবার নয়। ইটস পার্ট অফ দেয়ার কালচার। আর সেখানেই আমি প্রথম প্রেমে পড়ি এই পমফ্রেট রাওয়া ফ্রাইয়ের। মজার ব্যাপার হলো এখানে মাছের স্বাদটা শুধু মাছ থেকে আসে না মামা। আসল ম্যাজিকটা লুকিয়ে আছে একটা মশলায়। এটার অনেক কটা ভেরিয়েশন আছে। আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি। প্রথমে শুকনো খোলায় কটা কাশ্মীরি শ্রীলঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকেল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোপড়া যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব। গোয়াতে এটাকে রেশাডো মসলা বলে, দারুন ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড। আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট মারবো, তারপর পর একটু লেবু, একটু নুন আর একটু হলুদ মাখিয়ে 10 মিনিট রেস্ট দেব। 10 মিনিট পর মশলাটা নিয়ে ভালো করে মাছের গায়ে, চিরগুলোর ভেতরে, পেটের ভেতরে যেখানে যেখানে সম্ভব মাখিয়ে ফেলুন। ঘন্টাখানেক মাছটা ম্যারিনেট হোক, এখনো কিন্তু একটা স্টেপ বাকি। এই স্টেপটাই কিন্তু মাছটাকে বাইরের থেকে ক্রিস্পি আর ভেতর থেকে জুসি রাখে মামা। অর্ধেক চালের গুঁড়ো, অর্ধেক সুজি, একটু নুন দিয়ে ভালো করে মিশিয়ে নেব। তারপর মাছটা বের করে দুই দিকে ভালো করে চেপে চেপে কোট করে নেব। কোট করে কিন্তু বেশিক্ষণ রাখা যাবে না মামা। তাই তাওয়া গরম বসিয়েই কোট করা শুরু করুন। তাওয়া গরম হলে তেল দিয়ে মিডিয়াম ফ্লেমে ভাজবো কারণ সুজি তাড়াতাড়ি রং ধরে গেলে মাছের ভেতর কাঁচা থেকে যাবে। জাস্ট হিয়ার দা সাউন্ড দিস ইজ দা বেস্ট পার্ট অফ দা রেসিপি। একদম কম তেলে ভাজবেন না, একটু বেশি লাগে তেল, বলে লাভ নেই। দুদিকটা এরকম ভাজা হয়ে গেল, শেষে একটা ছোট্ট টুইস্ট, বাকি তেলে কটা কারি পাতা ফোড়ন দিয়ে ওই তেল ওয়ালা কারি পাতাটা ভাজার উপরে ট্রাস্ট মি আমার কোনো অভিপ্রায় নেই এখন। আপনার উইকেন্ড নষ্ট করার দায়িত্ব নিয়ে বলছি, ইট উইল সর্ট ইয়োর উইকেন্ড। এটাকে আমরা সার্ভ করেছিলাম দি ক্লাসিক কোকোনাট রাইস দিয়ে। এটার রেসিপি লাগলে কমেন্টে জানাবেন। কোনো ইম্পোর্ট থাকলে তো জানাতে ভুলবেনই না। আজ আসি, আবার দেখা হবে।",
-    "transcript_en": "If you don't even salivate at the sound of this chachchar chachchar, then it's a bigger question, are you really a fish lover? We have always believed since childhood that Bengalis love fish the most. But after staying in Maharashtra for the last seven years, I understood that there is a whole region on the west coast of India who loves fish as much as we do. And their pomfret dish was a complete surprise. Bengalis, for example, buy fish and discuss fish Arguments are made over spicy and mild dishes. The people of the Konkan coast are similar. Goa, Ratnagiri, Sindhudurg, and Malvan, this entire coastline is not just about fish for food. It's part of their culture. And that's where I fell in love with this pomfret rava fry. The funny thing is that the taste of the fish here doesn't just come from the fish, uncle. The real magic lies in the spices. It has many variations. We are making the masala in a Goan style. First, a few Kashmiri in a dry pan Sri Lanka, whole garlic, whole ginger, whole cumin, after roasting well, cool it and put it in a mixer, then one by one add grated coconut, ideally dry coconut or khopra goes in, sugar, ideally jaggery goes in, tamarind, Ideally, dry kokum also goes with it, and a little turmeric and salt will be ground finely. In Goa, it's called Reshado Masala, it's very versatile, you can use it with any fish, especially seafood. Okay, now take the fish and first make cuts like this on its body, then Then, add a little lemon, a little salt, and a little turmeric, mix it, and let it rest for 10 minutes. After 10 minutes, take the spice and apply it well on the fish, inside the scales, inside the belly, wherever possible, and mix it in. Let the fish marinate for about an hour, but there is still one step left. This step is what keeps the fish crispy on the outside and juicy on the inside, my friend. Half rice flour, half semolina, add a little salt and mix well. Then, take out the fish and coat both sides well by pressing. It's a coat, but it can't be kept on for too long, uncle. So start coating the pan while it's still hot. Once the pan is hot, add oil and fry on medium flame because if the semolina catches color quickly, it will remain raw inside the fish. Just hear the sound, this is the best part of the recipe. Don't fry it in very little oil, a little more oil is needed, there is no benefit in saying so. Both sides are fried like this, finally a small twist, after adding some curry leaves to the remaining oil for tempering, I have no intention of trusting that oily curry leaf to fry it now. I bet, you're going to waste some time, my friend. We served it with the Classic Coconut Rice. If you need the recipe for this, please let me know in the comments. If there is any import, don't forget to let me know. I'll see you later.",
+    "transcript_bn": "এই চচ্চর চচ্চর আওয়াজে যদি আপনি একটুও স্যালাইভেট না করে থাকেন দেন ইটস এ বিগার কোশ্চেন আপনি কি সত্যিই মাছ প্রেমী? আমরা ছোটবেলা থেকে একটা জিনিস বিশ্বাস করতাম যে মাছকে সবচেয়ে বেশি ভালোবাসে বাঙালিরা। কিন্তু গত সাত বছর মহারাষ্ট্রে থাকার পর বুঝলাম যে ভারতের পশ্চিম উপকূলে একটা পুরো অঞ্চল আছে যারা মাছকে আমাদের মতোই ভালোবাসে। আর ওদের এই পমফ্রেট ডিশটা পুরো নাড়িয়ে দিয়েছিল। বাঙালিরা যেমন মাছ কিনে মাছ নিয়ে আলোচনা করে মাছের ঝোল ঝাল নিয়ে তর্ক বিতর্ক করে। কোঙ্কন উপকূলের মানুষও ঠিক তেমনই। গোয়া, রত্নাগিরি, সিন্ধুদুর্গ, মালবান এই পুরো উপকূল জুড়ে মাছ শুধু খাবার নয়। ইটস পার্ট অফ দেয়ার কালচার। আর সেখানেই আমি প্রথম প্রেমে পড়ি এই পমফ্রেট রাওয়া ফ্রাইয়ের। মজার ব্যাপার হলো এখানে মাছের স্বাদটা শুধু মাছ থেকে আসে না মামা। আসল ম্যাজিকটা লুকিয়ে আছে একটা মশলায়। এটার অনেক কটা ভেরিয়েশন আছে। আমরা মশলাটা একটু গোয়ান স্টাইলে বানাচ্ছি। প্রথমে শুকনো খোলায় কটা কাশ্মীরি শ্রীলঙ্কা, গোটা রসুন, গোটা আদা, গোটা জিরে ভালো করে শেকে নিয়ে ঠান্ডা করে মিক্সারে দিয়ে তাতে একে একে নারকেল কোড়া, আইডিয়ালি শুকনো নারকেল বা খোপড়া যায়, চিনি, আইডিয়ালি গুড় যায়, তেঁতুল, আইডিয়ালি কিন্তু এর সাথে শুকনো কোকামও যায়, আর একটু হলুদ আর নুন দিয়ে মিহি করে বেটে নেব। গোয়াতে এটাকে রেশাডো মসলা বলে, দারুন ভার্সেটাইল, যে কোনো মাছে ইউজ করতে পারেন, স্পেশালি সি ফুড। আচ্ছা এবারে মাছটা নিয়ে গায়ে প্রথমে এরকম কাট মারবো, তারপর তারপর একটু লেবু, একটু নুন আর একটু হলুদ মাখিয়ে 10 মিনিট রেস্ট দেবো। 10 মিনিট পর মশলাটা নিয়ে ভালো করে মাছের গায়ে, চিরগুলোর ভেতরে, পেটের ভেতরে যেখানে যেখানে সম্ভব মাখিয়ে ফেলুন। ঘন্টাখানেক মাছটা ম্যারিনেট হোক, এখনো কিন্তু একটা স্টেপ বাকি। এই স্টেপটাই কিন্তু মাছটাকে বাইরের থেকে ক্রিস্পি আর ভেতর থেকে জুসি রাখে মামা। অর্ধেক চালের গুঁড়ো, অর্ধেক সুজি, একটু নুন দিয়ে ভালো করে মিশিয়ে নেবো। তারপর মাছটা বের করে দুই দিকে ভালো করে চেপে চেপে কোট করে নেবো। কোট করে কিন্তু বেশিক্ষণ রাখা যাবে না মামা। তাই তাওয়া গরম বসিয়েই কোট করা শুরু করুন। তাওয়া গরম হলে তেল দিয়ে মিডিয়াম ফ্লেমে ভাজবো কারণ সুজি তাড়াতাড়ি রং ধরে গেলে মাছের ভেতর কাঁচা থেকে যাবে। জাস্ট হিয়ার দা সাউন্ড, দিস ইজ দা বেস্ট পার্ট অফ দা রেসিপি। একদম কম তেলে ভাজবেন না, একটু বেশি লাগে তেল, বলে লাভ নেই। দুদিকটা এরকম ভাজা হয়ে গেল, শেষে একটা ছোট্ট টুইস্ট, বাকি তেলে কটা কারি পাতা ফোড়ন দিয়ে ওই তেল ওয়ালা কারি পাতাটা ভাজার উপরে ট্রাস্ট মি আমার কোনো অভিপ্রায় নেই আপনি। আপনার উইকেন্ড নষ্ট করার দায়িত্ব নিয়ে বলছি, ইট উইল সর্ট ইয়োর উইকেন্ড। এটাকে আমরা সার্ভ করেছিলাম দি ক্লাসিক কোকোনাট রাইস দিয়ে। এটার রেসিপি লাগলে কমেন্টে জানাবেন। কোনো ইম্পোর্ট থাকলে তো জানাতে ভুলবেনই না। আজ আসি, আবার দেখা হবে।",
+    "transcript_en": "If you don't even salivate at the sound of this chachchar chachchar, then it's a bigger question, are you really a fish lover? Since our childhood, we believed that Bengalis love fish the most. But after staying in Maharashtra for the last seven years, I understood that there is a whole region on the west coast of India who loves fish as much as we do. And their pomfret dish was a complete delight. Bengalis, for example, buy fish and discuss fish They argue about the spice. The people of the Konkan coast are similar. Goa, Ratnagiri, Sindhudurg, and Malvan, this entire coastline is full of fish, not just food. It's part of their culture. And that's where I fell in love with this pomfret rava fry. The interesting thing is that the taste of the fish here doesn't just come from the fish, uncle. The real magic lies in the spices. There are many variations of it. We are making the masala a bit Goan in style. First, a few Kashmiri in a dry pan Sri Lanka, whole garlic, whole ginger, whole cumin, after roasting well, cool it and put it in a mixer, then one by one add grated coconut, ideally dry coconut or khopra goes in, sugar, ideally jaggery goes in, tamarind, Ideally, dry kokum also goes with it, and a little turmeric and salt will be ground finely. In Goa, it's known as Reshado Masala, a wonderfully versatile spice that can be used with any fish, especially seafood. Okay, now take the fish and first make a cut like this on its body, then Then, add a little lemon, a little salt and a little turmeric, mix well and let it rest for 10 minutes. After 10 minutes, take the spice and apply it well on the fish, inside the scales, inside the belly, wherever possible, and mix it in. Let the fish marinate for about an hour, but there is still one step left. This step is what keeps the fish crispy on the outside and juicy on the inside, my friend. Half rice flour, half semolina, add a little salt and mix well. Then, take out the fish and coat both sides well by pressing. It's a coat, but it can't be kept on for too long, uncle. So start coating the pan while it's still hot. Once the pan is hot, add oil and fry on medium flame because if the semolina catches color quickly, the inside of the fish will remain raw. Just hear the sound, this is the best part of the recipe. Don't fry in very little oil, a little more oil is needed, there is no benefit in saying so. Both sides are fried like this, finally a small twist, after adding some curry leaves to the remaining oil for tempering, trust me, I have no intention of frying that oily curry leaf. I bet, you're going to waste some time, my friend. We served it with the classic coconut rice. If you need the recipe for this, please let me know in the comments. If there is any import, don't forget to let me know. I'll see you later.",
     "timestamps": []
   },
   "shot_information": [

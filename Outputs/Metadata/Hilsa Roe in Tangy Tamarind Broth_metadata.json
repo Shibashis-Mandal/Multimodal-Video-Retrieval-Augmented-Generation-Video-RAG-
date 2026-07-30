@@ -14,19 +14,69 @@
     "video_path": "/kaggle/input/datasets/shibashismandal001/doi-chicken/Hilsa Roe in Tangy Tamarind Broth.mp4"
   },
   "recipe_information": {
-    "dish_type": "Hilsa Roe In Tangy Tamarind Broth",
-    "ingredients": [],
-    "estimated_steps": [],
-    "cuisine": "Bengali",
-    "tags": [
-      "Bengali",
-      "Cooking"
+    "dish_type": "Stew",
+    "ingredients": [
+      {
+        "name": "Hilsa roe",
+        "quantity": "200-250g"
+      },
+      {
+        "name": "Tamarind",
+        "quantity": "about the size of a small lemon (soak in hot water for 10 minutes)"
+      },
+      {
+        "name": "Mustard oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Panch Phoron",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Dried red chilies",
+        "quantity": "2"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Sugar",
+        "quantity": "1½–2 tbsp (slightly more than the salt)"
+      },
+      {
+        "name": "Green chilies",
+        "quantity": "for serving"
+      }
     ],
-    "tips": []
+    "estimated_steps": [
+      "Mash the soaked tamarind with your fingers to extract the pulp.",
+      "Heat the mustard oil in a pan. Add the Panch Phoron and dried red chilies, allowing them to splutter and release their aroma.",
+      "Add the turmeric powder and immediately pour in the tamarind extract. Cover the pan with a lid.",
+      "Once it comes to a boil, uncover, add the salt and sugar, and let it simmer for 2 minutes.",
+      "Gently slide the raw hilsa roe into the broth. Cover and cook for 5 minutes. As it cooks, the roe will naturally firm up and hold its shape.",
+      "Remove from the heat and serve with fresh green chilies."
+    ],
+    "cuisine": "Indian",
+    "tags": [
+      "stew",
+      "tangy",
+      "roe",
+      "tamarind",
+      "five spice"
+    ],
+    "tips": [
+      "If you plan to enjoy it the next day, make the broth slightly tangier, as the roe will gradually absorb the tamarind's sourness over time.",
+      "This dish is at its best when mixed into hot steamed rice at the end of the meal, with a fresh green chili gently crushed into it for an extra burst of flavor."
+    ]
   },
   "audio_information": {
-    "transcript_bn": "দিস ইজ দা বেস্ট ওয়ে টু হ্যাভ ইলিশের ডিম পিরিয়ড। দেখুন ঝোলে ঝালে ইলিশের ডিম ভাল লাগে না আমি বলছি না। বাট তারা সেই পেটির মধ্যে ঢুকে সাইড ক্যারেক্টার হয়েই থেকে যায়। আপনি বলুন ইলিশ মাছের ডিম কি এতই ফ্যাল না? ও কি একটা একটা মেইন ক্যারেক্টার ডিশ ডিজার্ভ করে না? ইলিশ মাছের ডিম দিয়ে তেঁতুলের টক মেরে কেটে 10 মিনিট লাগে বানাতে। শেষ পাতে এরকম কাঁচা লঙ্কা ডলে টকে মেখে এক চুমুক দিলেই আপনার অন্তরাত্মা নিজে বেরিয়ে এসে আপনাকে বলবে ভাই কি খাওয়ালি। প্রথমেই গরম জলে তেঁতুলটা টা ভিজিয়ে রাখবো বাট ছাঁকতে যাবেন না। এরকম ডলে ডলে হাত দিয়ে ছালগুলো বের করে নিন। ছেঁকে ফেললে তেঁতুলের এই কাতটাই পাবেন না। ব্যাস, কড়ায় সরষের তেল গরম করে পাঁচফোড়ন, শুকনো লঙ্কা, একটু হলুদ আর তেঁতুলের জলটা দিয়েই সঙ্গে সঙ্গে ঢাকা দিন। না হলে এই ছুঁকটা লক হবে না। ফুট উঠলে খুলে স্বাদমতো চিনি, চিনিটা একটু বেশি, নুনটা একটু কম। দু মিনিট ফুটিয়ে ওই কাঁচা ইলিশের ডিমগুলো পাঁচ মিনিট ঢাকা দেবো। ডিমগুলো একা একাই নিজের শেপ হোল্ড করবে আর টকটা যদি যদি বাসি করে খেতে চান তাহলে টকটা একটু বেশিই রাখবেন কারণ সময়ের সাথে সাথে ডিমগুলো টকটা অ্যাবজর্ব করতে থাকবে। ব্যাস, শেষ পাতে এরকম কাঁচা লঙ্কা ডলে টকটা মাখিয়ে টেল মি এর থেকে ভালো শেষ পাতের প্যালেট ক্লিনজার ইহজগতে আছে? কমেন্টে অবশ্যই জানান যদি নিরামিষ আমিষ আর কোন টকের রেসিপি চান। আজ আসি, আবার দেখা হবে।",
-    "transcript_en": "This is the best way to have Hilsa fish eggs. Look, I'm not saying that I don't like Hilsa fish eggs in the curry. But they enter that box and remain as side characters. Tell me, are the Hilsa fish eggs so delicious? Doesn't every main character deserve a dish? It takes 10 minutes to make it by adding Hilsa fish eggs and souring the tamarind. At the end of the meal, if you take a bite of this raw chili, rubbed and mashed, your inner self will come out and tell you, brother, what have I fed you. First, the tamarind in hot water I will soak it but don't drain it. Peel them like this, by hand. If you strain it, you won't get this side of the tamarind. That's it, heat mustard oil in a pan, add five-spice mix, dry chilies, a little turmeric, and tamarind water, and immediately cover it. Otherwise, this touch will not be locked. When the foot rises, open it and add sugar to taste. The sugar is a little more, the salt is a little less. Boil for two minutes and then cover the raw hilsa eggs for five minutes. The eggs will hold their shape on their own, and if the sourness If you want to eat it stale, then keep the sourness a little more because with time the eggs will absorb the sourness. That's it, at the end of the meal, like this, grating green chilies and mixing the sourness, tell me, is there a better palette cleanser than this in this world? Please let me know in the comments if you want any vegetarian or non-vegetarian or any other kind of recipe. I'll see you later.",
+    "transcript_bn": "দিস ইজ দা বেস্ট ওয়ে টু হ্যাভ ইলিশের ডিম পিরিয়ড। দেখুন ঝোলে ঝালে ইলিশের ডিম ভাল লাগে না আমি বলছি না। বাট তারা সেই পেটির মধ্যে ঢুকে সাইড ক্যারেক্টার হয়েই থেকে যায়। আপনি বলুন ইলিশ মাছের ডিম কি এতই ফ্যাল না? ও কি একটা একটা মেইন ক্যারেক্টার ডিশ ডিজার্ভ করে না? ইলিশ মাছের ডিম দিয়ে তেঁতুলের টক মেরে কেটে 10 মিনিট লাগে বানাতে। শেষ পাতে এরকম কাঁচা লঙ্কা ডলে টকে মেখে এক চুমুক দিলেই আপনার অন্তরাত্মা নিজে বেরিয়ে এসে আপনাকে বলবে ভাই কি খাওয়ালি। প্রথমেই গরম জলে তেঁতুলটা টা ভিজিয়ে রাখবো বাট ছাঁকতে যাবেন না। এরকম ডলে ডলে হাত দিয়ে ছালগুলো বের করে নিন। ছেঁকে ফেললে তেঁতুলের এই কাতটাই পাবেন না। ব্যাস, কড়ায় সরষের তেল গরম করে পাঁচফোড়ন, শুকনো লঙ্কা, একটু হলুদ আর তেঁতুলের জলটা দিয়েই সঙ্গে সঙ্গে ঢাকা দিন। না হলে এই ছুঁকটা লক হবে না। ফুট উঠলে খুলে স্বাদমতো চিনি, চিনিটা একটু বেশি, নুনটা একটু কম। দু মিনিট ফুটিয়ে ওই কাঁচা ইলিশের ডিমগুলো পাঁচ মিনিট ঢাকা দেবো। ডিমগুলো একা একাই নিজের শেপ হোল্ড করবে। আর টকটা যদি যদি বাসি করে খেতে চান তাহলে টকটা একটু বেশিই রাখবেন কারণ সময়ের সাথে সাথে ডিমগুলো টকটা অ্যাবজর্ব করতে থাকবে। ব্যাস, শেষ পাতে এরকম কাঁচা লঙ্কা ডলে টকটা মাখিয়ে টেল মি এর থেকে ভালো শেষ পাতের প্যালেট ক্লিনজার ইহজগতে আছে? কমেন্টে অবশ্যই জানান যদি নিরামিষ আমিষ আর কোন টকের রেসিপি চান। আজ আসি, আবার দেখা হবে।",
+    "transcript_en": "This is the best way to have Hilsa fish eggs. Look, I'm not saying that I don't like Hilsa fish eggs in a curry. But they enter that box and remain as side characters. Tell me, are the hilsa fish eggs so delicious? Doesn't every main character deserve a dish? It takes 10 minutes to make it by adding Hilsa fish eggs and souring the tamarind. At the end of the meal, if you take a bite of this raw chili, rubbed and crushed, your inner self will come out and tell you, brother, what have you fed me? First, the tamarind in hot water I will soak it, but don't drain it. Peel them like this, by hand. If you strain it, you won't get this part of the tamarind. That's it, heat mustard oil in a pan, add five-spice mix, dry chilies, a little turmeric, and tamarind water, and immediately cover it. Otherwise, this touch will not be locked. When the foot rises, open it and add sugar to taste. The sugar is a little more, the salt is a little less. Boil for two minutes and then cover the raw Hilsa fish eggs for five minutes. The eggs will hold their own shape. And if the sourness If you want to eat it stale, then keep the sourness a little more because with time the eggs will absorb the sourness. That's it, at the end of the meal, like this, grating green chilies and mixing the sourness, tell me, is there a better palette cleanser than this in this world? Please let me know in the comments if you want any vegetarian or non-vegetarian or any other kind of recipe. I'll see you later.",
     "timestamps": []
   },
   "shot_information": [
