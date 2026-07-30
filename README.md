@@ -1,5 +1,43 @@
 # Multimodal Video Retrieval-Augmented Generation (Video-RAG)
 
+## Nafis L3 Branch
+
+This branch contains Nafis's Layer 3 search engine and demo UI work directly at
+the repository root for easy review.
+
+Main L3 files:
+
+```text
+06_unified_query_engine.py
+app.py
+requirements_l3.txt
+assets/knowledge_graph.png
+```
+
+Organized copy:
+
+```text
+nafis_l3/
+```
+
+Run the L3 engine:
+
+```bash
+python 06_unified_query_engine.py --out output --backend template
+```
+
+Run the Streamlit demo:
+
+```bash
+streamlit run app.py -- --out output --l3-dir .
+```
+
+Knowledge graph preview:
+
+![Knowledge graph preview](assets/knowledge_graph.png)
+
+---
+
 This repository contains a Multimodal Video-RAG pipeline for Bengali recipe
 videos. The project converts cooking videos into structured multimodal data,
 builds retrieval indexes, and exposes a query layer that can answer user
@@ -62,6 +100,10 @@ Multimodal-Video-Retrieval-Augmented-Generation-Video-RAG-/
 │   └── output/
 │       └── README.md
 ├── 06_unified_query_engine.py
+├── app.py
+├── assets/
+│   └── knowledge_graph.png
+├── requirements_l3.txt
 ├── Text_RAG_Recipe_Extraction_Pipeline.ipynb
 ├── requirement.txt
 └── README.md

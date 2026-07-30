@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+sentence-transformers
+rank_bm25
+networkx
+transformers
+torch
+accelerate
+google-genai
