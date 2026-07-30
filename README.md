@@ -1,47 +1,41 @@
-#  Multimodal Video Retrieval-Augmented Generation (Video RAG)
+# Multimodal Video Retrieval-Augmented Generation (Video-RAG)
 
-A **Multimodal Video Retrieval-Augmented Generation (Video RAG)** pipeline for Bengali recipe videos. This repository focuses on building a structured multimodal dataset and implementing a **Hybrid Text Retrieval-Augmented Generation (Text RAG)** system that enables efficient semantic and keyword-based retrieval of recipe information from cooking videos.
+This repository contains a Multimodal Video-RAG pipeline for Bengali recipe
+videos. The project converts cooking videos into structured multimodal data,
+builds retrieval indexes, and exposes a query layer that can answer user
+questions using video metadata, transcripts, visual descriptions, lexical
+matches, vector search, and knowledge graph context.
 
----
+The system is organized as a layered pipeline:
 
-## Project Overview
+```text
+Layer 1: Video processing and structured dataset creation
+Layer 2: Chunking, embeddings, BM25 index, and vector database
+Layer 3: Unified search and reasoning engine
+Layer 4: Optional user interface or demo application
+```
 
-The project converts raw cooking videos into structured multimodal data by extracting video metadata, recipe information, audio transcripts, shot information, frame information, object detections, and visual descriptions.
+## Project Goal
 
-The extracted information is transformed into searchable text chunks, embedded into vector representations, indexed using BM25 and ChromaDB, and finally queried using a Hybrid Retrieval approach combining dense semantic search and sparse keyword search.
+The goal is to make short Bengali cooking videos searchable through natural
+language. Instead of manually opening each video or JSON file, a user can ask a
+query such as:
 
----
+```text
+show me a fish recipe with rawa
+which recipe uses coconut milk?
+how do I make yogurt chicken?
+```
 
-##  Features
+The system retrieves the most relevant recipe video and supporting context from
+the processed dataset.
 
-- Video Metadata Extraction
-- Shot Detection
-- Frame Extraction
-- OCR Extraction
-- Bengali → English Translation
-- Audio Extraction
-- Audio Transcription
-- Audio-Shot Alignment
-- Object Detection (YOLO)
-- Visual Description Generation
-- Recipe Information Generation
-- Chunk Generation
-- Dense Embedding Generation
-- BM25 Index Generation
-- ChromaDB Vector Database Creation
-- Hybrid Text Retrieval (Dense + Sparse)
-
----
-
-#  Repository Structure
+## Repository Structure
 
 ```text
 Multimodal-Video-Retrieval-Augmented-Generation-Video-RAG-/
-│
 ├── src/
-│   │
 │   ├── preprocessing/
-│   │   ├── .gitkeep
 │   │   ├── 01_video_loader.py
 │   │   ├── 02_shot_detector.py
 │   │   ├── 03_frame_extractor.py
@@ -56,253 +50,235 @@ Multimodal-Video-Retrieval-Augmented-Generation-Video-RAG-/
 │   │   ├── 12_chunk_generator.py
 │   │   ├── 13_dense_embedding.py
 │   │   ├── 14_bm25_index.py
-│   │   ├── 15_chroma_db.py
-│   │   └── __init__.py
-│   │
+│   │   └── 15_chroma_db.py
 │   └── retrieval/
-│       ├── 16_hybrid_retriever.py
-│       └── __init__.py
-│
+│       └── 16_hybrid_retriever.py
+├── nafis_l3/
+│   ├── 06_unified_query_engine.py
+│   ├── README.md
+│   ├── requirements_l3.txt
+│   ├── dataset/
+│   │   └── README.md
+│   └── output/
+│       └── README.md
+├── 06_unified_query_engine.py
 ├── Text_RAG_Recipe_Extraction_Pipeline.ipynb
 ├── requirement.txt
-└── .gitignore
+└── README.md
 ```
 
----
+## Layer 1: Dataset Creation
 
-#  Pipeline Workflow
+Layer 1 processes raw recipe videos and creates a structured dataset. Each video
+is converted into a master JSON record containing:
 
+```text
+video_info
+recipe_information
+audio_information
+shot_information
+frame_information
+object_detection
+visual_descriptions
 ```
-Video
-   │
-   ▼
-Video Loader
-   │
-   ▼
-Shot Detection
-   │
-   ▼
-Frame Extraction
-   │
-   ▼
-OCR Extraction
-   │
-   ▼
-Translation
-   │
-   ▼
-Audio Extraction
-   │
-   ▼
-Audio Transcription
-   │
-   ▼
-Audio-Shot Alignment
-   │
-   ▼
-Object Detection
-   │
-   ▼
-Visual Description Generation
-   │
-   ▼
-Recipe Information Generation
-   │
-   ▼
-Master JSON Creation
-   │
-   ▼
+
+This gives the project a consistent source of truth for retrieval and
+reasoning.
+
+## Layer 2: Indexing and Retrieval Preparation
+
+Layer 2 prepares the processed data for search. It creates text chunks,
+embeddings, lexical indexes, and vector database entries.
+
+Main steps:
+
+```text
 Chunk Generation
-   │
-   ▼
-Dense Embeddings
-   │
-   ▼
-BM25 Index
-   │
-   ▼
-ChromaDB
-   │
-   ▼
-Hybrid Text Retrieval
+Dense Embedding Generation
+BM25 Index Generation
+ChromaDB / FAISS Vector Storage
+Hybrid Retrieval
 ```
 
----
+Dense search is useful for semantic similarity. BM25 is useful for exact
+keyword matches such as dish names, ingredients, and cooking terms.
 
-# 📝 Execution Order
+## Layer 3: Unified Query Engine
 
-Run the scripts sequentially.
+The Layer 3 contribution is available in:
 
-| Step | Script | Purpose |
-|------|---------|---------|
-| 01 | `01_video_loader.py` | Extract video metadata |
-| 02 | `02_shot_detector.py` | Detect shots in the video |
-| 03 | `03_frame_extractor.py` | Extract representative frames |
-| 04 | `04_ocr_extractor.py` | Extract on-screen text |
-| 05 | `05_translator.py` | Translate OCR content |
-| 06 | `06_audio_extractor.py` | Extract audio from video |
-| 07 | `07_audio_transcriber.py` | Generate transcripts |
-| 08 | `08_audio_shot_aligner.py` | Align transcripts with shots |
-| 09 | `09_object_detector.py` | Detect objects using YOLO |
-| 10 | `10_visual_description.py` | Generate frame descriptions |
-| 11 | `11_recipe_information_generator.py` | Generate recipe metadata |
-| 12 | `12_chunk_generator.py` | Generate retrieval chunks |
-| 13 | `13_dense_embedding.py` | Create dense embeddings |
-| 14 | `14_bm25_index.py` | Build BM25 index |
-| 15 | `15_chroma_db.py` | Store embeddings in ChromaDB |
-| 16 | `16_hybrid_retriever.py` | Perform Hybrid Text Retrieval |
-
----
-
-#  Master JSON Structure
-
-Each processed video generates a structured Master JSON containing:
-
-- **video_info**
-- **recipe_information**
-- **audio_information**
-- **shot_information**
-- **frame_information**
-- **object_detection**
-- **visual_descriptions**
-
-This JSON acts as the immutable source for all downstream retrieval tasks.
-
----
-
-#  Chunk Types
-
-The chunk generation module produces three different chunk categories:
-
-### 1. Recipe Summary Chunk
-
-Contains:
-
-- Dish information
-- Cuisine
-- Ingredients
-- Recipe steps
-
----
-
-### 2. Shot Chunk
-
-Contains:
-
-- Shot ID
-- Timestamp
-- Audio transcript
-- Bengali & English text
-
----
-
-### 3. Frame Chunk
-
-Contains:
-
-- Frame ID
-- Timestamp
-- OCR text
-- Detected objects
-- Visual description
-
----
-
-#  Hybrid Text Retrieval
-
-The retrieval pipeline combines two complementary search methods:
-
-### Dense Retrieval
-
-- SentenceTransformers (`all-MiniLM-L6-v2`)
-- Embedding Generation
-- ChromaDB Vector Search
-- Distance-based Semantic Retrieval
-
-### Sparse Retrieval
-
-- BM25 Keyword Matching
-- Exact lexical search
-- Ingredient and recipe term matching
-
-### Hybrid Retrieval Logic
-
-```
-User Query
-      │
-      ▼
-Generate Query Embedding
-      │
-      ├────────► ChromaDB (Dense Retrieval)
-      │
-      └────────► BM25 (Sparse Retrieval)
-                    │
-                    ▼
-             Merge Results
-                    │
-           Remove Duplicates
-                    │
-             Rank Retrieved Chunks
-                    │
-                    ▼
-             Final Hybrid Results
+```text
+nafis_l3/06_unified_query_engine.py
 ```
 
----
+It is also present at the repository root as:
 
-#  Technologies Used
+```text
+06_unified_query_engine.py
+```
 
-| Category | Technology |
-|----------|------------|
-| Programming Language | Python |
-| Computer Vision | OpenCV |
-| Object Detection | YOLO |
+The L3 engine is responsible for taking a user query and returning a structured
+answer. It combines three retrieval channels:
+
+```text
+1. Vector search using FAISS
+2. Lexical keyword search using BM25
+3. Knowledge graph lookup using NetworkX
+```
+
+The main class is:
+
+```python
+VideoRAGEngine
+```
+
+The main public method is:
+
+```python
+answer(query, top_k)
+```
+
+The returned result includes:
+
+```text
+query
+answer
+answer_backend
+top_video_id
+top_timestamp
+top_score
+vector_hits
+bm25_hits
+kg_hits
+context_str
+```
+
+## L3 Expected Output Folder
+
+The unified query engine expects an output folder with this structure:
+
+```text
+output/
+├── Metadata/
+├── FAISS_Index/
+│   ├── video_rag.index
+│   └── chunks_metadata.json
+└── Knowledge_Graph/
+    └── video_rag_kg.graphml
+```
+
+If the FAISS index or knowledge graph is unavailable, the engine can still run
+with the remaining retrieval channels where possible.
+
+## Answer Backends
+
+The L3 engine supports three answer modes:
+
+```text
+template
+gemini
+qwen
+```
+
+`template` is the safest mode for demos because it does not require an API key,
+GPU, or model download.
+
+`gemini` uses the Google GenAI API and requires:
+
+```text
+GOOGLE_API_KEY
+```
+
+`qwen` uses a local Hugging Face model:
+
+```text
+Qwen/Qwen2.5-1.5B-Instruct
+```
+
+Qwen requires the `transformers`, `torch`, and `accelerate` packages.
+
+## Installation
+
+Install the base project dependencies:
+
+```bash
+pip install -r requirement.txt
+```
+
+For the L3 module specifically:
+
+```bash
+pip install -r nafis_l3/requirements_l3.txt
+```
+
+## Running the Existing Retrieval Module
+
+The existing hybrid retriever is located at:
+
+```text
+src/retrieval/16_hybrid_retriever.py
+```
+
+It uses ChromaDB for dense retrieval and BM25 for sparse retrieval.
+
+## Running the L3 Unified Query Engine
+
+From the repository root:
+
+```bash
+python nafis_l3/06_unified_query_engine.py --out output --backend template
+```
+
+Alternative backends:
+
+```bash
+python nafis_l3/06_unified_query_engine.py --out output --backend gemini
+python nafis_l3/06_unified_query_engine.py --out output --backend qwen
+```
+
+Recommended demo command:
+
+```bash
+python nafis_l3/06_unified_query_engine.py --out output --backend template
+```
+
+## Example Query
+
+Example:
+
+```text
+rawa
+```
+
+Expected relevant result:
+
+```text
+Goan Pomfret Rawa Fry
+```
+
+This works well with BM25 because the query term appears directly in the recipe
+title and metadata context.
+
+## Technologies Used
+
+| Area | Tools |
+| --- | --- |
+| Language | Python |
+| Video Processing | OpenCV, PySceneDetect |
 | OCR | EasyOCR |
-| Translation | Translator API |
-| Audio Processing | FFmpeg |
-| Speech Recognition | Sarvam AI |
-| LLM | Ollama (Gemma 3) |
+| Object Detection | Ultralytics YOLO |
+| Translation | deep-translator |
 | Embeddings | SentenceTransformers |
-| Dense Vector Store | ChromaDB |
-| Sparse Retrieval | BM25 |
-| Retrieval | Hybrid Dense + Sparse |
+| Sparse Retrieval | BM25 / rank-bm25 |
+| Vector Search | ChromaDB, FAISS |
+| Knowledge Graph | NetworkX |
+| Answer Generation | Template, Gemini, Qwen2.5 |
 
----
+## Notes
 
-#  Output
-
-The system generates:
-
-- Master JSON files
-- Recipe Summary Chunks
-- Shot Chunks
-- Frame Chunks
-- Dense Embeddings
-- BM25 Index
-- ChromaDB Vector Database
-- Hybrid Retrieval Results
-
----
-
-#  Notebook
-
-The repository also includes:
-
-```
-Text_RAG_Recipe_Extraction_Pipeline.ipynb
-```
-
-which demonstrates the complete Text RAG pipeline in a single notebook.
-
----
-
-#  Contributor
-
-**Debisha Paul**
-
-**Module:** Layer 2 – Hybrid Text Retrieval-Augmented Generation (Text RAG)
-
-**Internship Project:** Multimodal Video Retrieval-Augmented Generation (Video RAG)
-
----
-
+- Large raw videos, generated indexes, model files, and virtual environments
+  should not be committed unless required by the team.
+- The `nafis_l3/dataset/` and `nafis_l3/output/` folders are placeholders for
+  local testing structure.
+- The L3 engine is designed to be independent from the UI, so it can be tested
+  from the command line or imported by a Streamlit app.
