@@ -5,16 +5,6 @@ This is the ACTUAL L3 layer for the primary pipeline: a standalone,
 importable module that does retrieval (Vector/FAISS + Lexical/BM25 +
 Structural/Knowledge-Graph) and answer generation, independent of any UI.
 
-Why this file exists separately from 04_query_engine.py and app.py (L4):
-  - 04_query_engine.py only does FAISS vector search + generation — it's
-    the isi-t5 version of L3, kept for backward compatibility.
-  - The tri-channel logic (Vector+BM25+KG) that isi-t6-final introduced
-    was previously only living inline inside the L4 Streamlit app, which
-    breaks the layer separation — L4 should CALL L3, not contain it.
-  - This file is the single source of truth for tri-channel retrieval.
-    app.py (L4) imports VideoRAGEngine from here instead of reimplementing
-    the search functions itself, so L3 and L4 can't drift out of sync.
-
 Usage (library):
     engine = VideoRAGEngine(out_dir="my_output")
     result = engine.answer("How do I make doi katla?")
