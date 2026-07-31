@@ -20,7 +20,7 @@ The L3 engine accepts a user query and retrieves the most relevant video using:
 
 ## Sample recipe frame:
 
-![Chicken with marinade](assets/chickenWithMarinade.png)
+![Chicken with marinade](nafis_l3/assets/chickenWithMarinade.png)
 ## Expected Input Structure
 
 The engine expects an output folder containing:
