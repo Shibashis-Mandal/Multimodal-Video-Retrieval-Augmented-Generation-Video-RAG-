@@ -108,17 +108,17 @@ Home
        ├── Metadata Statistics
        └── Retrieval Performance
 ```
+# UI videos and screenshots
 
----
+>The below drive link contains all the videos and screenshots of UI
 
-# Installation
-
-```bash
-git clone <repository-url>
-cd Video-RAG
-
-pip install -r requirements.txt
 ```
+https://drive.google.com/drive/folders/1Ry8Ai1E_XgsrUggcl16483myRS4GJm5Z?usp=sharing
+
+```
+
+
+
 
 
 
