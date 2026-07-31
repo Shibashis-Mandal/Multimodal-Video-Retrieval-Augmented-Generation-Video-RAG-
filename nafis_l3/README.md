@@ -18,10 +18,9 @@ The L3 engine accepts a user query and retrieves the most relevant video using:
 - Knowledge graph lookup
 - Answer generation using template, Gemini, or Qwen2.5
 
-## Knowledge Graph Preview
+## Sample recipe frame:
 
-![Knowledge graph preview](assets/knowledge_graph.png)
-
+![Chicken with marinade](assets/chickenWithMarinade.png)
 ## Expected Input Structure
 
 The engine expects an output folder containing:
